@@ -47,12 +47,17 @@ SmartLLMs is a Python-based web application that extracts, cleans, and analyzes 
 SmartLLMs/
 ├── backend/
 │   ├── app.py                           # Flask web server and API endpoints
+│   ├── __pycache__/                     # Python cache files
+│   │   └── app.cpython-311.pyc
+│   ├── .DS_Store                        # macOS system file
+│   ├── .gitkeep                         # Git placeholder file
 │   └── transcript_extraction/
 │       ├── transcript_fetch.py          # YouTube transcript download and cleaning
 │       ├── decide_clip.py               # Main analysis script using Claude
 │       └── temporary_files/             # Storage for transcripts and segments
-│           ├── transcript_{video_id}.txt
-│           └── transcript_{video_id}_{prompt}_segments.json
+│           ├── transcript_rfG8ce4nNh0.txt
+│           ├── transcript_rfG8ce4nNh0_Matrix_Multiplicatio_segments.json
+│           └── transcript_AJxYCosjRH0_density_segments.json
 ├── frontend/                            # Next.js React frontend application
 │   ├── src/
 │   │   └── app/                         # Next.js App Router
@@ -60,8 +65,13 @@ SmartLLMs/
 │   │       ├── page.tsx                 # Main page component
 │   │       ├── globals.css              # Global styles
 │   │       ├── favicon.ico              # Site favicon
-│   │       ├── test/                    # Test-related components
-│   │       └── apit/                    # API-related components
+│   │       ├── test/                    # Test pages and components
+│   │       │   ├── page.tsx             # Test page with resizable panels
+│   │       │   ├── 2/                   # Test subdirectory
+│   │       │   └── 3/                   # Test subdirectory
+│   │       │       └── page copy.tsx    # Chat interface test component
+│   │       └── apit/                    # API route handlers
+│   │           └── route.js             # Streaming API endpoint
 │   ├── public/                          # Static assets
 │   │   ├── next.svg                     # Next.js logo
 │   │   ├── vercel.svg                   # Vercel logo
@@ -69,16 +79,21 @@ SmartLLMs/
 │   │   ├── file.svg                     # File icon
 │   │   └── globe.svg                    # Globe icon
 │   ├── package.json                     # Frontend dependencies and scripts
-│   ├── pnpm-lock.yaml                   # Package lock file
+│   ├── pnpm-lock.yaml                   # Package lock file (pnpm)
 │   ├── next.config.ts                   # Next.js configuration
 │   ├── tsconfig.json                    # TypeScript configuration
 │   ├── postcss.config.mjs               # PostCSS configuration
 │   ├── eslint.config.mjs                # ESLint configuration
 │   ├── .gitignore                       # Frontend git ignore rules
 │   └── README.md                        # Frontend documentation
-├── .env                                 # Environment variables (API keys)
-└── docs/
-    └── ARCHITECTURE.md                  # This documentation
+├── tests/                               # Test files and data
+│   └── data_science_test                # Data science test file
+├── docs/                                # Documentation
+│   ├── ARCHITECTURE.md                  # This comprehensive documentation
+│   └── .gitkeep                         # Git placeholder file
+├── decide_clip.py                       # Root-level OpenAI-based analysis script
+├── .gitignore                           # Root git ignore rules
+└── README.md                            # Project overview
 ```
 
 ## Data Flow
@@ -258,12 +273,54 @@ SmartLLMs/
 - Creates safe filenames based on video ID and prompt
 - Includes metadata in output file
 
+### 4. Root-Level Analysis Script (`decide_clip.py`)
+
+#### Key Functions:
+
+**`load_credentials() -> Dict`**
+- Loads OpenAI API key from environment variables
+- Uses different environment path structure
+
+**`analyze_transcript_with_prompt(transcript_content: str, user_prompt: str) -> List[Dict]`**
+- Uses OpenAI GPT-4 for analysis instead of Claude
+- Different prompt structure and response format
+- Includes segment length constraints (10 seconds minimum, 2 minutes maximum)
+
+**`save_segments(segments: List[Dict], transcript_path: str, user_prompt: str) -> str`**
+- Saves to different location structure
+- Uses transcript filename as base for segments file
+
+### 5. Frontend Components
+
+#### Key Files:
+
+**`frontend/src/app/page.tsx`**
+- Main application page
+- User interface for video analysis
+
+**`frontend/src/app/layout.tsx`**
+- Root layout component
+- Global styling and structure
+
+**`frontend/src/app/test/page.tsx`**
+- Test page with resizable panels
+- Uses Radix UI and React Resizable Panels
+
+**`frontend/src/app/test/3/page copy.tsx`**
+- Chat interface test component
+- Demonstrates message display and layout
+
+**`frontend/src/app/apit/route.js`**
+- Streaming API endpoint
+- Demonstrates server-side streaming functionality
+
 ## Dependencies
 
 ### Backend Python Packages
 - **Flask**: Web framework for API
 - **Flask-CORS**: Cross-origin resource sharing
 - **anthropic**: Anthropic Claude API client
+- **openai**: OpenAI API client (for root-level script)
 - **python-dotenv**: Environment variable management
 - **yt-dlp**: YouTube video downloader (external tool)
 
@@ -274,6 +331,7 @@ SmartLLMs/
 - **Tailwind CSS**: Utility-first CSS framework
 - **Radix UI**: Accessible React component library
 - **React Resizable Panels**: Resizable panel components
+- **pnpm**: Package manager (alternative to npm)
 
 ### Standard Library (Python)
 - **os**: File system operations
@@ -290,18 +348,27 @@ SmartLLMs/
 Create a `.env` file in the project root:
 ```env
 ANTHROPIC_API_KEY=your_anthropic_api_key_here
+OPENAI_API_KEY=your_openai_api_key_here
 ```
 
 ### File Storage
 - **Transcripts**: `backend/transcript_extraction/temporary_files/transcript_{video_id}.txt`
 - **Raw Transcripts**: `backend/transcript_extraction/temporary_files/raw_transcript_{video_id}.txt`
 - **Segments**: `backend/transcript_extraction/temporary_files/transcript_{video_id}_{prompt}_segments.json`
+- **Root Segments**: `temporary_files/{transcript_name}_{prompt}_segments.json`
 
 ### API Configuration
 - **Host**: `127.0.0.1` (localhost)
 - **Port**: `5000`
 - **Debug Mode**: Enabled for development
 - **CORS**: Enabled for frontend integration
+
+### Frontend Configuration
+- **Package Manager**: pnpm
+- **Framework**: Next.js 15.3.4
+- **React Version**: 19.0.0
+- **TypeScript**: Enabled
+- **Tailwind CSS**: v4
 
 ## Usage Examples
 
@@ -316,10 +383,21 @@ python app.py
 curl "http://127.0.0.1:5000/api/get/rfG8ce4nNh0?prompt=Area%20Function%20with%20Variable%20Upper%20Bound"
 ```
 
-### 3. Direct Script Usage
+### 3. Direct Script Usage (Backend)
 ```bash
 cd backend/transcript_extraction
 python decide_clip.py "https://www.youtube.com/watch?v=rfG8ce4nNh0" "Find segments about mathematical intuition"
+```
+
+### 4. Direct Script Usage (Root Level)
+```bash
+python decide_clip.py "temporary_files/transcript_rfG8ce4nNh0.txt" "Find segments about mathematical intuition"
+```
+
+### 5. Frontend Development
+```bash
+cd frontend
+pnpm dev
 ```
 
 ## Error Handling
@@ -328,8 +406,9 @@ python decide_clip.py "https://www.youtube.com/watch?v=rfG8ce4nNh0" "Find segmen
 1. **Missing API Key**: Check `.env` file and environment variables
 2. **Invalid YouTube URL**: Ensure video ID is correct and video is accessible
 3. **No Transcript Available**: Some videos may not have auto-generated subtitles
-4. **Claude API Errors**: Check API key validity and rate limits
+4. **Claude/OpenAI API Errors**: Check API key validity and rate limits
 5. **File System Errors**: Ensure write permissions in temporary_files directory
+6. **JSON Parsing Errors**: Handle malformed API responses
 
 ### Debug Information
 The system provides extensive debug logging:
@@ -343,10 +422,12 @@ The system provides extensive debug logging:
 ### Optimization Strategies
 1. **Caching**: Transcripts are saved locally to avoid re-downloading
 2. **Parallel Processing**: Future enhancement for multiple video analysis
-3. **Rate Limiting**: Respect Claude API rate limits
+3. **Rate Limiting**: Respect Claude/OpenAI API rate limits
 4. **File Cleanup**: Consider implementing automatic cleanup of old files
+5. **Streaming**: Frontend supports streaming responses
 
 ### Scalability
 - **Horizontal Scaling**: Multiple Flask instances behind a load balancer
 - **Database Integration**: Replace file-based storage with database
-- **Queue System**: Implement background job processing for long-running analyses 
+- **Queue System**: Implement background job processing for long-running analyses
+- **CDN**: Static assets served via CDN for frontend
