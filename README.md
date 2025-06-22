@@ -10,4 +10,6 @@ ClipStudy.ai lets you paste a YouTube lecture link and instantly jump to any con
 
 ## Getting Started
 
-More details to be added as the project develops. 
+- Run backend `cd backend & flask run -p 3001`
+- Run frontend `cd frontend & pnpm build & pnpm start`
+- Go to [localhost:3000](localhost:3000)
