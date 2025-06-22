@@ -150,4 +150,4 @@ def get_video_info(video_id):
         }), 500
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True, port=3001)

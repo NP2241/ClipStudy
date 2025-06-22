@@ -4,38 +4,38 @@
   "query": "area under the curve",
   "segments": [
     {
-      "start": "00:07:14,840",
+      "start": "00:07:40,000",
       "end": "00:08:03,260",
-      "title": "Area Under Curve Explanation",
-      "summary": "The segment explains how the area under a velocity-time curve represents the total distance traveled. It emphasizes how this seemingly complex idea of summing tiny rectangles approaches a simple concept of area under the curve.",
+      "title": "Area Under Curve Significance",
+      "summary": "The area under the velocity curve represents the precise distance traveled by the car. This surprising connection shows how complex approximations can be simplified to just finding the area under a curve.",
       "relevance_score": 5
     },
     {
-      "start": "00:16:46,440",
-      "end": "00:16:58,980",
-      "title": "Area Approximation Method",
-      "summary": "Explains how better approximations of the original problem correspond to collections of rectangles whose total area approaches the area under the curve. This represents the precise distance traveled for a varying velocity function.",
+      "start": "00:08:54,660",
+      "end": "00:09:22,940",
+      "title": "Area As Problem-Solving Tool",
+      "summary": "Finding the area under a graph is presented as a common language for many different problems that involve summing large numbers of small things. It's described as a general problem-solving tool with broad applications.",
       "relevance_score": 5
     },
     {
-      "start": "00:18:35,060",
-      "end": "00:18:54,980",
+      "start": "00:17:53,040",
+      "end": "00:18:44,980",
       "title": "Negative Area Concept",
-      "summary": "Discusses how areas below the horizontal axis are counted as negative in integrals. Explains that integrals measure signed area rather than just area between the graph and horizontal axis.",
+      "summary": "Explains how negative areas under the curve are handled when the velocity is negative. Areas below the horizontal axis are counted as negative in integral calculations.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:15:38,240",
+      "end": "00:16:15,140",
+      "title": "Fundamental Theorem Application",
+      "summary": "Describes how the integral accounts for all points on a continuum between bounds, yet can be computed by only looking at two points through antiderivatives. This is presented as a remarkable feature of the fundamental theorem of calculus.",
       "relevance_score": 4
     },
     {
       "start": "00:05:55,960",
-      "end": "00:06:21,280",
+      "end": "00:06:20,560",
       "title": "Area Under Graph Visualization",
-      "summary": "Explains how the area under a velocity graph between two time points represents the distance traveled during that period. Shows how this concept can be understood through rectangle approximations.",
-      "relevance_score": 4
-    },
-    {
-      "start": "00:02:42,780",
-      "end": "00:03:03,940",
-      "title": "Basic Area Concept",
-      "summary": "Introduces how distance can be visualized as area on a velocity-time graph, where the product of velocity and time naturally corresponds to meters traveled.",
+      "summary": "Shows how to visualize the area under the velocity graph using rectangles as approximations. The smaller the time intervals, the better the approximation becomes.",
       "relevance_score": 3
     }
   ],
