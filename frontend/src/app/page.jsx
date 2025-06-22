@@ -190,7 +190,7 @@ export default function Home() {
             
             <Separator size="4" />
 
-            {videos.filter(v => v.query.toLowerCase().includes(search.toLowerCase())).map(v => <Button key={crypto.randomUUID()} variant="soft" onClick={() => {
+            {videos.filter(v => v.query.toLowerCase().includes(search.toLowerCase())).map(v => <Button key={v.query + v.video_id} variant="soft" onClick={() => {
               setVideoRaw(v);
               setState({...state, findVideo: false});
               setSearch('');
@@ -220,7 +220,7 @@ export default function Home() {
                 </Button>
 
                 <Text mt="4">Videos</Text>
-                {videos.map(v => <Button key={crypto.randomUUID()} variant="soft" onClick={() => {
+                {videos.map(v => <Button key={v.query + v.video_id} variant="soft" onClick={() => {
                   setVideoRaw(v);
                 }}>{v.query}</Button>)}
               </Flex>
