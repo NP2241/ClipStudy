@@ -82,7 +82,26 @@ def get_segments(video_id):
         with open(segments_path, 'r', encoding='utf-8') as f:
             segments_data = json.load(f)
         print(f"[DEBUG] Successfully loaded segments data")
-        return jsonify(segments_data)
+        
+        # Read the full transcript
+        transcript_path = os.path.join(segments_dir, f'transcript_{video_id}.txt')
+        full_transcript = ""
+        if os.path.exists(transcript_path):
+            with open(transcript_path, 'r', encoding='utf-8') as f:
+                full_transcript = f.read()
+            print(f"[DEBUG] Successfully loaded full transcript")
+        else:
+            print(f"[DEBUG] Transcript file not found at: {transcript_path}")
+        
+        # Add transcript and other metadata to the response
+        response_data = {
+            "video_id": video_id,
+            "youtube_url": youtube_url,
+            "transcript": full_transcript,
+            **segments_data  # Include all the existing segments data
+        }
+        
+        return jsonify(response_data)
     except Exception as e:
         print(f"[DEBUG] Exception occurred: {str(e)}")
         return jsonify({
