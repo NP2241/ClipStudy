@@ -138,6 +138,9 @@ export default function Home() {
   function setVideo(newVideo) {
     setVideos([newVideo, ...videos]);
     setVideoRaw(newVideo);
+
+    // test
+    console.log([newVideo, ...video]);
   }
 
   useInterval(() => {
@@ -216,7 +219,8 @@ export default function Home() {
                 </NewVideoPopover>
                 <Button variant="soft" onClick={findVideo}>
                   <MagnifyingGlassIcon />
-                  Find video
+                  {/* Find video */}
+                  Search videos
                 </Button>
 
                 <Text mt="4">Videos</Text>
@@ -324,7 +328,9 @@ export default function Home() {
               <Box mt="100px" ml="50px">
                 <Heading>Your Personal Accelerated AI Video Tutor</Heading>
                 <Text>Increase effectiveness of video-based learning <br /></Text>
-                <Button mt="2">Try now</Button>
+                <NewVideoPopover setVideo={setVideo}>
+                  <Button mt="2">Try now</Button>
+                </NewVideoPopover>
               </Box>
               <Box mt="50px">
                 <Image alt="screenshot" src={screenshot} height={400} />

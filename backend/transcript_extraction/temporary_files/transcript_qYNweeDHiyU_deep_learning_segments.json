@@ -1,0 +1,29 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=qYNweeDHiyU",
+  "video_id": "qYNweeDHiyU",
+  "query": "deep learning",
+  "segments": [
+    {
+      "start": "00:04:52,150",
+      "end": "00:05:41,590",
+      "title": "Deep Learning Core Concepts",
+      "summary": "Deep learning uses neural networks to simulate how the human brain works through multiple layers. The neural networks can be unpredictable and sometimes produce results that are difficult to fully understand due to their complexity.",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:05:41,590",
+      "end": "00:05:55,070",
+      "title": "Deep Learning Timeline Context",
+      "summary": "Deep learning gained popularity during the 2010s and continues to serve as the foundation for modern AI developments.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:00:00,080",
+      "end": "00:00:21,509",
+      "title": "Deep Learning Initial Mention",
+      "summary": "Deep learning is introduced as one of three key concepts alongside AI and machine learning that will be discussed in the video.",
+      "relevance_score": 2
+    }
+  ],
+  "total_segments": 3
+}

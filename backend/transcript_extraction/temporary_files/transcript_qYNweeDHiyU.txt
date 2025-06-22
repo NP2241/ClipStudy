@@ -1,0 +1,644 @@
+00:00:00,080 --> 00:00:05,030
+everybody's talking about artificial intelligence these days AI machine
+
+00:00:05,030 --> 00:00:07,829
+intelligence these days AI machine learning is another Hot Topic are they
+
+00:00:07,829 --> 00:00:10,310
+learning is another Hot Topic are they the same thing or are they different and
+
+00:00:10,310 --> 00:00:12,990
+the same thing or are they different and if so what are those differences and
+
+00:00:12,990 --> 00:00:14,950
+if so what are those differences and deep learning is another one that comes
+
+00:00:14,950 --> 00:00:17,790
+deep learning is another one that comes into play I actually did a video on
+
+00:00:17,790 --> 00:00:19,550
+into play I actually did a video on these three artificial intelligence
+
+00:00:19,550 --> 00:00:21,509
+these three artificial intelligence machine learning and deep learning and
+
+00:00:21,509 --> 00:00:23,790
+machine learning and deep learning and talked about where they fit and there
+
+00:00:23,790 --> 00:00:25,429
+talked about where they fit and there were a lot of comments on that and I
+
+00:00:25,429 --> 00:00:26,870
+were a lot of comments on that and I read those comments and I'd like to
+
+00:00:26,870 --> 00:00:28,470
+read those comments and I'd like to address some of the most frequently
+
+00:00:28,470 --> 00:00:30,589
+address some of the most frequently asked questions so that we clear up some
+
+00:00:30,589 --> 00:00:32,470
+asked questions so that we clear up some of the myths and misconceptions around
+
+00:00:32,470 --> 00:00:37,069
+this in addition something else has happened since that video was recorded
+
+00:00:37,069 --> 00:00:40,350
+happened since that video was recorded and that is this the absolute explosion
+
+00:00:40,350 --> 00:00:43,910
+and that is this the absolute explosion of this area of generative AI things
+
+00:00:43,910 --> 00:00:47,430
+of this area of generative AI things like large language models and chat Bots
+
+00:00:47,430 --> 00:00:49,510
+like large language models and chat Bots have seemed to be taking over the world
+
+00:00:49,510 --> 00:00:51,750
+have seemed to be taking over the world we see them everywhere really
+
+00:00:51,750 --> 00:00:54,630
+we see them everywhere really interesting technology uh and then also
+
+00:00:54,630 --> 00:00:57,150
+interesting technology uh and then also things like deep fakes these are all
+
+00:00:57,150 --> 00:01:00,029
+things like deep fakes these are all within the realm of AI but how do they
+
+00:01:00,029 --> 00:01:02,349
+within the realm of AI but how do they fit within each other how are they
+
+00:01:02,349 --> 00:01:04,109
+fit within each other how are they related to each other we're going to
+
+00:01:04,109 --> 00:01:06,030
+related to each other we're going to take a look at that in this video and
+
+00:01:06,030 --> 00:01:07,590
+take a look at that in this video and try to explain how all these
+
+00:01:07,590 --> 00:01:10,550
+try to explain how all these Technologies relate and how we can use
+
+00:01:10,550 --> 00:01:14,310
+them first off a little bit of a disclaimer I'm going to have to simplify
+
+00:01:14,310 --> 00:01:16,469
+disclaimer I'm going to have to simplify some of these Concepts in order to not
+
+00:01:16,469 --> 00:01:19,670
+some of these Concepts in order to not make this video last for a week so those
+
+00:01:19,670 --> 00:01:21,350
+make this video last for a week so those of you that are really deep experts in
+
+00:01:21,350 --> 00:01:24,230
+of you that are really deep experts in the field apologies in advance but we're
+
+00:01:24,230 --> 00:01:26,149
+the field apologies in advance but we're going to try to make this simple and and
+
+00:01:26,149 --> 00:01:28,149
+going to try to make this simple and and that will involve some generalizations
+
+00:01:28,149 --> 00:01:30,469
+that will involve some generalizations first of all let's start with AI
+
+00:01:30,469 --> 00:01:33,270
+first of all let's start with AI artificial intelligence is basically
+
+00:01:33,270 --> 00:01:36,230
+artificial intelligence is basically trying to simulate with a computer
+
+00:01:36,230 --> 00:01:39,469
+trying to simulate with a computer something that would match or exceed
+
+00:01:39,469 --> 00:01:42,230
+something that would match or exceed human intelligence what is intelligence
+
+00:01:42,230 --> 00:01:43,469
+human intelligence what is intelligence well it could be a lot of different
+
+00:01:43,469 --> 00:01:45,149
+well it could be a lot of different things but generally we tend to think of
+
+00:01:45,149 --> 00:01:48,230
+things but generally we tend to think of it as the ability to learn to infer and
+
+00:01:48,230 --> 00:01:50,550
+it as the ability to learn to infer and to reason things like that so that's
+
+00:01:50,550 --> 00:01:52,270
+to reason things like that so that's what we're trying to do in the broad
+
+00:01:52,270 --> 00:01:56,029
+what we're trying to do in the broad field of AI of artificial intelligence
+
+00:01:56,029 --> 00:01:58,590
+field of AI of artificial intelligence and if we look at a timeline of AI it
+
+00:01:58,590 --> 00:02:00,149
+and if we look at a timeline of AI it really kind of started back around on
+
+00:02:00,149 --> 00:02:05,550
+this time frame and in those days it was very premature most people had not even
+
+00:02:05,550 --> 00:02:11,229
+heard of it uh and uh it basically was a research project but I can tell you uh
+
+00:02:11,229 --> 00:02:13,630
+research project but I can tell you uh as an undergrad which for me was back
+
+00:02:13,630 --> 00:02:16,509
+as an undergrad which for me was back during these times uh we were doing AI
+
+00:02:16,509 --> 00:02:19,070
+during these times uh we were doing AI work in fact we would use programming
+
+00:02:19,070 --> 00:02:23,229
+work in fact we would use programming languages like lisp uh or prologue uh
+
+00:02:23,229 --> 00:02:25,550
+languages like lisp uh or prologue uh and these kinds of things uh were kind
+
+00:02:25,550 --> 00:02:28,509
+and these kinds of things uh were kind of the predecessors to what became later
+
+00:02:28,509 --> 00:02:31,910
+of the predecessors to what became later expert systems and this was a technology
+
+00:02:31,910 --> 00:02:33,509
+expert systems and this was a technology again some of these things existed
+
+00:02:33,509 --> 00:02:35,630
+again some of these things existed previous but that's when it really uh
+
+00:02:35,630 --> 00:02:37,630
+previous but that's when it really uh hit kind of a critical mass and became
+
+00:02:37,630 --> 00:02:40,509
+hit kind of a critical mass and became more popularized so expert systems of
+
+00:02:40,509 --> 00:02:43,430
+more popularized so expert systems of the 1980s maybe in the 90s and and again
+
+00:02:43,430 --> 00:02:45,790
+the 1980s maybe in the 90s and and again we use Technologies like this all of
+
+00:02:45,790 --> 00:02:49,270
+we use Technologies like this all of this uh was was something that we did
+
+00:02:49,270 --> 00:02:51,430
+this uh was was something that we did before we ever touched in to the next
+
+00:02:51,430 --> 00:02:53,470
+before we ever touched in to the next topic I'm going to talk about and that's
+
+00:02:53,470 --> 00:02:56,630
+topic I'm going to talk about and that's the area of machine learning machine
+
+00:02:56,630 --> 00:03:01,149
+learning is as its name implies the machine is learning I don't have to
+
+00:03:01,149 --> 00:03:03,229
+machine is learning I don't have to program it I give it lots of information
+
+00:03:03,229 --> 00:03:05,550
+program it I give it lots of information and and it observes things so for
+
+00:03:05,550 --> 00:03:08,070
+and and it observes things so for instance if I start doing this if I give
+
+00:03:08,070 --> 00:03:10,390
+instance if I start doing this if I give you this and then ask you to predict
+
+00:03:10,390 --> 00:03:11,789
+you this and then ask you to predict what's the next thing that's going to be
+
+00:03:11,789 --> 00:03:13,550
+what's the next thing that's going to be there well you might get it you might
+
+00:03:13,550 --> 00:03:17,990
+not you have very limited training data to base this on but if I gave you one of
+
+00:03:17,990 --> 00:03:20,070
+to base this on but if I gave you one of those and then ask you what to predict
+
+00:03:20,070 --> 00:03:21,830
+those and then ask you what to predict would happen next well you're probably
+
+00:03:21,830 --> 00:03:23,470
+would happen next well you're probably going to say this and then you're going
+
+00:03:23,470 --> 00:03:25,030
+going to say this and then you're going to say it's this and then you think you
+
+00:03:25,030 --> 00:03:26,949
+to say it's this and then you think you got it all figured out and then you see
+
+00:03:26,949 --> 00:03:29,110
+got it all figured out and then you see one of these and then all of a sudden I
+
+00:03:29,110 --> 00:03:34,110
+give you one of those and throw you a curveball so this in fact and then maybe
+
+00:03:34,110 --> 00:03:36,789
+curveball so this in fact and then maybe it it goes on like this so a machine
+
+00:03:36,789 --> 00:03:38,470
+it it goes on like this so a machine learning algorithm is really good at
+
+00:03:38,470 --> 00:03:40,429
+learning algorithm is really good at looking at patterns and discovering
+
+00:03:40,429 --> 00:03:42,789
+looking at patterns and discovering patterns within data the more training
+
+00:03:42,789 --> 00:03:45,429
+patterns within data the more training data you can give it the more confident
+
+00:03:45,429 --> 00:03:48,149
+data you can give it the more confident it can be in predicting so predictions
+
+00:03:48,149 --> 00:03:49,390
+it can be in predicting so predictions are one of the things that machine
+
+00:03:49,390 --> 00:03:51,630
+are one of the things that machine learning is is particularly good at
+
+00:03:51,630 --> 00:03:54,309
+learning is is particularly good at another thing is spotting outliers like
+
+00:03:54,309 --> 00:03:57,229
+another thing is spotting outliers like this and saying oh that doesn't belong
+
+00:03:57,229 --> 00:03:59,149
+this and saying oh that doesn't belong in it looks different than all the other
+
+00:03:59,149 --> 00:04:01,830
+in it looks different than all the other stuff because the sequence was broken so
+
+00:04:01,830 --> 00:04:04,069
+stuff because the sequence was broken so that's particularly useful in cyber
+
+00:04:04,069 --> 00:04:06,350
+that's particularly useful in cyber security the area that I work in because
+
+00:04:06,350 --> 00:04:08,030
+security the area that I work in because we're looking for outliers we're looking
+
+00:04:08,030 --> 00:04:09,949
+we're looking for outliers we're looking for users who are using the system in
+
+00:04:09,949 --> 00:04:11,789
+for users who are using the system in ways that they shouldn't be or ways that
+
+00:04:11,789 --> 00:04:17,949
+technology machine learning is particularly useful for us and machine
+
+00:04:17,949 --> 00:04:20,670
+particularly useful for us and machine learning really came along uh and became
+
+00:04:20,670 --> 00:04:24,310
+learning really came along uh and became more popularized uh in this time frame
+
+00:04:24,310 --> 00:04:27,670
+more popularized uh in this time frame uh in the the 2010s uh and again uh back
+
+00:04:27,670 --> 00:04:29,710
+uh in the the 2010s uh and again uh back when I was an undergrad riding my
+
+00:04:29,710 --> 00:04:35,110
+dinosaur to class we were doing this kind of stuff we never once talked about
+
+00:04:35,110 --> 00:04:36,909
+kind of stuff we never once talked about machine learning it might have existed
+
+00:04:36,909 --> 00:04:52,150
+basis of a lot we do going forward the next layer of our Vin diagram involves
+
+00:04:52,150 --> 00:04:54,950
+next layer of our Vin diagram involves deep learning well it's deep learning in
+
+00:04:54,950 --> 00:04:58,150
+deep learning well it's deep learning in the sense that with deep learning we use
+
+00:04:58,150 --> 00:05:00,310
+the sense that with deep learning we use these things called neural networks
+
+00:05:00,310 --> 00:05:04,950
+neural networks are ways that in a computer we simulate and mimic the way
+
+00:05:04,950 --> 00:05:08,310
+the human brain works at least to the extent that we understand how the brain
+
+00:05:08,310 --> 00:05:10,189
+extent that we understand how the brain works and it's called Deep because we
+
+00:05:10,189 --> 00:05:12,270
+works and it's called Deep because we have multiple layers of those neural
+
+00:05:12,270 --> 00:05:14,590
+have multiple layers of those neural networks and the interesting thing about
+
+00:05:14,590 --> 00:05:20,070
+these is they will simulate the way a brain operates but I don't know if
+
+00:05:20,070 --> 00:05:24,230
+you've noticed but human brains can be a little bit unpredictable you put certain
+
+00:05:24,230 --> 00:05:26,029
+little bit unpredictable you put certain things in you don't always get the very
+
+00:05:26,029 --> 00:05:30,710
+same thing out and deep learning is the same way in some cases we're not
+
+00:05:30,710 --> 00:05:32,749
+same way in some cases we're not actually able to fully understand why we
+
+00:05:32,749 --> 00:05:35,230
+actually able to fully understand why we get the results we do uh because there
+
+00:05:35,230 --> 00:05:37,270
+get the results we do uh because there are so many layers to the neural network
+
+00:05:37,270 --> 00:05:39,550
+are so many layers to the neural network it's a little bit hard to to decompose
+
+00:05:39,550 --> 00:05:41,590
+it's a little bit hard to to decompose and figure out exactly what's in there
+
+00:05:41,590 --> 00:05:43,550
+and figure out exactly what's in there but this has become a very important
+
+00:05:43,550 --> 00:05:45,909
+but this has become a very important part and a very important advancement
+
+00:05:45,909 --> 00:05:49,110
+part and a very important advancement that also reached some popularity during
+
+00:05:49,110 --> 00:05:52,270
+that also reached some popularity during the 2010s and as something that we use
+
+00:05:52,270 --> 00:05:55,070
+the 2010s and as something that we use still today as the basis for our next
+
+00:05:55,070 --> 00:05:58,150
+still today as the basis for our next area of AI the most recent advancements
+
+00:05:58,150 --> 00:05:59,670
+area of AI the most recent advancements in the field of artificial in
+
+00:05:59,670 --> 00:06:05,189
+intelligence all really are in this space the area of generative AI now I'm
+
+00:06:05,189 --> 00:06:06,550
+space the area of generative AI now I'm going to introduce a term that you may
+
+00:06:06,550 --> 00:06:08,469
+going to introduce a term that you may not be familiar with it's the idea of
+
+00:06:08,469 --> 00:06:13,710
+foundation models Foundation models is where we get some of these kinds of
+
+00:06:13,710 --> 00:06:17,790
+things for instance an example of a foundation model would be a large
+
+00:06:17,790 --> 00:06:20,749
+foundation model would be a large language model which is where we take
+
+00:06:20,749 --> 00:06:23,189
+language model which is where we take language and we model it and we make
+
+00:06:23,189 --> 00:06:25,990
+language and we model it and we make predictions in this technology where if
+
+00:06:25,990 --> 00:06:28,629
+predictions in this technology where if I see certain types of of words then I
+
+00:06:28,629 --> 00:06:30,390
+I see certain types of of words then I can sort of predict what the next set of
+
+00:06:30,390 --> 00:06:32,909
+can sort of predict what the next set of words will be I'm going to oversimplify
+
+00:06:32,909 --> 00:06:34,870
+words will be I'm going to oversimplify here for the sake of Simplicity but
+
+00:06:34,870 --> 00:06:36,790
+here for the sake of Simplicity but think about this as a little bit like
+
+00:06:36,790 --> 00:06:39,189
+think about this as a little bit like the autoc complete when you start typing
+
+00:06:39,189 --> 00:06:41,309
+the autoc complete when you start typing something in and then it predicts what
+
+00:06:41,309 --> 00:06:45,150
+your next word will be except in this case with large language models they're
+
+00:06:45,150 --> 00:06:47,070
+case with large language models they're not predicting the next word they're
+
+00:06:47,070 --> 00:06:49,430
+not predicting the next word they're predicting the next sentence the next
+
+00:06:49,430 --> 00:06:52,230
+predicting the next sentence the next paragraph the next entire document so
+
+00:06:52,230 --> 00:06:54,589
+paragraph the next entire document so there's a really an amazing exponential
+
+00:06:54,589 --> 00:06:57,029
+there's a really an amazing exponential leap in what these things are able to do
+
+00:06:57,029 --> 00:07:00,710
+leap in what these things are able to do and we call all of these Technologies
+
+00:07:00,710 --> 00:07:03,550
+and we call all of these Technologies generative because they are generating
+
+00:07:03,550 --> 00:07:06,070
+generative because they are generating new content um some people have actually
+
+00:07:06,070 --> 00:07:08,749
+new content um some people have actually made the argument that the generative AI
+
+00:07:08,749 --> 00:07:10,670
+made the argument that the generative AI isn't really generative that that these
+
+00:07:10,670 --> 00:07:11,749
+isn't really generative that that these Technologies are really just
+
+00:07:11,749 --> 00:07:14,110
+Technologies are really just regurgitating existing information and
+
+00:07:14,110 --> 00:07:16,270
+regurgitating existing information and putting it in different format well let
+
+00:07:16,270 --> 00:07:18,909
+putting it in different format well let me give you an analogy um if you take
+
+00:07:18,909 --> 00:07:25,189
+music for instance then every note has already been invented so in a sense
+
+00:07:25,189 --> 00:07:28,029
+already been invented so in a sense every song is just a recombination some
+
+00:07:28,029 --> 00:07:30,309
+every song is just a recombination some other permutation of all the notes that
+
+00:07:30,309 --> 00:07:32,350
+other permutation of all the notes that already exist already and just putting
+
+00:07:32,350 --> 00:07:34,950
+already exist already and just putting them in a different order well we don't
+
+00:07:34,950 --> 00:07:37,749
+them in a different order well we don't say new new music doesn't exist people
+
+00:07:37,749 --> 00:07:39,510
+say new new music doesn't exist people are still composing and creating new
+
+00:07:39,510 --> 00:07:43,029
+are still composing and creating new songs from the existing information I'm
+
+00:07:43,029 --> 00:07:45,589
+songs from the existing information I'm going to say geni is similar it's a it's
+
+00:07:45,589 --> 00:07:47,149
+going to say geni is similar it's a it's an analogy so there'll be some
+
+00:07:47,149 --> 00:07:51,710
+imperfections in it but you get the general idea actually new content can be
+
+00:07:51,710 --> 00:07:57,990
+lot of different forms that this can take with other types of models are uh
+
+00:07:57,990 --> 00:08:00,110
+take with other types of models are uh Audio models
+
+00:08:00,110 --> 00:08:02,990
+Audio models uh video models and things like that
+
+00:08:02,990 --> 00:08:06,550
+uh video models and things like that well in fact these we can use to create
+
+00:08:06,550 --> 00:08:10,670
+well in fact these we can use to create deep fakes and deep fakes are examples
+
+00:08:10,670 --> 00:08:15,550
+where we're able to take for instance a person's voice and recreate that and
+
+00:08:15,550 --> 00:08:17,510
+person's voice and recreate that and then have it seem like the person said
+
+00:08:17,510 --> 00:08:19,430
+then have it seem like the person said things they never said well it's really
+
+00:08:19,430 --> 00:08:22,309
+things they never said well it's really useful in entertainment situations uh in
+
+00:08:22,309 --> 00:08:24,510
+useful in entertainment situations uh in parities and things like that uh or if
+
+00:08:24,510 --> 00:08:26,149
+parities and things like that uh or if someone's losing their voice then you
+
+00:08:26,149 --> 00:08:27,710
+someone's losing their voice then you could capture their voice and then
+
+00:08:27,710 --> 00:08:29,070
+could capture their voice and then they'd be able to type and you'd be able
+
+00:08:29,070 --> 00:08:31,230
+they'd be able to type and you'd be able to hear it in their voice but there's
+
+00:08:31,230 --> 00:08:32,949
+to hear it in their voice but there's also a lot of cases where this stuff
+
+00:08:32,949 --> 00:08:36,589
+also a lot of cases where this stuff could be abused um the chat Bots again
+
+00:08:36,589 --> 00:08:40,190
+could be abused um the chat Bots again come from this space the Deep fakes come
+
+00:08:40,190 --> 00:08:42,509
+come from this space the Deep fakes come from this space but they're all part of
+
+00:08:42,509 --> 00:08:44,870
+from this space but they're all part of generative Ai and all part of these
+
+00:08:44,870 --> 00:08:50,790
+Foundation models and this again is the area that has really caused all of us to
+
+00:08:50,790 --> 00:08:55,509
+really pay attention to AI the possibilities of generating new content
+
+00:08:55,509 --> 00:08:57,790
+possibilities of generating new content or in some cases summarizing existing
+
+00:08:57,790 --> 00:09:00,269
+or in some cases summarizing existing content and giving us uh something that
+
+00:09:00,269 --> 00:09:03,150
+content and giving us uh something that is bite-size and manageable this is what
+
+00:09:03,150 --> 00:09:07,030
+has gotten all of the attention this is where the chat Bots and all of these
+
+00:09:07,030 --> 00:09:10,350
+where the chat Bots and all of these things come in in the early days ai's
+
+00:09:10,350 --> 00:09:13,069
+things come in in the early days ai's adoption started off pretty slowly most
+
+00:09:13,069 --> 00:09:14,590
+adoption started off pretty slowly most people didn't even know it existed and
+
+00:09:14,590 --> 00:09:15,910
+people didn't even know it existed and if they did it was something that always
+
+00:09:15,910 --> 00:09:17,590
+if they did it was something that always seemed like it was about 5 to 10 years
+
+00:09:17,590 --> 00:09:20,269
+seemed like it was about 5 to 10 years away but then machine learning deep
+
+00:09:20,269 --> 00:09:21,990
+away but then machine learning deep learning and things like that came along
+
+00:09:21,990 --> 00:09:24,790
+learning and things like that came along and we started seeing some uptake then
+
+00:09:24,790 --> 00:09:27,269
+and we started seeing some uptake then Foundation models gen Ai and the light
+
+00:09:27,269 --> 00:09:28,870
+Foundation models gen Ai and the light came along and this stuff went straight
+
+00:09:28,870 --> 00:09:29,910
+came along and this stuff went straight to the Moon
+
+00:09:29,910 --> 00:09:34,590
+these Foundation models are what have changed the adoption curve and now you
+
+00:09:34,590 --> 00:09:42,550
+thing for us to understand is where this is where it fits in and make sure that
+
+00:09:42,550 --> 00:09:44,430
+is where it fits in and make sure that we can reap the benefits from all of
+
+00:09:44,430 --> 00:09:47,389
+this technology if you like this video and
+
+00:09:47,389 --> 00:09:49,430
+technology if you like this video and want to see more like it please like And
+
+00:09:49,430 --> 00:09:51,590
+want to see more like it please like And subscribe if you have any questions or
+
+00:09:51,590 --> 00:09:57,640
+want to share your thoughts about this topic please leave a comment below
