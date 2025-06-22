@@ -145,8 +145,32 @@ def clean_transcript(transcript_content: str) -> str:
         str: The cleaned transcript content
     """
     subs = parse_srt(transcript_content)
-    cleaned_subs = remove_and_merge(subs)
-    return format_srt(cleaned_subs)
+    cleaned = []
+    prev_text = ""
+    for sub in subs:
+        if sub["text"].startswith(prev_text):
+            new_text = sub["text"][len(prev_text):].strip()
+        else:
+            new_text = sub["text"]
+        if not new_text:
+            continue
+        if cleaned and new_text == cleaned[-1]["text"]:
+            cleaned[-1]["end"] = sub["end"]
+        else:
+            cleaned.append({
+                "index": 0,
+                "start": sub["start"],
+                "end": sub["end"],
+                "text": new_text
+            })
+        prev_text = sub["text"]
+    for i, sub in enumerate(cleaned, 1):
+        sub["index"] = i
+    srt_blocks = []
+    for sub in cleaned:
+        block = f"{sub['index']}\n{sub['start']} --> {sub['end']}\n{sub['text']}\n"
+        srt_blocks.append(block)
+    return "\n".join(srt_blocks)
 
 def fetch_transcript(video_url: str, output_dir: Optional[str] = None) -> str:
     """
@@ -167,16 +191,12 @@ def fetch_transcript(video_url: str, output_dir: Optional[str] = None) -> str:
     
     # Extract video ID and create filenames
     video_id = extract_video_id(video_url)
-    final_transcript_path = os.path.join(output_dir, "transcript.srt")
     output_file = os.path.join(output_dir, f"transcript_{video_id}.txt")
     
-    # Check if output file exists and remove it
-    if os.path.exists(output_file):
-        os.remove(output_file)
-    
-    # Remove existing transcript if it exists
-    if os.path.exists(final_transcript_path):
-        os.remove(final_transcript_path)
+    # Remove any existing .srt or .txt files for this video
+    for f in os.listdir(output_dir):
+        if f.startswith('transcript') and (f.endswith('.srt') or f.endswith('.txt')):
+            os.remove(os.path.join(output_dir, f))
     
     try:
         # Construct the yt-dlp command
@@ -186,52 +206,35 @@ def fetch_transcript(video_url: str, output_dir: Optional[str] = None) -> str:
             '--sub-lang', 'en',
             '--skip-download',
             '--convert-subs', 'srt',
-            '--cookies-from-browser', 'chrome',  # Use Chrome cookies
-            '--no-warnings',  # Suppress warnings
+            '--no-warnings',
             '-o', os.path.join(output_dir, 'transcript'),
             video_url
         ]
         
         # Run the command
-        result = subprocess.run(command, check=True, capture_output=True, text=True)
+        subprocess.run(command, check=True, capture_output=True, text=True)
         
-        # Check for the transcript file with the correct extension
-        if os.path.exists(final_transcript_path):
-            # Read the transcript content
-            with open(final_transcript_path, 'r', encoding='utf-8') as f:
-                transcript_content = f.read()
-            
-            # Clean the transcript
-            cleaned_content = clean_transcript(transcript_content)
-            
-            # Save to transcript_{video_id}.txt
-            with open(output_file, 'w', encoding='utf-8') as f:
-                f.write(cleaned_content)
-            
-            # Clean up the srt file
-            os.remove(final_transcript_path)
-            
-            return cleaned_content
-        else:
-            # Try to find the transcript file with a different extension
-            transcript_files = [f for f in os.listdir(output_dir) if f.startswith('transcript') and f.endswith('.srt')]
-            if transcript_files:
-                transcript_path = os.path.join(output_dir, transcript_files[0])
-                with open(transcript_path, 'r', encoding='utf-8') as f:
-                    transcript_content = f.read()
-                
-                # Clean the transcript
-                cleaned_content = clean_transcript(transcript_content)
-                
-                # Save to transcript_{video_id}.txt
-                with open(output_file, 'w', encoding='utf-8') as f:
-                    f.write(cleaned_content)
-                
-                os.remove(transcript_path)
-                return cleaned_content
-            else:
-                raise FileNotFoundError(f"Transcript file not found in {output_dir}")
-            
+        # Find any .srt file (including transcript.en.srt)
+        srt_files = [f for f in os.listdir(output_dir) if f.startswith('transcript') and f.endswith('.srt')]
+        if not srt_files:
+            raise FileNotFoundError(f"No .srt transcript file found in {output_dir}")
+        # Use the first .srt file found
+        srt_path = os.path.join(output_dir, srt_files[0])
+        with open(srt_path, 'r', encoding='utf-8') as f:
+            transcript_content = f.read()
+        
+        # Clean the transcript
+        cleaned_content = clean_transcript(transcript_content)
+        
+        # Save to transcript_{video_id}.txt
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write(cleaned_content)
+        
+        # Remove all .srt files after processing
+        for f in srt_files:
+            os.remove(os.path.join(output_dir, f))
+        
+        return cleaned_content
     except subprocess.CalledProcessError as e:
         raise Exception(f"Failed to download transcript: {e.stderr}")
     except Exception as e:
