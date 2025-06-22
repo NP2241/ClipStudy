@@ -256,3 +256,6 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Error: {str(e)}")
         sys.exit(1) 
+
+# EXAMPLE USE ----------------------------------------------------------------
+python analyze_playlist.py "https://www.youtube.com/playlist?list=PLbUZQMMLnhfUXYPfDOZQ4dyydZO1zHNZh" "area under curve rotating about y-axis"
