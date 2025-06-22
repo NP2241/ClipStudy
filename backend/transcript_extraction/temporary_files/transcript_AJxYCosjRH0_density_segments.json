@@ -4,38 +4,38 @@
   "query": "density",
   "segments": [
     {
-      "start": "00:02:49,830",
-      "end": "00:03:51,190",
-      "title": "Explaining Density Concept",
-      "summary": "Density is explained as mass per unit volume, with examples like water (1g/cm\u00b3) and iron (7.8g/cm\u00b3). The segment discusses how density represents how packed or crowded matter is in a given space.",
+      "start": "00:02:44,470",
+      "end": "00:03:07,950",
+      "title": "Definition of Density",
+      "summary": "Explains density as the ratio of mass to volume, measured in kg/m\u00b3 or g/cm\u00b3. Uses examples of water (1 g/cm\u00b3) and iron (7.8 g/cm\u00b3) to illustrate density measurements.",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:04:45,390",
+      "end": "00:05:09,550",
+      "title": "Air Density Variation",
+      "summary": "Discusses how air density varies with altitude, from 0.1 g/cm\u00b3 at surface level to 0.004 g/cm\u00b3 at 10km altitude. Explains how atmospheric pressure affects air density.",
       "relevance_score": 5
     },
     {
       "start": "00:08:16,390",
-      "end": "00:08:52,750",
+      "end": "00:08:40,790",
       "title": "Density and Floating",
-      "summary": "Explains how objects with lower density float while those with higher density sink. Uses examples of oil floating on water and iron bolt sinking in water.",
-      "relevance_score": 5
+      "summary": "Explains how objects with lower density float while those with higher density sink. Uses examples of oil floating on water and iron sinking in water.",
+      "relevance_score": 4
     },
     {
       "start": "00:10:20,990",
-      "end": "00:11:19,190",
-      "title": "Water Density Properties",
-      "summary": "Details how water's density changes with temperature, reaching maximum density at 4\u00b0C. Explains why ice has lower density than water due to molecular structure creating gaps.",
+      "end": "00:10:45,790",
+      "title": "Water Density Temperature Relationship",
+      "summary": "Describes how water density changes with temperature, reaching maximum density at 4\u00b0C. Explains the unusual behavior of water density below 4\u00b0C.",
       "relevance_score": 4
     },
     {
-      "start": "00:03:51,190",
-      "end": "00:04:57,150",
-      "title": "Air Density Variation",
-      "summary": "Describes how air density varies with altitude, being higher near Earth's surface and lower at higher altitudes due to atmospheric pressure differences.",
-      "relevance_score": 4
-    },
-    {
-      "start": "00:09:11,790",
-      "end": "00:10:02,910",
-      "title": "Earth's Density Layers",
-      "summary": "Explains how Earth's structure formed based on density differences, with heavier metals sinking to form the core and lighter silicates floating to form the crust.",
+      "start": "00:11:41,829",
+      "end": "00:12:15,269",
+      "title": "Water Bodies Cooling Process",
+      "summary": "Details how large water bodies cool through density-driven circulation, with colder, denser water sinking until reaching 4\u00b0C. Demonstrates the relationship between temperature and density in natural systems.",
       "relevance_score": 3
     }
   ],

@@ -1,0 +1,22 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=rfG8ce4nNh0",
+  "video_id": "rfG8ce4nNh0",
+  "query": "test",
+  "segments": [
+    {
+      "start": "00:05:23,600",
+      "end": "00:05:54,060",
+      "title": "Testing approximations approach",
+      "summary": "The video discusses how a sequence of approximations gets better as dt gets smaller, testing the car's journey as discontinuous jumps between constant velocities becomes less wrong as time intervals decrease.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:08:18,200",
+      "end": "00:08:44,780",
+      "title": "Testing integral approaches",
+      "summary": "The segment discusses how different integral approximations can approach a simple area under a curve, testing various methods of calculating distance traveled.",
+      "relevance_score": 3
+    }
+  ],
+  "total_segments": 2
+}
