@@ -88,29 +88,68 @@ def remove_and_merge(subs: List[Dict]) -> List[Dict]:
     prev_end = None
 
     for sub in subs:
-        # Remove prefix overlap with previous
-        if sub["text"].startswith(prev_text):
-            new_text = sub["text"][len(prev_text):].strip()
-        else:
-            new_text = sub["text"]
-
-        if not new_text:
-            # Skip empty subtitles
+        current_text = sub["text"].strip()
+        
+        # Skip empty subtitles
+        if not current_text:
             continue
-
-        # If current text equals previous text, merge times
-        if cleaned and new_text == cleaned[-1]["text"]:
-            # Extend end time
-            cleaned[-1]["end"] = sub["end"]
+            
+        # Check if current text continues the previous text
+        if prev_text and current_text.startswith(prev_text):
+            # Remove the overlapping prefix
+            new_text = current_text[len(prev_text):].strip()
+            if new_text:
+                # Extend the previous subtitle's end time
+                if cleaned:
+                    cleaned[-1]["end"] = sub["end"]
+                    cleaned[-1]["text"] = current_text
+                else:
+                    cleaned.append({
+                        "index": 0,
+                        "start": sub["start"],
+                        "end": sub["end"],
+                        "text": current_text
+                    })
         else:
-            cleaned.append({
-                "index": 0,  # will reindex later
-                "start": sub["start"],
-                "end": sub["end"],
-                "text": new_text
-            })
+            # Check if this is a continuation (e.g., "they are an" + "inverse of derivatives")
+            # Look for common words or phrases that might indicate continuation
+            if prev_text and not current_text.startswith(prev_text):
+                # Check if we should merge (e.g., incomplete sentences)
+                # Look for incomplete phrases that end with articles, helping verbs, etc.
+                prev_words = prev_text.split()
+                if (prev_words and 
+                    (prev_words[-1].lower() in ['a', 'an', 'the', 'is', 'are', 'was', 'were', 'has', 'have', 'had', 'will', 'would', 'could', 'should'] or
+                     prev_words[-1].lower().endswith(('a', 'an', 'the', 'is', 'are', 'was', 'were', 'has', 'have', 'had')))):
+                    # Merge with previous
+                    if cleaned:
+                        merged_text = prev_text + " " + current_text
+                        cleaned[-1]["end"] = sub["end"]
+                        cleaned[-1]["text"] = merged_text
+                    else:
+                        cleaned.append({
+                            "index": 0,
+                            "start": sub["start"],
+                            "end": sub["end"],
+                            "text": current_text
+                        })
+                else:
+                    # Add as new subtitle
+                    cleaned.append({
+                        "index": 0,
+                        "start": sub["start"],
+                        "end": sub["end"],
+                        "text": current_text
+                    })
+            else:
+                # Add as new subtitle
+                cleaned.append({
+                    "index": 0,
+                    "start": sub["start"],
+                    "end": sub["end"],
+                    "text": current_text
+                })
 
-        prev_text = sub["text"]
+        prev_text = current_text
 
     # Fix indexes
     for i, sub in enumerate(cleaned, 1):
@@ -120,17 +159,17 @@ def remove_and_merge(subs: List[Dict]) -> List[Dict]:
 
 def format_srt(subs: List[Dict]) -> str:
     """
-    Format subtitle dictionaries back into SRT format.
+    Format subtitle dictionaries back into SRT format, but omit the index numbers.
     
     Args:
         subs (List[Dict]): List of subtitle dictionaries
         
     Returns:
-        str: Formatted SRT text
+        str: Formatted SRT text without index numbers
     """
     srt_blocks = []
     for sub in subs:
-        block = f"{sub['index']}\n{sub['start']} --> {sub['end']}\n{sub['text']}\n"
+        block = f"{sub['start']} --> {sub['end']}\n{sub['text']}\n"
         srt_blocks.append(block)
     return "\n".join(srt_blocks)
 
@@ -145,40 +184,17 @@ def clean_transcript(transcript_content: str) -> str:
         str: The cleaned transcript content
     """
     subs = parse_srt(transcript_content)
-    cleaned = []
-    prev_text = ""
-    for sub in subs:
-        if sub["text"].startswith(prev_text):
-            new_text = sub["text"][len(prev_text):].strip()
-        else:
-            new_text = sub["text"]
-        if not new_text:
-            continue
-        if cleaned and new_text == cleaned[-1]["text"]:
-            cleaned[-1]["end"] = sub["end"]
-        else:
-            cleaned.append({
-                "index": 0,
-                "start": sub["start"],
-                "end": sub["end"],
-                "text": new_text
-            })
-        prev_text = sub["text"]
-    for i, sub in enumerate(cleaned, 1):
-        sub["index"] = i
-    srt_blocks = []
-    for sub in cleaned:
-        block = f"{sub['index']}\n{sub['start']} --> {sub['end']}\n{sub['text']}\n"
-        srt_blocks.append(block)
-    return "\n".join(srt_blocks)
+    cleaned_subs = remove_and_merge(subs)
+    return format_srt(cleaned_subs)
 
-def fetch_transcript(video_url: str, output_dir: Optional[str] = None) -> str:
+def fetch_transcript(video_url: str, output_dir: Optional[str] = None, save_raw_transcript: bool = False) -> str:
     """
     Download English auto-generated captions from a YouTube video using yt-dlp.
     
     Args:
         video_url (str): The URL of the YouTube video
         output_dir (str, optional): Directory to save the transcript. Defaults to temporary_files.
+        save_raw_transcript (bool, optional): Whether to save the raw transcript. Defaults to False.
     
     Returns:
         str: The transcript content
@@ -223,6 +239,13 @@ def fetch_transcript(video_url: str, output_dir: Optional[str] = None) -> str:
         with open(srt_path, 'r', encoding='utf-8') as f:
             transcript_content = f.read()
         
+        # Save raw transcript if requested
+        if save_raw_transcript:
+            raw_transcript_file = os.path.join(output_dir, f"raw_transcript_{video_id}.txt")
+            with open(raw_transcript_file, 'w', encoding='utf-8') as f:
+                f.write(transcript_content)
+            print(f"Raw transcript saved to: {raw_transcript_file}")
+        
         # Clean the transcript
         cleaned_content = clean_transcript(transcript_content)
         
@@ -242,10 +265,16 @@ def fetch_transcript(video_url: str, output_dir: Optional[str] = None) -> str:
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python transcript_fetch.py <YouTube_URL>")
+        print("Usage: python transcript_fetch.py <YouTube_URL> [save_raw_transcript]")
+        print("Example: python transcript_fetch.py 'https://www.youtube.com/watch?v=VIDEO_ID' true")
         sys.exit(1)
     
     video_url = sys.argv[1]
+    save_raw = False
+    
+    if len(sys.argv) > 2:
+        save_raw = sys.argv[2].lower() in ['true', '1', 'yes', 'on']
+    
     try:
         video_id = extract_video_id(video_url)
         output_file = os.path.join(os.path.dirname(__file__), 'temporary_files', f"transcript_{video_id}.txt")
@@ -254,8 +283,12 @@ if __name__ == "__main__":
         if os.path.exists(output_file):
             print(f"Overwriting existing transcript file: transcript_{video_id}.txt")
         
-        fetch_transcript(video_url)
+        fetch_transcript(video_url, save_raw_transcript=save_raw)
         print(f"Transcript saved to temporary_files/transcript_{video_id}.txt")
+        
+        if save_raw:
+            print(f"Raw transcript saved to temporary_files/raw_transcript_{video_id}.txt")
+            
     except Exception as e:
         print(f"Error: {str(e)}")
         sys.exit(1) 
