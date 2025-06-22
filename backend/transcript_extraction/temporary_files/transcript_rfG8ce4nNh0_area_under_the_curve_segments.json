@@ -1,0 +1,43 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=rfG8ce4nNh0",
+  "video_id": "rfG8ce4nNh0",
+  "query": "area under the curve",
+  "segments": [
+    {
+      "start": "00:07:14,840",
+      "end": "00:08:03,260",
+      "title": "Area Under Curve Explanation",
+      "summary": "The segment explains how the area under a velocity-time curve represents the total distance traveled. It emphasizes how this seemingly complex idea of summing tiny rectangles approaches a simple concept of area under the curve.",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:16:46,440",
+      "end": "00:16:58,980",
+      "title": "Area Approximation Method",
+      "summary": "Explains how better approximations of the original problem correspond to collections of rectangles whose total area approaches the area under the curve. This represents the precise distance traveled for a varying velocity function.",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:18:35,060",
+      "end": "00:18:54,980",
+      "title": "Negative Area Concept",
+      "summary": "Discusses how areas below the horizontal axis are counted as negative in integrals. Explains that integrals measure signed area rather than just area between the graph and horizontal axis.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:05:55,960",
+      "end": "00:06:21,280",
+      "title": "Area Under Graph Visualization",
+      "summary": "Explains how the area under a velocity graph between two time points represents the distance traveled during that period. Shows how this concept can be understood through rectangle approximations.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:02:42,780",
+      "end": "00:03:03,940",
+      "title": "Basic Area Concept",
+      "summary": "Introduces how distance can be visualized as area on a velocity-time graph, where the product of velocity and time naturally corresponds to meters traveled.",
+      "relevance_score": 3
+    }
+  ],
+  "total_segments": 5
+}

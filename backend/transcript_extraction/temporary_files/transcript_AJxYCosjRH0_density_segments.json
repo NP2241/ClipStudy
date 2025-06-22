@@ -5,38 +5,38 @@
   "segments": [
     {
       "start": "00:02:49,830",
-      "end": "00:03:19,710",
-      "title": "Definition of Density",
-      "summary": "Density is explained as the ratio of mass to volume, measuring how packed something is. Examples given include water (1 g/cm\u00b3) and iron (7.8 g/cm\u00b3) to illustrate different densities.",
+      "end": "00:03:51,190",
+      "title": "Explaining Density Concept",
+      "summary": "Density is explained as mass per unit volume, with examples like water (1g/cm\u00b3) and iron (7.8g/cm\u00b3). The segment discusses how density represents how packed or crowded matter is in a given space.",
       "relevance_score": 5
     },
     {
       "start": "00:08:16,390",
-      "end": "00:08:55,110",
-      "title": "Density and Floating Objects",
-      "summary": "Explains how objects with lower density float while those with higher density sink. Examples include oil floating on water and iron sinking in water.",
+      "end": "00:08:52,750",
+      "title": "Density and Floating",
+      "summary": "Explains how objects with lower density float while those with higher density sink. Uses examples of oil floating on water and iron bolt sinking in water.",
       "relevance_score": 5
     },
     {
       "start": "00:10:20,990",
-      "end": "00:10:54,389",
-      "title": "Water Density Temperature Relationship",
-      "summary": "Details how water's density changes with temperature, reaching maximum density at 4\u00b0C. This unique property affects how water bodies behave in cold conditions.",
-      "relevance_score": 5
+      "end": "00:11:19,190",
+      "title": "Water Density Properties",
+      "summary": "Details how water's density changes with temperature, reaching maximum density at 4\u00b0C. Explains why ice has lower density than water due to molecular structure creating gaps.",
+      "relevance_score": 4
     },
     {
-      "start": "00:04:45,390",
-      "end": "00:05:16,909",
+      "start": "00:03:51,190",
+      "end": "00:04:57,150",
       "title": "Air Density Variation",
-      "summary": "Explains how air density varies with altitude, being about 0.1 g/cm\u00b3 at surface level and decreasing to 0.004 g/cm\u00b3 at typical airline cruising altitude.",
+      "summary": "Describes how air density varies with altitude, being higher near Earth's surface and lower at higher altitudes due to atmospheric pressure differences.",
       "relevance_score": 4
     },
     {
       "start": "00:09:11,790",
-      "end": "00:09:52,949",
-      "title": "Earth Formation and Density",
-      "summary": "Describes how Earth's structure formed based on density differences, with heavier metals sinking to the core and lighter silicates floating to form the crust.",
-      "relevance_score": 4
+      "end": "00:10:02,910",
+      "title": "Earth's Density Layers",
+      "summary": "Explains how Earth's structure formed based on density differences, with heavier metals sinking to form the core and lighter silicates floating to form the crust.",
+      "relevance_score": 3
     }
   ],
   "total_segments": 5

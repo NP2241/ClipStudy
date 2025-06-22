@@ -1,9 +1,9 @@
-//@ts-nocheck
 'use client';
 
 import { ChevronLeftIcon, ChevronRightIcon, MagnifyingGlassIcon, PlusIcon, ViewVerticalIcon } from "@radix-ui/react-icons";
-import { Box, Button, Card, Code, Container, Dialog, Flex, Grid, Heading, Inset, Popover, ScrollArea, Separator, Strong, Text, TextField, VisuallyHidden } from "@radix-ui/themes";
-import React, { useEffect, useRef, useState } from "react";
+import { Box, Button, Card, Code, Dialog, Flex, Grid, Heading, Popover, ScrollArea, Separator, Strong, Text, TextField, VisuallyHidden } from "@radix-ui/themes";
+import Image from "next/image";
+import React, { useRef, useState } from "react";
 import YouTube from "react-youtube";
 import { useInterval } from "usehooks-ts";
 
@@ -12,10 +12,11 @@ import { useInterval } from "usehooks-ts";
 
 
 function Logo() {
-  return <Text className="flex-grow">Logo</Text>;
+  // return <Text className="flex-grow">Logo</Text>;
+  return <Image src />
 }
 
-function NewVideoPopover({children, setVideo} : {children: React.ReactNode}) {
+function NewVideoPopover({children, setVideo}) {
   const [url, setUrl] = useState('');
   const [search, setSearch] = useState('');
 
@@ -135,7 +136,7 @@ export default function Home() {
 
   useInterval(() => {
     if (playerRef.current && playerRef.current.getPlayerState() !== 2) {
-      let currentTime = playerRef.current.getCurrentTime();
+      const currentTime = playerRef.current.getCurrentTime();
       setCurrentTime(currentTime);
 
       let v = video.transcript_parsed.find(t => (t.starts <= currentTime && currentTime <= t.ends));
@@ -171,7 +172,7 @@ export default function Home() {
             <Separator size="4" />
 
             {videos.filter(v => v.query.includes(search)).map(v => <Button key={crypto.randomUUID()} variant="soft" onClick={() => {
-              setVideo(v);
+              setVideoRaw(v);
               setState({...state, findVideo: false});
               setSearch('');
             }}>{v.query}</Button>)}
@@ -201,7 +202,7 @@ export default function Home() {
 
                 <Text mt="4">Videos</Text>
                 {videos.map(v => <Button key={crypto.randomUUID()} variant="soft" onClick={() => {
-                  setVideo(v);
+                  setVideoRaw(v);
                 }}>{v.query}</Button>)}
               </Flex>
             ) : (
