@@ -1,1383 +1,857 @@
-1
-00:00:00,160 --> 00:00:02,270
-the earth's core is mostly made of heavy
-
-2
-00:00:02,280 --> 00:00:04,440
-metals like iron and nickel whereas the
-
-3
-00:00:04,440 --> 00:00:06,640
-crust the outer thin crust is made of
-
-4
-00:00:06,640 --> 00:00:08,639
-the lighter silicates why is it like
-
-5
-00:00:08,639 --> 00:00:10,360
-that why are the heavy stuff close to
-
-6
-00:00:10,360 --> 00:00:11,880
-the center whereas the lighter ones are
-
-7
-00:00:11,880 --> 00:00:13,440
-closer to the surface and if you
-
-8
-00:00:13,440 --> 00:00:15,719
-consider extremely cold places like say
-
-9
-00:00:15,719 --> 00:00:17,680
-Antarctica the average temperature over
-
-10
-00:00:17,680 --> 00:00:21,160
-there is close to- 50° C which is very
-
-11
-00:00:21,160 --> 00:00:24,160
-below the freezing point of water and
-
-12
-00:00:24,160 --> 00:00:26,599
-yet for some reason the oceans and the
-
-13
-00:00:26,599 --> 00:00:29,039
-lakes do not freeze over there and
-
-14
-00:00:29,039 --> 00:00:31,560
-that's why aquatic light survives but
-
-15
-00:00:31,560 --> 00:00:34,200
-why don't they freeze well to answer
-
-16
-00:00:34,200 --> 00:00:35,800
-this question we need to dig deeper into
-
-17
-00:00:35,800 --> 00:00:38,079
-the idea of fluids and densities and
-
-18
-00:00:38,079 --> 00:00:39,399
-that's what we want to do in this video
-
-19
-00:00:39,399 --> 00:00:41,640
-so let's begin so what exactly are
-
-20
-00:00:41,640 --> 00:00:44,920
-fluids fluids are substances that flow
-
-21
-00:00:44,920 --> 00:00:46,760
-and they do that because they don't have
-
-22
-00:00:46,760 --> 00:00:49,840
-a fixed shape so think about liquids and
-
-23
-00:00:49,840 --> 00:00:52,239
-gases collectively we call them fluids
-
-24
-00:00:52,239 --> 00:00:54,160
-and if you consider our planet the most
-
-25
-00:00:54,160 --> 00:00:55,559
-of the surface of the planet is covered
-
-26
-00:00:55,559 --> 00:00:58,359
-with liquid water that is a fluid
-
-27
-00:00:58,359 --> 00:01:00,640
-because water can flow rivers and all
-
-28
-00:01:00,640 --> 00:01:03,399
-flow and what about our atmosphere well
-
-29
-00:01:03,399 --> 00:01:05,840
-it's air which is a gas which is also a
-
-30
-00:01:05,840 --> 00:01:07,960
-fluid because again we know that it
-
-31
-00:01:07,960 --> 00:01:10,680
-flows giving us air currents and breezes
-
-32
-00:01:10,680 --> 00:01:13,200
-and storms and whatnot in contrast if
-
-33
-00:01:13,200 --> 00:01:14,840
-you consider the Solid Surfaces over
-
-34
-00:01:14,840 --> 00:01:17,920
-here they do not flow because they have
-
-35
-00:01:17,920 --> 00:01:21,079
-a fixed shape now of course over very
-
-36
-00:01:21,079 --> 00:01:23,280
-large time scales they too can flow
-
-37
-00:01:23,280 --> 00:01:25,600
-because of geological processes but
-
-38
-00:01:25,600 --> 00:01:27,320
-we're going to ignore that okay solids
-
-39
-00:01:27,320 --> 00:01:29,320
-do not flow because they have a fixed
-
-40
-00:01:29,320 --> 00:01:30,439
-shape but
-
-41
-00:01:30,439 --> 00:01:32,960
-why why do solids have a fixed shape to
-
-42
-00:01:32,960 --> 00:01:34,040
-answer that question we need to zoom in
-
-43
-00:01:34,040 --> 00:01:35,520
-at the atomic or the molecular level if
-
-44
-00:01:35,520 --> 00:01:37,320
-you could zoom into a solid like for
-
-45
-00:01:37,320 --> 00:01:39,240
-example ice the molecules experience a
-
-46
-00:01:39,240 --> 00:01:40,840
-force of attraction that makes them
-
-47
-00:01:40,840 --> 00:01:43,079
-stick to each other but they also have a
-
-48
-00:01:43,079 --> 00:01:45,479
-thermal motion which makes them move
-
-49
-00:01:45,479 --> 00:01:47,799
-away from each other now in solids the
-
-50
-00:01:47,799 --> 00:01:50,200
-thermal motion is low enough that the
-
-51
-00:01:50,200 --> 00:01:52,240
-attraction vins and as a result
-
-52
-00:01:52,240 --> 00:01:54,079
-molecules and atoms end up sticking to
-
-53
-00:01:54,079 --> 00:01:56,159
-each other giving them a particular
-
-54
-00:01:56,159 --> 00:01:58,119
-shape however when you consider the
-
-55
-00:01:58,119 --> 00:02:00,520
-liquid phase of that same substance
-
-56
-00:02:00,520 --> 00:02:02,360
-the temperatures are relatively higher
-
-57
-00:02:02,360 --> 00:02:04,159
-so thermal motions are relatively higher
-
-58
-00:02:04,159 --> 00:02:06,039
-high enough to partially overcome the
-
-59
-00:02:06,039 --> 00:02:07,719
-attraction because of which they no
-
-60
-00:02:07,719 --> 00:02:10,280
-longer are able to retain the shape
-
-61
-00:02:10,280 --> 00:02:11,599
-that's why liquids tend to take the
-
-62
-00:02:11,599 --> 00:02:13,720
-shape of the container and what about
-
-63
-00:02:13,720 --> 00:02:15,560
-the gas phase well here the thermal
-
-64
-00:02:15,560 --> 00:02:17,440
-motion is so high that it completely
-
-65
-00:02:17,440 --> 00:02:19,200
-overcomes the attractive forces because
-
-66
-00:02:19,200 --> 00:02:20,599
-of which the particles are pretty much
-
-67
-00:02:20,599 --> 00:02:23,160
-moving freely so look in liquids and
-
-68
-00:02:23,160 --> 00:02:24,239
-gases the thermal motion of the
-
-69
-00:02:24,239 --> 00:02:26,120
-molecules can overcome the attractive
-
-70
-00:02:26,120 --> 00:02:29,920
-forces that makes them flow all right so
-
-71
-00:02:29,920 --> 00:02:32,959
-the fluids flow what's the big deal well
-
-72
-00:02:32,959 --> 00:02:35,040
-the big deal is because they flow when
-
-73
-00:02:35,040 --> 00:02:37,160
-you mix two different fluids or a fluid
-
-74
-00:02:37,160 --> 00:02:40,480
-and a solid they can sink or float and
-
-75
-00:02:40,480 --> 00:02:42,319
-that has a huge consequence as we will
-
-76
-00:02:42,319 --> 00:02:44,480
-see but what decides whether something
-
-77
-00:02:44,480 --> 00:02:46,760
-sinks or floats well that depends on an
-
-78
-00:02:46,760 --> 00:02:49,840
-important property called density you
-
-79
-00:02:49,840 --> 00:02:53,000
-can think of density as a ratio of mass
-
-80
-00:02:53,000 --> 00:02:55,760
-and volume so the standard unit for
-
-81
-00:02:55,760 --> 00:02:57,440
-density would be well mass is in
-
-82
-00:02:57,440 --> 00:03:00,000
-kilograms and volume would be meter cube
-
-83
-00:03:00,000 --> 00:03:01,680
-so density's standard units would be
-
-84
-00:03:01,680 --> 00:03:04,840
-kilog per M Cube but what exactly does
-
-85
-00:03:04,840 --> 00:03:07,159
-it represent well think about density as
-
-86
-00:03:07,159 --> 00:03:09,640
-a measure of how crowded something is or
-
-87
-00:03:09,640 --> 00:03:11,560
-how packed something is you know how
-
-88
-00:03:11,560 --> 00:03:15,040
-much mass is packed in a unit volume how
-
-89
-00:03:15,040 --> 00:03:18,239
-many kilograms are packed in a m Cube or
-
-90
-00:03:18,239 --> 00:03:19,720
-you know a more convenient unit would be
-
-91
-00:03:19,720 --> 00:03:22,440
-how many grams are packed in a centime
-
-92
-00:03:22,440 --> 00:03:25,080
-cube whatever it is it's a measure of
-
-93
-00:03:25,080 --> 00:03:26,680
-how packed something is so let's take
-
-94
-00:03:26,680 --> 00:03:28,519
-some examples if you take water for
-
-95
-00:03:28,519 --> 00:03:32,120
-example it has a den of 1,000 kg per M
-
-96
-00:03:32,120 --> 00:03:34,519
-Cube so you can imagine a m cube of
-
-97
-00:03:34,519 --> 00:03:37,640
-water contains 1,000 kg of water but
-
-98
-00:03:37,640 --> 00:03:39,519
-again I like to think in terms of gram
-
-99
-00:03:39,519 --> 00:03:41,040
-per CM Cube that's more convenient so if
-
-100
-00:03:41,040 --> 00:03:43,400
-you convert this you end up with 1 G per
-
-101
-00:03:43,400 --> 00:03:45,280
-CM Cube the idea is the same if you now
-
-102
-00:03:45,280 --> 00:03:48,120
-take a CM cube of water it will have a
-
-103
-00:03:48,120 --> 00:03:51,200
-mass of 1 g in contrast if you consider
-
-104
-00:03:51,200 --> 00:03:55,040
-ion it has a density of 7.8 G per CM
-
-105
-00:03:55,040 --> 00:03:59,159
-cube a cenm cube of ion has 7.8 G of ion
-
-106
-00:03:59,159 --> 00:04:00,879
-packed into it which is much higher
-
-107
-00:04:00,879 --> 00:04:02,720
-density compared to water and by the way
-
-108
-00:04:02,720 --> 00:04:03,959
-if you're wondering whether this is a
-
-109
-00:04:03,959 --> 00:04:06,079
-coincidence that the you know density of
-
-110
-00:04:06,079 --> 00:04:08,760
-water is exactly 1 G per CM Cube such a
-
-111
-00:04:08,760 --> 00:04:11,079
-nice number it's not a coincidence we
-
-112
-00:04:11,079 --> 00:04:13,519
-defined our gram this way the mass of 1
-
-113
-00:04:13,519 --> 00:04:17,400
-cm cube of Water by definition is 1 G
-
-114
-00:04:17,400 --> 00:04:19,160
-but anyways if you consider water or ion
-
-115
-00:04:19,160 --> 00:04:21,040
-for that matter the densities are
-
-116
-00:04:21,040 --> 00:04:22,880
-uniform it's the same everywhere which
-
-117
-00:04:22,880 --> 00:04:24,040
-means if you take a small amount of
-
-118
-00:04:24,040 --> 00:04:25,840
-water here or a large chunk of water
-
-119
-00:04:25,840 --> 00:04:27,720
-over here the density will be the same 1
-
-120
-00:04:27,720 --> 00:04:29,840
-G per CM Cube similarly if you take a a
-
-121
-00:04:29,840 --> 00:04:31,720
-small chunk of iron from here or a big
-
-122
-00:04:31,720 --> 00:04:33,759
-chunk of iron from a ship for example
-
-123
-00:04:33,759 --> 00:04:36,120
-the density would be the same 7.8 G per
-
-124
-00:04:36,120 --> 00:04:38,840
-CM Cube but that's not always the case
-
-125
-00:04:38,840 --> 00:04:40,400
-if you consider the density of the air
-
-126
-00:04:40,400 --> 00:04:42,320
-for example close to the surface of the
-
-127
-00:04:42,320 --> 00:04:45,400
-Earth it is roughly about
-
-128
-00:04:45,400 --> 00:04:48,479
-0.1 G per cmq you can see the density of
-
-129
-00:04:48,479 --> 00:04:51,199
-the air is much much smaller than that
-
-130
-00:04:51,199 --> 00:04:52,560
-of water it's about thousand times
-
-131
-00:04:52,560 --> 00:04:54,840
-smaller however if you consider the
-
-132
-00:04:54,840 --> 00:04:57,160
-density of the air you know at say about
-
-133
-00:04:57,160 --> 00:04:59,320
-10 km which is usually the cruising
-
-134
-00:04:59,320 --> 00:05:00,160
-altitude
-
-135
-00:05:00,160 --> 00:05:02,320
-of a commercial airline you would find
-
-136
-00:05:02,320 --> 00:05:05,160
-the density even lower
-
-137
-00:05:05,160 --> 00:05:09,560
-004 approximately G per CM cub and in
-
-138
-00:05:09,560 --> 00:05:12,000
-fact the higher you go the smaller the
-
-139
-00:05:12,000 --> 00:05:15,240
-density but why well think about it this
-
-140
-00:05:15,240 --> 00:05:16,919
-way if you consider the layer of air
-
-141
-00:05:16,919 --> 00:05:19,039
-over here it's carrying the weight of
-
-142
-00:05:19,039 --> 00:05:22,240
-the atmosphere on top of it that weight
-
-143
-00:05:22,240 --> 00:05:24,639
-is pushing down on the molecules over
-
-144
-00:05:24,639 --> 00:05:27,160
-here squeezing them together packing
-
-145
-00:05:27,160 --> 00:05:29,000
-them together giving them a specific
-
-146
-00:05:29,000 --> 00:05:30,960
-density but now if you consider a layer
-
-147
-00:05:30,960 --> 00:05:34,240
-of air that is even lower then look it's
-
-148
-00:05:34,240 --> 00:05:36,720
-carrying an additional weight compared
-
-149
-00:05:36,720 --> 00:05:39,400
-to this layer so it's carrying more
-
-150
-00:05:39,400 --> 00:05:41,319
-weight in fact the layer at the bottom
-
-151
-00:05:41,319 --> 00:05:42,960
-carries the entire weight of the
-
-152
-00:05:42,960 --> 00:05:45,280
-atmosphere and therefore the forces are
-
-153
-00:05:45,280 --> 00:05:47,800
-much higher and so the molecules are
-
-154
-00:05:47,800 --> 00:05:49,800
-squeezed together much higher packed
-
-155
-00:05:49,800 --> 00:05:51,680
-together more tightly giving you a
-
-156
-00:05:51,680 --> 00:05:53,440
-higher density and that's why the lower
-
-157
-00:05:53,440 --> 00:05:56,400
-you go higher the density but wait
-
-158
-00:05:56,400 --> 00:05:57,919
-shouldn't the same be the case with
-
-159
-00:05:57,919 --> 00:05:59,319
-water as well for example if you
-
-160
-00:05:59,319 --> 00:06:00,800
-consider the the ocean then shouldn't
-
-161
-00:06:00,800 --> 00:06:02,440
-the layer at the bottom of the ocean
-
-162
-00:06:02,440 --> 00:06:04,639
-have a higher density than the layer at
-
-163
-00:06:04,639 --> 00:06:06,680
-the top of the ocean well that's a great
-
-164
-00:06:06,680 --> 00:06:09,080
-question but turns out not to be so
-
-165
-00:06:09,080 --> 00:06:11,280
-because of one main difference between
-
-166
-00:06:11,280 --> 00:06:13,599
-liquids and gases gases can be easily
-
-167
-00:06:13,599 --> 00:06:15,400
-compressed and to demonstrate this here
-
-168
-00:06:15,400 --> 00:06:17,360
-is a syringe which contains only air and
-
-169
-00:06:17,360 --> 00:06:19,360
-I've sealed the top with my finger now
-
-170
-00:06:19,360 --> 00:06:21,479
-let me try and push it and you can see I
-
-171
-00:06:21,479 --> 00:06:24,160
-can easily compress it I have compressed
-
-172
-00:06:24,160 --> 00:06:26,039
-the gas and I've increased the density
-
-173
-00:06:26,039 --> 00:06:27,960
-just by using my finger but now let's
-
-174
-00:06:27,960 --> 00:06:29,199
-see what happens if you fill the syringe
-
-175
-00:06:29,199 --> 00:06:30,319
-with water
-
-176
-00:06:30,319 --> 00:06:32,280
-again seal the top with my finger and
-
-177
-00:06:32,280 --> 00:06:35,160
-now if I'm pushing it no look it's I
-
-178
-00:06:35,160 --> 00:06:37,840
-can't compress it even a little bit I am
-
-179
-00:06:37,840 --> 00:06:40,960
-pushing as hard as I can it's just not
-
-180
-00:06:40,960 --> 00:06:43,960
-possible so this means liquids are
-
-181
-00:06:43,960 --> 00:06:46,599
-extremely hard to compress and because
-
-182
-00:06:46,599 --> 00:06:48,479
-you can't compress them you can't
-
-183
-00:06:48,479 --> 00:06:50,319
-squeeze the molecules closer and you
-
-184
-00:06:50,319 --> 00:06:52,319
-can't increase the density and so that's
-
-185
-00:06:52,319 --> 00:06:54,120
-why even though at the bottom the
-
-186
-00:06:54,120 --> 00:06:56,520
-pressures are insanely High compared to
-
-187
-00:06:56,520 --> 00:06:57,879
-the top of the oceans in fact the
-
-188
-00:06:57,879 --> 00:06:59,199
-pressures at the bottom are so high that
-
-189
-00:06:59,199 --> 00:07:01,560
-even submarines can get crushed but
-
-190
-00:07:01,560 --> 00:07:04,479
-because compressing water is extremely
-
-191
-00:07:04,479 --> 00:07:06,199
-difficult the molecules will not come
-
-192
-00:07:06,199 --> 00:07:07,960
-any closer than they are at the top and
-
-193
-00:07:07,960 --> 00:07:09,560
-as a result the density is pretty much
-
-194
-00:07:09,560 --> 00:07:11,360
-the same everywhere and so we would
-
-195
-00:07:11,360 --> 00:07:15,039
-model water as an ideal fluid which is
-
-196
-00:07:15,039 --> 00:07:18,599
-in compressible I mean technically you
-
-197
-00:07:18,599 --> 00:07:21,680
-can compress water if you put horrendous
-
-198
-00:07:21,680 --> 00:07:23,919
-amounts of forces but since we're not
-
-199
-00:07:23,919 --> 00:07:26,240
-dealing with such high forces usually we
-
-200
-00:07:26,240 --> 00:07:29,000
-can model it to be incompressible so
-
-201
-00:07:29,000 --> 00:07:31,840
-ideal fluids are incompressible and they
-
-202
-00:07:31,840 --> 00:07:34,039
-also have no viscosity what does that
-
-203
-00:07:34,039 --> 00:07:36,879
-mean well some fluids can be very thick
-
-204
-00:07:36,879 --> 00:07:38,720
-making them very hard to flow think
-
-205
-00:07:38,720 --> 00:07:41,319
-about ketchup or honey for example
-
-206
-00:07:41,319 --> 00:07:44,199
-because of their thickness or viscosity
-
-207
-00:07:44,199 --> 00:07:46,639
-it can produce resistance to motion but
-
-208
-00:07:46,639 --> 00:07:49,240
-if we dealing with ideal fluids we model
-
-209
-00:07:49,240 --> 00:07:51,039
-them by saying that hey ideal fluids
-
-210
-00:07:51,039 --> 00:07:52,919
-have no viscosity at all all right now
-
-211
-00:07:52,919 --> 00:07:54,520
-let's try to explore why stuff sinks or
-
-212
-00:07:54,520 --> 00:07:56,879
-floats when we mix fluids or fluid in a
-
-213
-00:07:56,879 --> 00:07:58,400
-solid so let's see what happens when you
-
-214
-00:07:58,400 --> 00:08:00,720
-mix water and oil what we notice is that
-
-215
-00:08:00,720 --> 00:08:03,400
-if you allow them to settle oil Floats
-
-216
-00:08:03,400 --> 00:08:05,800
-or you could say that water sinks but
-
-217
-00:08:05,800 --> 00:08:07,800
-why well first of all we can easily
-
-218
-00:08:07,800 --> 00:08:09,479
-model them as ideal fluids because the
-
-219
-00:08:09,479 --> 00:08:10,520
-density is pretty much the same
-
-220
-00:08:10,520 --> 00:08:12,400
-everywhere what you would find now is
-
-221
-00:08:12,400 --> 00:08:14,599
-that oil has a density that's less than
-
-222
-00:08:14,599 --> 00:08:16,400
-that of water so stuff that has less
-
-223
-00:08:16,400 --> 00:08:18,960
-density tends to float or you could say
-
-224
-00:08:18,960 --> 00:08:20,800
-that water has a density more than that
-
-225
-00:08:20,800 --> 00:08:23,039
-of oil and therefore it sinks stuff that
-
-226
-00:08:23,039 --> 00:08:25,560
-has more density tends to sink let's
-
-227
-00:08:25,560 --> 00:08:28,039
-take another example if you put an iron
-
-228
-00:08:28,039 --> 00:08:31,080
-bolt in in water it sinks why because we
-
-229
-00:08:31,080 --> 00:08:32,800
-already saw ion has a much higher
-
-230
-00:08:32,800 --> 00:08:35,519
-density than water what about ice ice
-
-231
-00:08:35,519 --> 00:08:38,360
-floats on water because it has a less
-
-232
-00:08:38,360 --> 00:08:40,800
-density than water here's another way to
-
-233
-00:08:40,800 --> 00:08:42,959
-think about it here the gravitational
-
-234
-00:08:42,959 --> 00:08:45,480
-field is acting downwards isn't it so
-
-235
-00:08:45,480 --> 00:08:47,000
-stuff which has more density tends to
-
-236
-00:08:47,000 --> 00:08:48,040
-move in the direction of the
-
-237
-00:08:48,040 --> 00:08:50,320
-gravitational field sinking and stuff
-
-238
-00:08:50,320 --> 00:08:52,760
-that has less density tends to move
-
-239
-00:08:52,760 --> 00:08:55,120
-against the gravitational field what's
-
-240
-00:08:55,120 --> 00:08:56,040
-interesting is that without the
-
-241
-00:08:56,040 --> 00:08:57,360
-gravitational field we wouldn't have
-
-242
-00:08:57,360 --> 00:09:00,240
-flotation or Sinking and it's for the
-
-243
-00:09:00,240 --> 00:09:02,279
-same reason why helium balloons tend to
-
-244
-00:09:02,279 --> 00:09:04,360
-move up because they have a density
-
-245
-00:09:04,360 --> 00:09:06,880
-that's less than the surrounding air and
-
-246
-00:09:06,880 --> 00:09:09,240
-therefore they move up against the
-
-247
-00:09:09,240 --> 00:09:11,800
-gravitational field okay now let's see
-
-248
-00:09:11,800 --> 00:09:13,079
-if we can use this to explain our
-
-249
-00:09:13,079 --> 00:09:14,959
-original question about the Earth when
-
-250
-00:09:14,959 --> 00:09:17,200
-the earth was formed we beli that it was
-
-251
-00:09:17,200 --> 00:09:19,360
-highly molten and so we can model them
-
-252
-00:09:19,360 --> 00:09:22,959
-as a you know as an ideal fluid now in
-
-253
-00:09:22,959 --> 00:09:26,000
-this fluid the gravitational field acts
-
-254
-00:09:26,000 --> 00:09:28,519
-towards the center so stuff that is
-
-255
-00:09:28,519 --> 00:09:31,079
-having a high density like iron and
-
-256
-00:09:31,079 --> 00:09:33,880
-nickel they will tend to move along the
-
-257
-00:09:33,880 --> 00:09:36,320
-gravitational field sinking and
-
-258
-00:09:36,320 --> 00:09:39,480
-eventually settling towards the core on
-
-259
-00:09:39,480 --> 00:09:41,640
-the other hand stuff that has lighter
-
-260
-00:09:41,640 --> 00:09:43,640
-you know lower density like the
-
-261
-00:09:43,640 --> 00:09:45,760
-silicates for example tend to move
-
-262
-00:09:45,760 --> 00:09:47,519
-against the gravitational field they had
-
-263
-00:09:47,519 --> 00:09:51,160
-to float and that's why they settle near
-
-264
-00:09:51,160 --> 00:09:52,959
-the surface and that's why eventually
-
-265
-00:09:52,959 --> 00:09:55,000
-when this molten rock cool to form the
-
-266
-00:09:55,000 --> 00:09:57,360
-Earth the core ended up having high
-
-267
-00:09:57,360 --> 00:09:59,760
-density heavy metals and the crust ends
-
-268
-00:09:59,760 --> 00:10:02,920
-up having the silicates amazing isn't it
-
-269
-00:10:02,920 --> 00:10:05,279
-finally we go back to water we know that
-
-270
-00:10:05,279 --> 00:10:07,519
-ice floats on water but that's a little
-
-271
-00:10:07,519 --> 00:10:09,279
-weird if you think about it because
-
-272
-00:10:09,279 --> 00:10:11,760
-whenever you cool something the molecule
-
-273
-00:10:11,760 --> 00:10:13,800
-tends to have less thermal motion
-
-274
-00:10:13,800 --> 00:10:15,120
-because of which they tend to come
-
-275
-00:10:15,120 --> 00:10:18,279
-closer together so the density actually
-
-276
-00:10:18,279 --> 00:10:21,000
-increases when you cool stuff generally
-
-277
-00:10:21,000 --> 00:10:22,720
-okay that kind of makes sense right so
-
-278
-00:10:22,720 --> 00:10:25,040
-in reality density depends on
-
-279
-00:10:25,040 --> 00:10:26,800
-temperature and the same thing works for
-
-280
-00:10:26,800 --> 00:10:29,120
-water as you cool down water its density
-
-281
-00:10:29,120 --> 00:10:32,399
-will will keep increasing until we reach
-
-282
-00:10:32,399 --> 00:10:35,200
-4° C guess what turns out that water has
-
-283
-00:10:35,200 --> 00:10:38,920
-a maximum density at 4° C and that
-
-284
-00:10:38,920 --> 00:10:41,720
-maximum density is 1 G per cmq so we
-
-285
-00:10:41,720 --> 00:10:43,760
-should have actually told you know that
-
-286
-00:10:43,760 --> 00:10:45,800
-the water's density is 1 G per CM Cube
-
-287
-00:10:45,800 --> 00:10:47,680
-or 1,000 kg per M Cube whatever you want
-
-288
-00:10:47,680 --> 00:10:50,639
-to think of it as at 4° C because
-
-289
-00:10:50,639 --> 00:10:52,760
-density does depend on temperature but
-
-290
-00:10:52,760 --> 00:10:54,399
-wait what happens if you cool down water
-
-291
-00:10:54,399 --> 00:10:57,680
-below 4° C well now molecules will have
-
-292
-00:10:57,680 --> 00:10:59,760
-such low thermal energy that they lock
-
-293
-00:10:59,760 --> 00:11:02,200
-in places and look in doing so they
-
-294
-00:11:02,200 --> 00:11:05,360
-start forming gaps in between which
-
-295
-00:11:05,360 --> 00:11:08,519
-reduces the overall density and that's
-
-296
-00:11:08,519 --> 00:11:12,360
-why density tends to decrease below 4° C
-
-297
-00:11:12,360 --> 00:11:14,240
-and eventually as water crystallizes
-
-298
-00:11:14,240 --> 00:11:16,680
-into ice ice ends up having lower
-
-299
-00:11:16,680 --> 00:11:19,200
-density than water and therefore ends up
-
-300
-00:11:19,200 --> 00:11:21,600
-floating and this has a huge consequence
-
-301
-00:11:21,600 --> 00:11:23,720
-on the Aquatic Life in really really
-
-302
-00:11:23,720 --> 00:11:26,160
-cool places so if we go back to our
-
-303
-00:11:26,160 --> 00:11:28,519
-Antarctica for example we can model
-
-304
-00:11:28,519 --> 00:11:30,360
-Water by considering three different
-
-305
-00:11:30,360 --> 00:11:32,000
-layers okay let's say the current
-
-306
-00:11:32,000 --> 00:11:34,920
-temperature is about 60° C okay now what
-
-307
-00:11:34,920 --> 00:11:37,279
-if the temperature outside reduces to 5°
-
-308
-00:11:37,279 --> 00:11:40,040
-Celsius what's going to happen well the
-
-309
-00:11:40,040 --> 00:11:41,839
-surface of the water which is in direct
-
-310
-00:11:41,839 --> 00:11:43,760
-contact with the surrounding that is
-
-311
-00:11:43,760 --> 00:11:46,079
-first going to lose heat and as a result
-
-312
-00:11:46,079 --> 00:11:48,560
-reduce its temperature to 5° C now
-
-313
-00:11:48,560 --> 00:11:50,880
-because it is colder it has a higher
-
-314
-00:11:50,880 --> 00:11:53,399
-density and as a result it will sink
-
-315
-00:11:53,399 --> 00:11:56,600
-below the other layers and now this one
-
-316
-00:11:56,600 --> 00:12:00,120
-will you know cool down to 5° C it gets
-
-317
-00:12:00,120 --> 00:12:02,040
-colder it gets higher density it will
-
-318
-00:12:02,040 --> 00:12:03,959
-sink and eventually the last layer will
-
-319
-00:12:03,959 --> 00:12:05,880
-come on top so this is how we can model
-
-320
-00:12:05,880 --> 00:12:08,480
-how extremely large water bodies cool
-
-321
-00:12:08,480 --> 00:12:10,120
-down now if the temperature gets lower
-
-322
-00:12:10,120 --> 00:12:12,560
-to say 4° C again the same thing repeats
-
-323
-00:12:12,560 --> 00:12:15,279
-and the whole ocean now is at 4° C but
-
-324
-00:12:15,279 --> 00:12:18,720
-at 4° C remember we have maximum density
-
-325
-00:12:18,720 --> 00:12:21,000
-now if the saring temperature goes below
-
-326
-00:12:21,000 --> 00:12:24,160
-4° C let's say 3° C again the top layer
-
-327
-00:12:24,160 --> 00:12:25,880
-will go down to 3° C because it's in
-
-328
-00:12:25,880 --> 00:12:28,680
-direct contact but look now the density
-
-329
-00:12:28,680 --> 00:12:31,480
-is lower than the layers below which
-
-330
-00:12:31,480 --> 00:12:34,240
-means it cannot sink it will keep
-
-331
-00:12:34,240 --> 00:12:36,240
-floating and these layers will not have
-
-332
-00:12:36,240 --> 00:12:38,399
-a chance to keep come in contact with
-
-333
-00:12:38,399 --> 00:12:40,079
-the surrounding layer and therefore
-
-334
-00:12:40,079 --> 00:12:42,279
-relatively they will stay warm pretty
-
-335
-00:12:42,279 --> 00:12:45,160
-close to 4° C and now as the temperature
-
-336
-00:12:45,160 --> 00:12:48,000
-keeps dropping this is the layer that's
-
-337
-00:12:48,000 --> 00:12:49,760
-whose temperature will keep dropping
-
-338
-00:12:49,760 --> 00:12:51,440
-keeping the lower layers warm and
-
-339
-00:12:51,440 --> 00:12:53,600
-eventually this layer will crystallize
-
-340
-00:12:53,600 --> 00:12:55,760
-and now it doesn't matter how cold it
-
-341
-00:12:55,760 --> 00:12:58,120
-gets outside the lower layers are
-
-342
-00:12:58,120 --> 00:13:00,000
-protected and this is why only the top
-
-343
-00:13:00,000 --> 00:13:01,839
-of the water body tends to get Frozen
-
-344
-00:13:01,839 --> 00:13:04,720
-and the bottom will stay relatively warm
-
-345
-00:13:04,720 --> 00:13:06,360
-and it will stay in the liquid form it
-
-346
-00:13:06,360 --> 00:13:11,560
-allows Aquatic Life to exist
+00:00:00,160 --> 00:00:06,630
+metals like iron and nickel whereas the crust the outer thin crust is made of
+
+00:00:06,630 --> 00:00:08,629
+crust the outer thin crust is made of the lighter silicates why is it like
+
+00:00:08,629 --> 00:00:10,350
+the lighter silicates why is it like that why are the heavy stuff close to
+
+00:00:10,350 --> 00:00:13,430
+the center whereas the lighter ones are closer to the surface and if you
+
+00:00:13,430 --> 00:00:15,709
+closer to the surface and if you consider extremely cold places like say
+
+00:00:15,709 --> 00:00:17,670
+consider extremely cold places like say Antarctica the average temperature over
+
+00:00:17,670 --> 00:00:21,150
+Antarctica the average temperature over there is close to- 50° C which is very
+
+00:00:21,150 --> 00:00:24,150
+there is close to- 50° C which is very below the freezing point of water and
+
+00:00:24,150 --> 00:00:29,029
+yet for some reason the oceans and the lakes do not freeze over there and
+
+00:00:29,029 --> 00:00:31,550
+lakes do not freeze over there and that's why aquatic light survives but
+
+00:00:31,550 --> 00:00:34,190
+that's why aquatic light survives but why don't they freeze well to answer
+
+00:00:34,190 --> 00:00:35,790
+why don't they freeze well to answer this question we need to dig deeper into
+
+00:00:35,790 --> 00:00:38,069
+this question we need to dig deeper into the idea of fluids and densities and
+
+00:00:38,069 --> 00:00:39,389
+the idea of fluids and densities and that's what we want to do in this video
+
+00:00:39,389 --> 00:00:44,910
+so let's begin so what exactly are fluids fluids are substances that flow
+
+00:00:44,910 --> 00:00:49,830
+and they do that because they don't have a fixed shape so think about liquids and
+
+00:00:49,830 --> 00:00:52,229
+a fixed shape so think about liquids and gases collectively we call them fluids
+
+00:00:52,229 --> 00:00:54,150
+gases collectively we call them fluids and if you consider our planet the most
+
+00:00:54,150 --> 00:00:55,549
+and if you consider our planet the most of the surface of the planet is covered
+
+00:00:55,549 --> 00:00:58,349
+of the surface of the planet is covered with liquid water that is a fluid
+
+00:00:58,349 --> 00:01:00,630
+with liquid water that is a fluid because water can flow rivers and all
+
+00:01:00,630 --> 00:01:03,389
+because water can flow rivers and all flow and what about our atmosphere well
+
+00:01:03,389 --> 00:01:07,950
+it's air which is a gas which is also a fluid because again we know that it
+
+00:01:07,950 --> 00:01:10,670
+fluid because again we know that it flows giving us air currents and breezes
+
+00:01:10,670 --> 00:01:13,190
+flows giving us air currents and breezes and storms and whatnot in contrast if
+
+00:01:13,190 --> 00:01:14,830
+and storms and whatnot in contrast if you consider the Solid Surfaces over
+
+00:01:14,830 --> 00:01:21,069
+here they do not flow because they have a fixed shape now of course over very
+
+00:01:21,069 --> 00:01:23,270
+a fixed shape now of course over very large time scales they too can flow
+
+00:01:23,270 --> 00:01:25,590
+large time scales they too can flow because of geological processes but
+
+00:01:25,590 --> 00:01:27,310
+because of geological processes but we're going to ignore that okay solids
+
+00:01:27,310 --> 00:01:29,310
+we're going to ignore that okay solids do not flow because they have a fixed
+
+00:01:29,310 --> 00:01:30,429
+do not flow because they have a fixed shape but
+
+00:01:30,429 --> 00:01:32,950
+shape but why why do solids have a fixed shape to
+
+00:01:32,950 --> 00:01:34,030
+why why do solids have a fixed shape to answer that question we need to zoom in
+
+00:01:34,030 --> 00:01:35,510
+answer that question we need to zoom in at the atomic or the molecular level if
+
+00:01:35,510 --> 00:01:37,310
+at the atomic or the molecular level if you could zoom into a solid like for
+
+00:01:37,310 --> 00:01:40,830
+example ice the molecules experience a force of attraction that makes them
+
+00:01:40,830 --> 00:01:45,469
+stick to each other but they also have a thermal motion which makes them move
+
+00:01:45,469 --> 00:01:52,230
+thermal motion is low enough that the attraction vins and as a result
+
+00:01:52,230 --> 00:01:54,069
+attraction vins and as a result molecules and atoms end up sticking to
+
+00:01:54,069 --> 00:01:56,149
+molecules and atoms end up sticking to each other giving them a particular
+
+00:01:56,149 --> 00:02:00,510
+shape however when you consider the liquid phase of that same substance
+
+00:02:00,510 --> 00:02:02,350
+liquid phase of that same substance the temperatures are relatively higher
+
+00:02:02,350 --> 00:02:04,149
+the temperatures are relatively higher so thermal motions are relatively higher
+
+00:02:04,149 --> 00:02:07,709
+high enough to partially overcome the attraction because of which they no
+
+00:02:07,709 --> 00:02:10,270
+attraction because of which they no longer are able to retain the shape
+
+00:02:10,270 --> 00:02:13,710
+that's why liquids tend to take the shape of the container and what about
+
+00:02:13,710 --> 00:02:15,550
+shape of the container and what about the gas phase well here the thermal
+
+00:02:15,550 --> 00:02:17,430
+the gas phase well here the thermal motion is so high that it completely
+
+00:02:17,430 --> 00:02:19,190
+motion is so high that it completely overcomes the attractive forces because
+
+00:02:19,190 --> 00:02:20,589
+overcomes the attractive forces because of which the particles are pretty much
+
+00:02:20,589 --> 00:02:23,150
+of which the particles are pretty much moving freely so look in liquids and
+
+00:02:23,150 --> 00:02:26,110
+gases the thermal motion of the molecules can overcome the attractive
+
+00:02:26,110 --> 00:02:29,910
+molecules can overcome the attractive forces that makes them flow all right so
+
+00:02:29,910 --> 00:02:32,949
+forces that makes them flow all right so the fluids flow what's the big deal well
+
+00:02:32,949 --> 00:02:35,030
+the fluids flow what's the big deal well the big deal is because they flow when
+
+00:02:35,030 --> 00:02:37,150
+the big deal is because they flow when you mix two different fluids or a fluid
+
+00:02:37,150 --> 00:02:40,470
+you mix two different fluids or a fluid and a solid they can sink or float and
+
+00:02:40,470 --> 00:02:44,470
+that has a huge consequence as we will see but what decides whether something
+
+00:02:44,470 --> 00:02:49,830
+sinks or floats well that depends on an important property called density you
+
+00:02:49,830 --> 00:02:52,990
+important property called density you can think of density as a ratio of mass
+
+00:02:52,990 --> 00:02:55,750
+can think of density as a ratio of mass and volume so the standard unit for
+
+00:02:55,750 --> 00:02:57,430
+and volume so the standard unit for density would be well mass is in
+
+00:02:57,430 --> 00:02:59,990
+density would be well mass is in kilograms and volume would be meter cube
+
+00:02:59,990 --> 00:03:01,670
+kilograms and volume would be meter cube so density's standard units would be
+
+00:03:01,670 --> 00:03:04,830
+so density's standard units would be kilog per M Cube but what exactly does
+
+00:03:04,830 --> 00:03:07,149
+kilog per M Cube but what exactly does it represent well think about density as
+
+00:03:07,149 --> 00:03:09,630
+it represent well think about density as a measure of how crowded something is or
+
+00:03:09,630 --> 00:03:11,550
+a measure of how crowded something is or how packed something is you know how
+
+00:03:11,550 --> 00:03:15,030
+how packed something is you know how much mass is packed in a unit volume how
+
+00:03:15,030 --> 00:03:18,229
+much mass is packed in a unit volume how many kilograms are packed in a m Cube or
+
+00:03:18,229 --> 00:03:19,710
+many kilograms are packed in a m Cube or you know a more convenient unit would be
+
+00:03:19,710 --> 00:03:22,430
+you know a more convenient unit would be how many grams are packed in a centime
+
+00:03:22,430 --> 00:03:25,070
+how many grams are packed in a centime cube whatever it is it's a measure of
+
+00:03:25,070 --> 00:03:26,670
+cube whatever it is it's a measure of how packed something is so let's take
+
+00:03:26,670 --> 00:03:28,509
+how packed something is so let's take some examples if you take water for
+
+00:03:28,509 --> 00:03:32,110
+some examples if you take water for example it has a den of 1,000 kg per M
+
+00:03:32,110 --> 00:03:34,509
+example it has a den of 1,000 kg per M Cube so you can imagine a m cube of
+
+00:03:34,509 --> 00:03:37,630
+Cube so you can imagine a m cube of water contains 1,000 kg of water but
+
+00:03:37,630 --> 00:03:39,509
+water contains 1,000 kg of water but again I like to think in terms of gram
+
+00:03:39,509 --> 00:03:41,030
+again I like to think in terms of gram per CM Cube that's more convenient so if
+
+00:03:41,030 --> 00:03:43,390
+per CM Cube that's more convenient so if you convert this you end up with 1 G per
+
+00:03:43,390 --> 00:03:45,270
+you convert this you end up with 1 G per CM Cube the idea is the same if you now
+
+00:03:45,270 --> 00:03:51,190
+take a CM cube of water it will have a mass of 1 g in contrast if you consider
+
+00:03:51,190 --> 00:03:55,030
+mass of 1 g in contrast if you consider ion it has a density of 7.8 G per CM
+
+00:03:55,030 --> 00:03:59,149
+ion it has a density of 7.8 G per CM cube a cenm cube of ion has 7.8 G of ion
+
+00:03:59,149 --> 00:04:00,869
+cube a cenm cube of ion has 7.8 G of ion packed into it which is much higher
+
+00:04:00,869 --> 00:04:02,710
+packed into it which is much higher density compared to water and by the way
+
+00:04:02,710 --> 00:04:06,069
+if you're wondering whether this is a coincidence that the you know density of
+
+00:04:06,069 --> 00:04:11,069
+water is exactly 1 G per CM Cube such a nice number it's not a coincidence we
+
+00:04:11,069 --> 00:04:13,509
+nice number it's not a coincidence we defined our gram this way the mass of 1
+
+00:04:13,509 --> 00:04:17,390
+defined our gram this way the mass of 1 cm cube of Water by definition is 1 G
+
+00:04:17,390 --> 00:04:19,150
+cm cube of Water by definition is 1 G but anyways if you consider water or ion
+
+00:04:19,150 --> 00:04:22,870
+for that matter the densities are uniform it's the same everywhere which
+
+00:04:22,870 --> 00:04:24,030
+uniform it's the same everywhere which means if you take a small amount of
+
+00:04:24,030 --> 00:04:25,830
+means if you take a small amount of water here or a large chunk of water
+
+00:04:25,830 --> 00:04:27,710
+water here or a large chunk of water over here the density will be the same 1
+
+00:04:27,710 --> 00:04:31,710
+G per CM Cube similarly if you take a a small chunk of iron from here or a big
+
+00:04:31,710 --> 00:04:33,749
+small chunk of iron from here or a big chunk of iron from a ship for example
+
+00:04:33,749 --> 00:04:36,110
+chunk of iron from a ship for example the density would be the same 7.8 G per
+
+00:04:36,110 --> 00:04:38,830
+the density would be the same 7.8 G per CM Cube but that's not always the case
+
+00:04:38,830 --> 00:04:40,390
+CM Cube but that's not always the case if you consider the density of the air
+
+00:04:40,390 --> 00:04:45,390
+for example close to the surface of the Earth it is roughly about
+
+00:04:45,390 --> 00:04:48,469
+Earth it is roughly about 0.1 G per cmq you can see the density of
+
+00:04:48,469 --> 00:04:51,189
+0.1 G per cmq you can see the density of the air is much much smaller than that
+
+00:04:51,189 --> 00:04:52,550
+the air is much much smaller than that of water it's about thousand times
+
+00:04:52,550 --> 00:04:57,150
+smaller however if you consider the density of the air you know at say about
+
+00:04:57,150 --> 00:04:59,310
+density of the air you know at say about 10 km which is usually the cruising
+
+00:04:59,310 --> 00:05:00,150
+10 km which is usually the cruising altitude
+
+00:05:00,150 --> 00:05:02,310
+altitude of a commercial airline you would find
+
+00:05:02,310 --> 00:05:05,150
+of a commercial airline you would find the density even lower
+
+00:05:05,150 --> 00:05:09,550
+the density even lower 004 approximately G per CM cub and in
+
+00:05:09,550 --> 00:05:16,909
+density but why well think about it this way if you consider the layer of air
+
+00:05:16,909 --> 00:05:19,029
+way if you consider the layer of air over here it's carrying the weight of
+
+00:05:19,029 --> 00:05:22,230
+over here it's carrying the weight of the atmosphere on top of it that weight
+
+00:05:22,230 --> 00:05:24,629
+the atmosphere on top of it that weight is pushing down on the molecules over
+
+00:05:24,629 --> 00:05:27,150
+is pushing down on the molecules over here squeezing them together packing
+
+00:05:27,150 --> 00:05:28,990
+here squeezing them together packing them together giving them a specific
+
+00:05:28,990 --> 00:05:30,950
+them together giving them a specific density but now if you consider a layer
+
+00:05:30,950 --> 00:05:34,230
+density but now if you consider a layer of air that is even lower then look it's
+
+00:05:34,230 --> 00:05:36,710
+of air that is even lower then look it's carrying an additional weight compared
+
+00:05:36,710 --> 00:05:39,390
+carrying an additional weight compared to this layer so it's carrying more
+
+00:05:39,390 --> 00:05:41,309
+to this layer so it's carrying more weight in fact the layer at the bottom
+
+00:05:41,309 --> 00:05:49,790
+much higher and so the molecules are squeezed together much higher packed
+
+00:05:49,790 --> 00:05:53,430
+together more tightly giving you a higher density and that's why the lower
+
+00:05:53,430 --> 00:05:56,390
+higher density and that's why the lower you go higher the density but wait
+
+00:05:56,390 --> 00:05:57,909
+you go higher the density but wait shouldn't the same be the case with
+
+00:05:57,909 --> 00:05:59,309
+shouldn't the same be the case with water as well for example if you
+
+00:05:59,309 --> 00:06:00,790
+water as well for example if you consider the the ocean then shouldn't
+
+00:06:00,790 --> 00:06:04,629
+the layer at the bottom of the ocean have a higher density than the layer at
+
+00:06:04,629 --> 00:06:06,670
+have a higher density than the layer at the top of the ocean well that's a great
+
+00:06:06,670 --> 00:06:09,070
+the top of the ocean well that's a great question but turns out not to be so
+
+00:06:09,070 --> 00:06:11,270
+question but turns out not to be so because of one main difference between
+
+00:06:11,270 --> 00:06:13,589
+because of one main difference between liquids and gases gases can be easily
+
+00:06:13,589 --> 00:06:15,390
+liquids and gases gases can be easily compressed and to demonstrate this here
+
+00:06:15,390 --> 00:06:17,350
+compressed and to demonstrate this here is a syringe which contains only air and
+
+00:06:17,350 --> 00:06:19,350
+is a syringe which contains only air and I've sealed the top with my finger now
+
+00:06:19,350 --> 00:06:21,469
+I've sealed the top with my finger now let me try and push it and you can see I
+
+00:06:21,469 --> 00:06:24,150
+let me try and push it and you can see I can easily compress it I have compressed
+
+00:06:24,150 --> 00:06:26,029
+can easily compress it I have compressed the gas and I've increased the density
+
+00:06:26,029 --> 00:06:27,950
+the gas and I've increased the density just by using my finger but now let's
+
+00:06:27,950 --> 00:06:29,189
+just by using my finger but now let's see what happens if you fill the syringe
+
+00:06:29,189 --> 00:06:30,309
+see what happens if you fill the syringe with water
+
+00:06:30,309 --> 00:06:32,270
+with water again seal the top with my finger and
+
+00:06:32,270 --> 00:06:35,150
+again seal the top with my finger and now if I'm pushing it no look it's I
+
+00:06:35,150 --> 00:06:37,830
+now if I'm pushing it no look it's I can't compress it even a little bit I am
+
+00:06:37,830 --> 00:06:40,950
+can't compress it even a little bit I am pushing as hard as I can it's just not
+
+00:06:40,950 --> 00:06:46,589
+possible so this means liquids are extremely hard to compress and because
+
+00:06:46,589 --> 00:06:48,469
+extremely hard to compress and because you can't compress them you can't
+
+00:06:48,469 --> 00:06:50,309
+you can't compress them you can't squeeze the molecules closer and you
+
+00:06:50,309 --> 00:06:52,309
+squeeze the molecules closer and you can't increase the density and so that's
+
+00:06:52,309 --> 00:06:56,510
+why even though at the bottom the pressures are insanely High compared to
+
+00:06:56,510 --> 00:06:59,189
+the top of the oceans in fact the pressures at the bottom are so high that
+
+00:06:59,189 --> 00:07:01,550
+pressures at the bottom are so high that even submarines can get crushed but
+
+00:07:01,550 --> 00:07:04,469
+even submarines can get crushed but because compressing water is extremely
+
+00:07:04,469 --> 00:07:06,189
+because compressing water is extremely difficult the molecules will not come
+
+00:07:06,189 --> 00:07:07,950
+difficult the molecules will not come any closer than they are at the top and
+
+00:07:07,950 --> 00:07:09,550
+any closer than they are at the top and as a result the density is pretty much
+
+00:07:09,550 --> 00:07:18,589
+model water as an ideal fluid which is in compressible I mean technically you
+
+00:07:18,589 --> 00:07:21,670
+in compressible I mean technically you can compress water if you put horrendous
+
+00:07:21,670 --> 00:07:23,909
+can compress water if you put horrendous amounts of forces but since we're not
+
+00:07:23,909 --> 00:07:26,230
+amounts of forces but since we're not dealing with such high forces usually we
+
+00:07:26,230 --> 00:07:28,990
+dealing with such high forces usually we can model it to be incompressible so
+
+00:07:28,990 --> 00:07:31,830
+can model it to be incompressible so ideal fluids are incompressible and they
+
+00:07:31,830 --> 00:07:34,029
+ideal fluids are incompressible and they also have no viscosity what does that
+
+00:07:34,029 --> 00:07:36,869
+also have no viscosity what does that mean well some fluids can be very thick
+
+00:07:36,869 --> 00:07:38,710
+mean well some fluids can be very thick making them very hard to flow think
+
+00:07:38,710 --> 00:07:41,309
+making them very hard to flow think about ketchup or honey for example
+
+00:07:41,309 --> 00:07:44,189
+about ketchup or honey for example because of their thickness or viscosity
+
+00:07:44,189 --> 00:07:46,629
+because of their thickness or viscosity it can produce resistance to motion but
+
+00:07:46,629 --> 00:07:49,230
+it can produce resistance to motion but if we dealing with ideal fluids we model
+
+00:07:49,230 --> 00:07:51,029
+if we dealing with ideal fluids we model them by saying that hey ideal fluids
+
+00:07:51,029 --> 00:07:52,909
+them by saying that hey ideal fluids have no viscosity at all all right now
+
+00:07:52,909 --> 00:07:54,510
+have no viscosity at all all right now let's try to explore why stuff sinks or
+
+00:07:54,510 --> 00:07:58,390
+floats when we mix fluids or fluid in a solid so let's see what happens when you
+
+00:07:58,390 --> 00:08:00,710
+solid so let's see what happens when you mix water and oil what we notice is that
+
+00:08:00,710 --> 00:08:03,390
+mix water and oil what we notice is that if you allow them to settle oil Floats
+
+00:08:03,390 --> 00:08:05,790
+if you allow them to settle oil Floats or you could say that water sinks but
+
+00:08:05,790 --> 00:08:07,790
+or you could say that water sinks but why well first of all we can easily
+
+00:08:07,790 --> 00:08:10,510
+model them as ideal fluids because the density is pretty much the same
+
+00:08:10,510 --> 00:08:16,390
+that oil has a density that's less than that of water so stuff that has less
+
+00:08:16,390 --> 00:08:18,950
+that of water so stuff that has less density tends to float or you could say
+
+00:08:18,950 --> 00:08:20,790
+density tends to float or you could say that water has a density more than that
+
+00:08:20,790 --> 00:08:23,029
+that water has a density more than that of oil and therefore it sinks stuff that
+
+00:08:23,029 --> 00:08:25,550
+of oil and therefore it sinks stuff that has more density tends to sink let's
+
+00:08:25,550 --> 00:08:28,029
+has more density tends to sink let's take another example if you put an iron
+
+00:08:28,029 --> 00:08:31,070
+take another example if you put an iron bolt in in water it sinks why because we
+
+00:08:31,070 --> 00:08:32,790
+bolt in in water it sinks why because we already saw ion has a much higher
+
+00:08:32,790 --> 00:08:35,509
+already saw ion has a much higher density than water what about ice ice
+
+00:08:35,509 --> 00:08:38,350
+density than water what about ice ice floats on water because it has a less
+
+00:08:38,350 --> 00:08:40,790
+floats on water because it has a less density than water here's another way to
+
+00:08:40,790 --> 00:08:42,949
+density than water here's another way to think about it here the gravitational
+
+00:08:42,949 --> 00:08:45,470
+think about it here the gravitational field is acting downwards isn't it so
+
+00:08:45,470 --> 00:08:46,990
+field is acting downwards isn't it so stuff which has more density tends to
+
+00:08:46,990 --> 00:08:50,310
+move in the direction of the gravitational field sinking and stuff
+
+00:08:50,310 --> 00:08:52,750
+gravitational field sinking and stuff that has less density tends to move
+
+00:08:52,750 --> 00:08:55,110
+that has less density tends to move against the gravitational field what's
+
+00:08:55,110 --> 00:09:02,269
+flotation or Sinking and it's for the same reason why helium balloons tend to
+
+00:09:02,269 --> 00:09:04,350
+same reason why helium balloons tend to move up because they have a density
+
+00:09:04,350 --> 00:09:06,870
+move up because they have a density that's less than the surrounding air and
+
+00:09:06,870 --> 00:09:11,790
+therefore they move up against the gravitational field okay now let's see
+
+00:09:11,790 --> 00:09:13,069
+gravitational field okay now let's see if we can use this to explain our
+
+00:09:13,069 --> 00:09:14,949
+if we can use this to explain our original question about the Earth when
+
+00:09:14,949 --> 00:09:19,350
+the earth was formed we beli that it was highly molten and so we can model them
+
+00:09:19,350 --> 00:09:22,949
+highly molten and so we can model them as a you know as an ideal fluid now in
+
+00:09:22,949 --> 00:09:25,990
+as a you know as an ideal fluid now in this fluid the gravitational field acts
+
+00:09:25,990 --> 00:09:31,069
+towards the center so stuff that is having a high density like iron and
+
+00:09:31,069 --> 00:09:36,310
+nickel they will tend to move along the gravitational field sinking and
+
+00:09:36,310 --> 00:09:39,470
+gravitational field sinking and eventually settling towards the core on
+
+00:09:39,470 --> 00:09:41,630
+eventually settling towards the core on the other hand stuff that has lighter
+
+00:09:41,630 --> 00:09:45,750
+you know lower density like the silicates for example tend to move
+
+00:09:45,750 --> 00:09:51,150
+against the gravitational field they had to float and that's why they settle near
+
+00:09:51,150 --> 00:09:52,949
+to float and that's why they settle near the surface and that's why eventually
+
+00:09:52,949 --> 00:09:57,350
+when this molten rock cool to form the Earth the core ended up having high
+
+00:09:57,350 --> 00:09:59,750
+Earth the core ended up having high density heavy metals and the crust ends
+
+00:09:59,750 --> 00:10:02,910
+density heavy metals and the crust ends up having the silicates amazing isn't it
+
+00:10:02,910 --> 00:10:05,269
+up having the silicates amazing isn't it finally we go back to water we know that
+
+00:10:05,269 --> 00:10:07,509
+finally we go back to water we know that ice floats on water but that's a little
+
+00:10:07,509 --> 00:10:09,269
+ice floats on water but that's a little weird if you think about it because
+
+00:10:09,269 --> 00:10:11,750
+weird if you think about it because whenever you cool something the molecule
+
+00:10:11,750 --> 00:10:13,790
+whenever you cool something the molecule tends to have less thermal motion
+
+00:10:13,790 --> 00:10:15,110
+tends to have less thermal motion because of which they tend to come
+
+00:10:15,110 --> 00:10:18,269
+because of which they tend to come closer together so the density actually
+
+00:10:18,269 --> 00:10:20,990
+closer together so the density actually increases when you cool stuff generally
+
+00:10:20,990 --> 00:10:22,710
+increases when you cool stuff generally okay that kind of makes sense right so
+
+00:10:22,710 --> 00:10:25,030
+okay that kind of makes sense right so in reality density depends on
+
+00:10:25,030 --> 00:10:26,790
+in reality density depends on temperature and the same thing works for
+
+00:10:26,790 --> 00:10:29,110
+temperature and the same thing works for water as you cool down water its density
+
+00:10:29,110 --> 00:10:32,389
+water as you cool down water its density will will keep increasing until we reach
+
+00:10:32,389 --> 00:10:38,910
+4° C guess what turns out that water has a maximum density at 4° C and that
+
+00:10:38,910 --> 00:10:41,710
+a maximum density at 4° C and that maximum density is 1 G per cmq so we
+
+00:10:41,710 --> 00:10:43,750
+maximum density is 1 G per cmq so we should have actually told you know that
+
+00:10:43,750 --> 00:10:45,790
+should have actually told you know that the water's density is 1 G per CM Cube
+
+00:10:45,790 --> 00:10:47,670
+the water's density is 1 G per CM Cube or 1,000 kg per M Cube whatever you want
+
+00:10:47,670 --> 00:10:50,629
+or 1,000 kg per M Cube whatever you want to think of it as at 4° C because
+
+00:10:50,629 --> 00:10:52,750
+to think of it as at 4° C because density does depend on temperature but
+
+00:10:52,750 --> 00:10:54,389
+density does depend on temperature but wait what happens if you cool down water
+
+00:10:54,389 --> 00:10:59,750
+below 4° C well now molecules will have such low thermal energy that they lock
+
+00:10:59,750 --> 00:11:02,190
+such low thermal energy that they lock in places and look in doing so they
+
+00:11:02,190 --> 00:11:05,350
+in places and look in doing so they start forming gaps in between which
+
+00:11:05,350 --> 00:11:08,509
+start forming gaps in between which reduces the overall density and that's
+
+00:11:08,509 --> 00:11:12,350
+reduces the overall density and that's why density tends to decrease below 4° C
+
+00:11:12,350 --> 00:11:14,230
+why density tends to decrease below 4° C and eventually as water crystallizes
+
+00:11:14,230 --> 00:11:16,670
+and eventually as water crystallizes into ice ice ends up having lower
+
+00:11:16,670 --> 00:11:19,190
+into ice ice ends up having lower density than water and therefore ends up
+
+00:11:19,190 --> 00:11:21,590
+density than water and therefore ends up floating and this has a huge consequence
+
+00:11:21,590 --> 00:11:23,710
+floating and this has a huge consequence on the Aquatic Life in really really
+
+00:11:23,710 --> 00:11:26,150
+on the Aquatic Life in really really cool places so if we go back to our
+
+00:11:26,150 --> 00:11:28,509
+cool places so if we go back to our Antarctica for example we can model
+
+00:11:28,509 --> 00:11:30,350
+Antarctica for example we can model Water by considering three different
+
+00:11:30,350 --> 00:11:31,990
+Water by considering three different layers okay let's say the current
+
+00:11:31,990 --> 00:11:34,910
+layers okay let's say the current temperature is about 60° C okay now what
+
+00:11:34,910 --> 00:11:37,269
+temperature is about 60° C okay now what if the temperature outside reduces to 5°
+
+00:11:37,269 --> 00:11:41,829
+Celsius what's going to happen well the surface of the water which is in direct
+
+00:11:41,829 --> 00:11:46,069
+contact with the surrounding that is first going to lose heat and as a result
+
+00:11:46,069 --> 00:11:48,550
+first going to lose heat and as a result reduce its temperature to 5° C now
+
+00:11:48,550 --> 00:11:50,870
+reduce its temperature to 5° C now because it is colder it has a higher
+
+00:11:50,870 --> 00:11:53,389
+because it is colder it has a higher density and as a result it will sink
+
+00:11:53,389 --> 00:11:56,590
+density and as a result it will sink below the other layers and now this one
+
+00:11:56,590 --> 00:12:00,110
+below the other layers and now this one will you know cool down to 5° C it gets
+
+00:12:00,110 --> 00:12:05,870
+sink and eventually the last layer will come on top so this is how we can model
+
+00:12:05,870 --> 00:12:08,470
+come on top so this is how we can model how extremely large water bodies cool
+
+00:12:08,470 --> 00:12:10,110
+how extremely large water bodies cool down now if the temperature gets lower
+
+00:12:10,110 --> 00:12:12,550
+down now if the temperature gets lower to say 4° C again the same thing repeats
+
+00:12:12,550 --> 00:12:15,269
+to say 4° C again the same thing repeats and the whole ocean now is at 4° C but
+
+00:12:15,269 --> 00:12:18,710
+and the whole ocean now is at 4° C but at 4° C remember we have maximum density
+
+00:12:18,710 --> 00:12:20,990
+at 4° C remember we have maximum density now if the saring temperature goes below
+
+00:12:20,990 --> 00:12:24,150
+now if the saring temperature goes below 4° C let's say 3° C again the top layer
+
+00:12:24,150 --> 00:12:25,870
+4° C let's say 3° C again the top layer will go down to 3° C because it's in
+
+00:12:25,870 --> 00:12:28,670
+will go down to 3° C because it's in direct contact but look now the density
+
+00:12:28,670 --> 00:12:31,470
+direct contact but look now the density is lower than the layers below which
+
+00:12:31,470 --> 00:12:34,230
+is lower than the layers below which means it cannot sink it will keep
+
+00:12:34,230 --> 00:12:38,389
+floating and these layers will not have a chance to keep come in contact with
+
+00:12:38,389 --> 00:12:40,069
+a chance to keep come in contact with the surrounding layer and therefore
+
+00:12:40,069 --> 00:12:42,269
+the surrounding layer and therefore relatively they will stay warm pretty
+
+00:12:42,269 --> 00:12:45,150
+relatively they will stay warm pretty close to 4° C and now as the temperature
+
+00:12:45,150 --> 00:12:47,990
+close to 4° C and now as the temperature keeps dropping this is the layer that's
+
+00:12:47,990 --> 00:12:49,750
+keeps dropping this is the layer that's whose temperature will keep dropping
+
+00:12:49,750 --> 00:12:51,430
+whose temperature will keep dropping keeping the lower layers warm and
+
+00:12:51,430 --> 00:12:53,590
+keeping the lower layers warm and eventually this layer will crystallize
+
+00:12:53,590 --> 00:12:55,750
+eventually this layer will crystallize and now it doesn't matter how cold it
+
+00:12:55,750 --> 00:12:59,990
+gets outside the lower layers are protected and this is why only the top
+
+00:12:59,990 --> 00:13:01,829
+protected and this is why only the top of the water body tends to get Frozen
+
+00:13:01,829 --> 00:13:04,710
+of the water body tends to get Frozen and the bottom will stay relatively warm
+
+00:13:04,710 --> 00:13:06,350
+and the bottom will stay relatively warm and it will stay in the liquid form it
+
+00:13:06,350 --> 00:13:11,560
+and it will stay in the liquid form it allows Aquatic Life to exist
