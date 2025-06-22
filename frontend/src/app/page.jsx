@@ -7,6 +7,7 @@ import React, { useRef, useState } from "react";
 import YouTube from "react-youtube";
 import { useInterval } from "usehooks-ts";
 import logo from '../../public/logo.png';
+import screenshot from '../../public/screenshot.png';
 
 
 
@@ -14,9 +15,10 @@ import logo from '../../public/logo.png';
 function Logo() {
   // return <Text className="flex-grow">Logo</Text>;
   return (
-    <Box className="flex-grow">
-      <Image src={logo} height={35} alt="logo" />
-    </Box>
+    <Flex className="flex-grow" align="center" gap="1">
+      <Image src={logo} height={30} alt="logo" />
+      <Heading size="4">ClipStudy.ai</Heading>
+    </Flex>
   );
 }
 
@@ -139,14 +141,27 @@ export default function Home() {
   }
 
   useInterval(() => {
-    if (playerRef.current && playerRef.current.getPlayerState() !== 2) {
+    // if (playerRef.current && playerRef.current.getPlayerState() !== 2) {
+    //   const currentTime = playerRef.current.getCurrentTime();
+    //   setCurrentTime(currentTime);
+
+    //   let v = video.transcript_parsed.find(t => (t.starts <= currentTime && currentTime <= t.ends));
+    //   if (v) {
+    //     // console.log(document.getElementById(`transcript${v.id}`))
+    //     document.getElementById(`transcript${v.id}`)?.scrollIntoView();
+    //   }
+    // }
+
+    if (playerRef.current) {
       const currentTime = playerRef.current.getCurrentTime();
       setCurrentTime(currentTime);
 
-      let v = video.transcript_parsed.find(t => (t.starts <= currentTime && currentTime <= t.ends));
-      if (v) {
-        // console.log(document.getElementById(`transcript${v.id}`))
-        document.getElementById(`transcript${v.id}`)?.scrollIntoView();
+      if (playerRef.current.getPlayerState() !== 2) {
+        let v = video.transcript_parsed.find(t => (t.starts <= currentTime && currentTime <= t.ends));
+        if (v) {
+          // console.log(document.getElementById(`transcript${v.id}`))
+          document.getElementById(`transcript${v.id}`)?.scrollIntoView();
+        }
       }
     }
   }, 0);
@@ -237,6 +252,9 @@ export default function Home() {
                   height: `${VIDEO_OPTIONS.height}`,
                   playerVars: {
                     autoplay: 1,
+                    controls: 1,
+                    cc_load_policy: 1,        // 💬 Force captions on
+                    cc_lang_pref: 'en',
                   }
                 }} />
 
@@ -302,7 +320,16 @@ export default function Home() {
               </ScrollArea>
             </Flex>
           ) : (
-            null
+            <Grid width="100%" height="100%" px="16px" pt="16px" columns="37% 100%" className="overflow-clip">
+              <Box mt="100px" ml="50px">
+                <Heading>Your Personal Accelerated AI Video Tutor</Heading>
+                <Text>Increase effectiveness of video-based learning <br /></Text>
+                <Button mt="2">Try now</Button>
+              </Box>
+              <Box mt="50px">
+                <Image alt="screenshot" src={screenshot} height={400} />
+              </Box>
+            </Grid>
           )}
     
         </Box>
