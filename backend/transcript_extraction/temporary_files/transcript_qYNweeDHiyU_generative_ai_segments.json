@@ -1,0 +1,36 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=qYNweeDHiyU",
+  "video_id": "qYNweeDHiyU",
+  "query": "generative ai",
+  "segments": [
+    {
+      "start": "00:05:58,150",
+      "end": "00:06:13,710",
+      "title": "Introducing Generative AI",
+      "summary": "The speaker identifies generative AI as the most recent advancement in artificial intelligence. Foundation models are introduced as the basis for modern generative AI technologies.",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:06:13,710",
+      "end": "00:07:16,270",
+      "title": "Generative AI Capabilities",
+      "summary": "Explains how generative AI uses large language models to predict and generate content beyond single words, extending to sentences, paragraphs and entire documents. Addresses the debate about whether generative AI truly creates new content.",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:07:51,710",
+      "end": "00:08:22,309",
+      "title": "Types of Generative Models",
+      "summary": "Discusses different types of generative AI models including audio and video models, which can be used to create deep fakes and voice recreations.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:08:50,790",
+      "end": "00:09:10,350",
+      "title": "Impact of Generative AI",
+      "summary": "Describes how generative AI has brought widespread attention to artificial intelligence through its content generation and summarization capabilities. Highlights the significant impact of chat bots and similar technologies.",
+      "relevance_score": 4
+    }
+  ],
+  "total_segments": 4
+}
