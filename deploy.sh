@@ -42,7 +42,8 @@ fi
 # Start frontend server
 echo "🎨 Starting frontend server (Next.js) on port 3000..."
 cd frontend
-pnpm dev &
+pnpm build
+pnpm start &
 FRONTEND_PID=$!
 cd ..
 
