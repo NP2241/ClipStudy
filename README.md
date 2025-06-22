@@ -6,9 +6,7 @@ A comprehensive project for smart language model applications.
 
 - `backend/` - Backend services and API
 - `frontend/` - Frontend application
-- `data_science/` - Data science and ML models
 - `docs/` - Documentation
-- `tests/` - Test suites
 
 ## Getting Started
 
