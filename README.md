@@ -1,6 +1,6 @@
-# SmartLLMs
+# ClipStudy
 
-A comprehensive project for smart language model applications.
+ClipStudy.ai lets you paste a YouTube lecture link and instantly jump to any concept you search for- no more endless scrolling, just focused, AI-powered video review.
 
 ## Project Structure
 
