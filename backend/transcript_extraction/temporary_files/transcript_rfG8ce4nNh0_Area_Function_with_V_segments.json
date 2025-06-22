@@ -1,0 +1,36 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=rfG8ce4nNh0",
+  "video_id": "rfG8ce4nNh0",
+  "query": "Area Function with Variable Upper Bound",
+  "segments": [
+    {
+      "start": "00:09:34,320",
+      "end": "00:09:56,900",
+      "title": "Area Function with Variable Bound",
+      "summary": "Introduces the concept of treating the integral's right endpoint as a variable T. The area under the velocity curve between 0 and T represents the distance traveled after T seconds, making it a distance vs time function s(t).",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:10:07,300",
+      "end": "00:10:31,700",
+      "title": "Derivative of Area Function",
+      "summary": "Explains how the derivative of the area function equals velocity. Shows how a small change dt in the input causes a change ds in area, represented by a thin sliver whose area is approximately v(t) times dt.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:10:31,740",
+      "end": "00:11:01,680",
+      "title": "Area Function Derivative Proof",
+      "summary": "Demonstrates that for small enough dt, the change in area ds is approximately v(t)dt, proving that the derivative of the area function equals the height of the original function at each point.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:16:18,680",
+      "end": "00:16:25,400",
+      "title": "Recap of Area Function",
+      "summary": "Reviews the key concept that integrating velocity over time gives distance, with the area function using a variable upper bound representing total distance traveled up to that point.",
+      "relevance_score": 3
+    }
+  ],
+  "total_segments": 4
+}
