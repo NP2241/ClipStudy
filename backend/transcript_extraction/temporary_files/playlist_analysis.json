@@ -1,0 +1,534 @@
+{
+  "JaoR2M8QHDM": {
+    "video_url": "https://www.youtube.com/watch?v=JaoR2M8QHDM",
+    "title": "Math 151 10/3/2022 1000 am",
+    "relevant": true,
+    "relevance_score": 5,
+    "explanation": "This video very likely contains relevant content as it includes chapters specifically about 'Finding the Area of a Surface of Revolution' which directly relates to finding the area when rotating about an axis. The presence of related calculus concepts like 'Average Radius', 'Chain Rule', and 'Limits of Integration' further suggests this video covers the mathematical techniques needed for calculating areas of revolution.",
+    "relevant_elements": [
+      "chapters - Finding the Area of a Surface of Revolution",
+      "chapters - Find the Average Radius",
+      "chapters - Limits of Integration"
+    ],
+    "confidence": "high",
+    "timestamp": null
+  },
+  "rOjN7aB4DqM": {
+    "video_url": "https://www.youtube.com/watch?v=rOjN7aB4DqM",
+    "title": "Math 151 8/29/2022 10:00 am",
+    "relevant": true,
+    "relevance_score": 4,
+    "explanation": "The video appears to be a calculus lecture that covers volumes of solids of revolution and related concepts. While it explicitly shows content about rotating around the x-axis (Chapter 6), the presence of multiple chapters about solids of revolution, volumes, and disc method strongly suggests the video would also cover rotation about the y-axis as these topics are typically taught together. The video dedicates significant attention to related concepts like volumes of revolution, disc method, and limits of integration.",
+    "relevant_elements": [
+      "chapters.The Volume of a Solid of Revolution",
+      "chapters.The Disc Method",
+      "chapters.Rotating the Region about the X-Axis",
+      "chapters.An Integral That Finds the Volume of a Solid",
+      "chapters.Find the Volume"
+    ],
+    "confidence": "medium",
+    "timestamp": null
+  },
+  "3MTl36NnQac": {
+    "video_url": "https://www.youtube.com/watch?v=3MTl36NnQac",
+    "title": "Math 151 10/5/2022 10:00 am",
+    "relevant": true,
+    "relevance_score": 4,
+    "explanation": "This video appears to be a calculus lecture that covers surface area and integration concepts. The presence of chapters about 'Surface Area', 'The Integral for Surface Area', and integration-related topics (U Substitution, Limits of Integration) strongly suggests this video covers techniques for calculating areas using calculus methods. While it doesn't explicitly mention rotation about the y-axis, the combination of surface area and integration topics makes it likely this content is covered.",
+    "relevant_elements": [
+      "chapters: Formula To Find the Surface Area",
+      "chapters: The Integral for Surface Area",
+      "chapters: U Substitution",
+      "chapters: Limits of Integration",
+      "chapters: Write an Integral in Terms of Y"
+    ],
+    "confidence": "medium",
+    "timestamp": null
+  },
+  "Akz5neXPRzA": {
+    "video_url": "https://www.youtube.com/watch?v=Akz5neXPRzA",
+    "title": "Math 151 9/7/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course recording (Math 151) which could cover topics related to area under curves and rotation around axes, as these are common calculus topics. However, without more specific metadata like chapters or a description, we cannot be certain this particular lecture covered those concepts.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "IlH2Hz2aKF8": {
+    "video_url": "https://www.youtube.com/watch?v=IlH2Hz2aKF8",
+    "title": "Math 151 9/19/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "This appears to be a math course lecture (Math 151) which could cover topics related to calculating area by rotation about axes, but the title only contains the course number and date without specific topic information. Math 151 is often a calculus course where volume by rotation is typically covered, but without more detailed metadata we cannot be certain.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "RXjw-DCRoDo": {
+    "video_url": "https://www.youtube.com/watch?v=RXjw-DCRoDo",
+    "title": "Math 151 10/14/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course recording (Math 151) but has minimal metadata available. While calculus courses often cover topics like area under curves and rotation about axes, without more specific information in the title or additional metadata, we can only make assumptions based on typical course content.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "Kxh06QbsfvY": {
+    "video_url": "https://www.youtube.com/watch?v=Kxh06QbsfvY",
+    "title": "Math 151 10/17/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be from a college-level math course (Math 151) which typically covers calculus concepts including volumes of revolution and area calculations. However, without more specific information from chapters or description, we cannot be certain if this specific lecture covered area under curves rotating about the y-axis.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "g4P3-S27Hzw": {
+    "video_url": "https://www.youtube.com/watch?v=g4P3-S27Hzw",
+    "title": "Math 151 10/19/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course lecture (Math 151) but without more detailed metadata like chapters or description, it's impossible to know if this specific lecture covers area under curve rotating about y-axis. The course number 151 typically suggests a calculus-level course where such topics are commonly covered, but the date-style title provides minimal topical information.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "0dhk1VhjNVY": {
+    "video_url": "https://www.youtube.com/watch?v=0dhk1VhjNVY",
+    "title": "Math 151 10/21/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course lecture (Math 151) but without more detailed metadata like chapters or description, it's impossible to know for certain if this specific lecture covers area under curves or rotation about the y-axis. Given that these topics are commonly covered in introductory calculus courses (which Math 151 likely is), there's a possibility the content is relevant.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "14D1kG4GPXw": {
+    "video_url": "https://www.youtube.com/watch?v=14D1kG4GPXw",
+    "title": "Math 151 10/24/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course lecture (Math 151) but without additional metadata like chapters or description, it's impossible to know if this specific lecture covered area under curves and rotation about the y-axis. The course number (151) suggests this is likely a calculus course where such topics are commonly covered, but the date alone doesn't provide topic-specific information.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "xQfexugmqAE": {
+    "video_url": "https://www.youtube.com/watch?v=xQfexugmqAE",
+    "title": "Math 151 10/26/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course lecture (Math 151) but has minimal metadata available. While calculus courses typically cover topics like area under curves and rotation about axes, without more specific information in chapters or description, we can only make assumptions based on typical course content.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "Xqr-3OMZwvA": {
+    "video_url": "https://www.youtube.com/watch?v=Xqr-3OMZwvA",
+    "title": "Math 151 10/28/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course lecture (Math 151) but provides limited metadata. While college-level math courses often cover topics like area under curves and rotation about axes, without more specific chapter or description information, we can only make assumptions based on typical curriculum content.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "xDEL4Cs8xHE": {
+    "video_url": "https://www.youtube.com/watch?v=xDEL4Cs8xHE",
+    "title": "Math 151 10/31/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course lecture (Math 151) but without more detailed metadata like chapters or description, it's impossible to know for certain if this specific lecture covers area under curves rotating about the y-axis. The date (10/31) in a typical calculus course schedule could align with when this topic is often covered, but this is speculative.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "KHQ0iFuhRv0": {
+    "video_url": "https://www.youtube.com/watch?v=KHQ0iFuhRv0",
+    "title": "Math 151 11/02/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be from a college-level math course (Math 151), which typically covers calculus concepts including volumes of revolution and areas under curves. However, without more specific information from chapters or description, we cannot be certain this particular lecture covers the specific topic of rotating about the y-axis.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "cE0aJWNW18U": {
+    "video_url": "https://www.youtube.com/watch?v=cE0aJWNW18U",
+    "title": "Math 151 11/04/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course recording (Math 151) but without more details like chapters or a description, it's difficult to determine if it specifically covers area under curve rotation about the y-axis. However, since this topic is commonly covered in first-year college math courses like Math 151, it possibly contains relevant content.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "WILmk44NyNo": {
+    "video_url": "https://www.youtube.com/watch?v=WILmk44NyNo",
+    "title": "Math 151 11/07/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course lecture (Math 151) which could potentially cover topics related to area under curves and rotation about axes, as these are common calculus topics. However, without more specific details in the title or additional metadata like chapters/description, cannot confirm with certainty that this specific lecture covers the queried topic.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "UZTFhAeanUk": {
+    "video_url": "https://www.youtube.com/watch?v=UZTFhAeanUk",
+    "title": "Math 151 11/09/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course recording (Math 151) which could cover topics related to area under curves and rotation about axes, as these are common calculus topics. However, without more specific information in the title or additional metadata like chapters or description, it's impossible to be certain about the specific content covered in this lecture.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "dIi3QD3XE2s": {
+    "video_url": "https://www.youtube.com/watch?v=dIi3QD3XE2s",
+    "title": "Math 151 11/14/2022 11:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course recording (Math 151) from a specific date, but without more detailed metadata like chapters or description, it's impossible to know for certain if it covers area under curves rotating about the y-axis. Given this is a common calculus topic and Math 151 is typically a calculus course, it possibly contains relevant content.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "hDhuc6HVY7g": {
+    "video_url": "https://www.youtube.com/watch?v=hDhuc6HVY7g",
+    "title": "Math 151 11/16/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course lecture (Math 151) but lacks specific topic information in the title. Since area under curves and rotation about axes are common topics in college-level math courses like Calculus 1 or 2, this content may be covered, but without more specific metadata it's impossible to be certain.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "VvcLnlhNvTc": {
+    "video_url": "https://www.youtube.com/watch?v=VvcLnlhNvTc",
+    "title": "Math 151 11/18/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be from a college-level math course (Math 151) which typically covers calculus concepts including volumes of revolution and area calculations. However, without more specific metadata like chapters or description, we cannot be certain if this particular lecture covered area under curves rotating about the y-axis.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "fxLfvdsvO5o": {
+    "video_url": "https://www.youtube.com/watch?v=fxLfvdsvO5o",
+    "title": "Math 151 11/21/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course recording (Math 151) from a specific date, but without more detailed metadata like chapters or description, it's impossible to know definitively if it covers area under curve rotations. Math 151 is typically a calculus course which often covers volumes of revolution and related topics, but the title alone doesn't confirm this specific content.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "HrR--FE5TP4": {
+    "video_url": "https://www.youtube.com/watch?v=HrR--FE5TP4",
+    "title": "Math 151 11/28/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course lecture (Math 151) but lacks specific topic information in the title. Since area under curves and rotation about axes are common calculus topics often covered in introductory college math courses like Math 151, it may contain relevant content. However, without more detailed metadata like chapters or description, cannot confirm with high confidence.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "AOpjLvWX-bM": {
+    "video_url": "https://www.youtube.com/watch?v=AOpjLvWX-bM",
+    "title": "Math 151 11/28/2022 11:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course lecture (Math 151) which could cover topics related to calculating area under curves and rotation around axes, as these are common calculus topics. However, without more specific information in the title or additional metadata like chapters/description, we cannot be certain this specific lecture covers the queried topic.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "n4oBAZc0o9Y": {
+    "video_url": "https://www.youtube.com/watch?v=n4oBAZc0o9Y",
+    "title": "Math 151 12/02/2022 10:00 AM",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course recording (Math 151) but lacks specific topic information in the title. Since area under curves and rotation about axes are common topics in college-level math courses like Calculus 1 or 2, it may contain relevant content, but without more detailed metadata it's impossible to be certain.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "kxhp0H_yRSY": {
+    "video_url": "https://www.youtube.com/watch?v=kxhp0H_yRSY",
+    "title": "Math 151 12/5/2022 10:00",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be from a Math 151 course, which typically covers calculus concepts including volumes of revolution and area calculations. However, without more specific metadata like chapters or a description, we cannot be certain if this particular lecture covered area under curves rotating about the y-axis.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "F1AC64g4LL8": {
+    "video_url": "https://www.youtube.com/watch?v=F1AC64g4LL8",
+    "title": "Math 151 12/7/2022 1000",
+    "relevant": true,
+    "relevance_score": 3,
+    "explanation": "The video appears to be a math course lecture (Math 151) but the title only contains a date and time without specific topic information. Since area under curves and rotation around axes are common topics in college-level math courses like Math 151 (typically Calculus), it may contain relevant content, but without more specific metadata cannot be certain.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "zbiqtlxGuR8": {
+    "video_url": "https://www.youtube.com/watch?v=zbiqtlxGuR8",
+    "title": "Math 151 8/24/2022 1100 am",
+    "relevant": false,
+    "relevance_score": 2,
+    "explanation": "The video title only indicates it's a Math 151 class from a specific date and time. Without additional metadata like chapters or description, we cannot determine if this specific lecture covers area under curve rotation about the y-axis. While Math 151 typically covers calculus topics that might include volumes of revolution, there's not enough specific information to confirm relevance.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "h3xHqu9N_b0": {
+    "video_url": "https://www.youtube.com/watch?v=h3xHqu9N_b0",
+    "title": "Math 151 8/26/2022 10:00 am",
+    "relevant": false,
+    "relevance_score": 2,
+    "explanation": "The video title only indicates it's a Math 151 course lecture from a specific date, without any clear indication of covering area under curves or rotation about axes. While Math 151 typically covers calculus concepts, there's not enough specific information to determine if this particular lecture covers the requested topic.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "UEs8VcXxW3Q": {
+    "video_url": "https://www.youtube.com/watch?v=UEs8VcXxW3Q",
+    "title": "Math 151 8/31/2022 10:00 am part 1",
+    "relevant": false,
+    "relevance_score": 2,
+    "explanation": "The video title only indicates it's a Math 151 class from a specific date and time, with no clear indication it covers area under curves or rotation about the y-axis. While Math 151 is often a calculus course which might cover such topics, without more detailed metadata like chapters or description, we cannot confidently determine if this specific lecture covers the requested content.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "fPNieScacOE": {
+    "video_url": "https://www.youtube.com/watch?v=fPNieScacOE",
+    "title": "Math 151 9/2/2022",
+    "relevant": false,
+    "relevance_score": 2,
+    "explanation": "The video title only indicates it's a math class (Math 151) and a date (9/2/2022), with no specific mention of calculus concepts like area under curves or rotation about axes. While Math 151 could be a calculus course that covers these topics, there's not enough metadata to confidently determine if this specific lecture covers the requested content.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "OJTiF3XriDc": {
+    "video_url": "https://www.youtube.com/watch?v=OJTiF3XriDc",
+    "title": "Math 151 9/9 10:00 AM",
+    "relevant": false,
+    "relevance_score": 2,
+    "explanation": "While this appears to be a calculus course video (Math 151) that covers integration topics, the chapters focus primarily on trigonometric functions, inverse trig functions, and integration by parts. There's no explicit mention of area under curves or rotation about axes. Although integration is a key concept in calculating volumes of revolution, the specific topic of rotating about the y-axis isn't clearly indicated in the metadata.",
+    "relevant_elements": [
+      "title",
+      "chapters 3, 5, 7"
+    ],
+    "confidence": "medium",
+    "timestamp": null
+  },
+  "tzwteLbfv3E": {
+    "video_url": "https://www.youtube.com/watch?v=tzwteLbfv3E",
+    "title": "Math 151 9/14/2022 10:00 AM",
+    "relevant": false,
+    "relevance_score": 2,
+    "explanation": "The video appears to be a math course recording (Math 151) from a specific date, but without additional metadata like chapters or description, it's impossible to determine if it specifically covers area under curves rotating about the y-axis. While Math 151 often covers calculus topics that could include volumes of revolution, the title alone provides insufficient evidence.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "IdEUicIK82c": {
+    "video_url": "https://www.youtube.com/watch?v=IdEUicIK82c",
+    "title": "Math 151 9/16/2022 10:00 AM",
+    "relevant": false,
+    "relevance_score": 2,
+    "explanation": "The video title only indicates it's a Math 151 class recording from a specific date. Without additional metadata like chapters or description detailing specific topics covered, we cannot confirm if it covers area under curve rotation. While Math 151 typically covers calculus topics that might include volumes of revolution, there's insufficient information to determine if this specific lecture addresses the topic.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "EkewJsYPoIc": {
+    "video_url": "https://www.youtube.com/watch?v=EkewJsYPoIc",
+    "title": "Math 151 9/28/2022 10:00 am",
+    "relevant": false,
+    "relevance_score": 2,
+    "explanation": "While this appears to be a calculus class video (Math 151) that covers some integration topics, the chapters focus mainly on improper integrals, asymptotes, and the Fundamental Theorem of Calculus. There's no explicit mention of volumes of revolution, rotating about axes, or finding surface areas - topics typically associated with rotating curves about the y-axis. The Pythagorean Theorem chapter might touch on geometric concepts but likely not in the context requested.",
+    "relevant_elements": [
+      "title",
+      "chapter: The Fundamental Theorem of Calculus"
+    ],
+    "confidence": "medium",
+    "timestamp": null
+  },
+  "WKTqZb6AuZ4": {
+    "video_url": "https://www.youtube.com/watch?v=WKTqZb6AuZ4",
+    "title": "Math 151 9/21/2022 11:00 AM",
+    "relevant": false,
+    "relevance_score": 1,
+    "explanation": "The video appears to be a math course lecture, but the chapters focus on topics related to factoring, rational expressions, and coefficients. None of the chapter titles or other metadata suggest content about calculating area under curves or rotation about axes, which are typically covered in calculus courses when discussing volumes of revolution.",
+    "relevant_elements": [],
+    "confidence": "high",
+    "timestamp": null
+  },
+  "5O4eWyQ6wOM": {
+    "video_url": "https://www.youtube.com/watch?v=5O4eWyQ6wOM",
+    "title": "Math 151 9/30/2022 10:00 am",
+    "relevant": false,
+    "relevance_score": 1,
+    "explanation": "While this appears to be a calculus course video (Math 151), none of the chapters specifically mention volumes of revolution or areas related to rotating around the y-axis. The chapters focus on other calculus topics like arc length, u-substitution, radicals, and the fundamental theorem of calculus. While it's a calculus class where such topics might be covered, there's no direct evidence in the metadata that this specific video addresses rotating around the y-axis.",
+    "relevant_elements": [
+      "title"
+    ],
+    "confidence": "medium",
+    "timestamp": null
+  },
+  "CUESieIn4wg": {
+    "video_url": "https://www.youtube.com/watch?v=CUESieIn4wg",
+    "title": "Math 151 10/07/2022 10:00 am",
+    "relevant": false,
+    "relevance_score": 1,
+    "explanation": "While this appears to be a calculus/differential equations course video, none of the chapter titles specifically mention volume of revolution, area under curves, or rotation about axes. The content focuses heavily on differential equations, population models, and solution verification. The only integration-related chapter (#7 'Evaluating Integrals') is too general to suggest coverage of the specific topic of rotating areas about the y-axis.",
+    "relevant_elements": [],
+    "confidence": "high",
+    "timestamp": null
+  },
+  "M8PItfD8wsM": {
+    "video_url": "https://www.youtube.com/watch?v=M8PItfD8wsM",
+    "title": "Math 151 10/10/2022 10:00 AM",
+    "relevant": false,
+    "relevance_score": 1,
+    "explanation": "While this appears to be a math course video, none of the chapter titles specifically mention volume by rotation, area under curves, or related concepts like integration or volumes of revolution. The chapters focus on differential equations, solution curves, implicit differentiation, and level curves, which are different topics from calculating area under a curve rotating about the y-axis.",
+    "relevant_elements": [],
+    "confidence": "high",
+    "timestamp": null
+  },
+  "qn_h7Po6GtQ": {
+    "video_url": "https://www.youtube.com/watch?v=qn_h7Po6GtQ",
+    "title": "Math 151 10/12/2022 10:00 AM",
+    "relevant": false,
+    "relevance_score": 1,
+    "explanation": "While this appears to be a calculus/differential equations course (Math 151), the chapter titles focus on differential equations, alcohol percentage calculations, and population growth models. There are no explicit mentions of area under curves, rotation, or volume calculations around axes. The integration mentioned appears to be in the context of solving differential equations rather than calculating volumes of revolution.",
+    "relevant_elements": [],
+    "confidence": "high",
+    "timestamp": null
+  },
+  "hZWQzlSwpXg": {
+    "video_url": "https://www.youtube.com/watch?v=hZWQzlSwpXg",
+    "title": "Math 151 8/22/2022 10:00 am",
+    "relevant": false,
+    "relevance_score": 0,
+    "explanation": "Error parsing analysis response",
+    "relevant_elements": [],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "SHB1M_tXVkk": {
+    "video_url": "https://www.youtube.com/watch?v=SHB1M_tXVkk",
+    "title": "Math 151 8/31/2022 10:00 am part 2",
+    "relevant": false,
+    "relevance_score": 0,
+    "explanation": "Error parsing analysis response",
+    "relevant_elements": [],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "4VcmS8TZ2Pc": {
+    "video_url": "https://www.youtube.com/watch?v=4VcmS8TZ2Pc",
+    "title": "Math 151 9/12 10:00 AM",
+    "relevant": false,
+    "relevance_score": 0,
+    "explanation": "Error parsing analysis response",
+    "relevant_elements": [],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "OMUss-l5DZc": {
+    "video_url": "https://www.youtube.com/watch?v=OMUss-l5DZc",
+    "title": "Math 151 9/23/2022 11:00 AM",
+    "relevant": false,
+    "relevance_score": 0,
+    "explanation": "Error parsing analysis response",
+    "relevant_elements": [],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "Bmk0f0PZ94I": {
+    "video_url": "https://www.youtube.com/watch?v=Bmk0f0PZ94I",
+    "title": "Math 151 9/26/2022 10:00 am",
+    "relevant": false,
+    "relevance_score": 0,
+    "explanation": "Error parsing analysis response",
+    "relevant_elements": [],
+    "confidence": "low",
+    "timestamp": null
+  },
+  "O6iI7qezAeY": {
+    "video_url": "https://www.youtube.com/watch?v=O6iI7qezAeY",
+    "title": "Math 151 11/14 10:00 AM",
+    "relevant": false,
+    "relevance_score": 0,
+    "explanation": "Error parsing analysis response",
+    "relevant_elements": [],
+    "confidence": "low",
+    "timestamp": null
+  }
+}
