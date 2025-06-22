@@ -13,3 +13,10 @@ ClipStudy.ai lets you paste a YouTube lecture link and instantly jump to any con
 - Run backend `cd backend & flask run -p 3001`
 - Run frontend `cd frontend & pnpm build & pnpm start`
 - Go to [localhost:3000](localhost:3000)
+
+### For docker deployment
+- prepare for the Anthropic api key
+- running following script on root
+```
+docker compose up --build -d
+```
