@@ -140,7 +140,7 @@ export default function Home() {
     setVideoRaw(newVideo);
 
     // test
-    console.log([newVideo, ...video]);
+    // console.log([newVideo, ...videos]);
   }
 
   useInterval(() => {

@@ -1,0 +1,36 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=KLh-rj6CrnE",
+  "video_id": "KLh-rj6CrnE",
+  "query": "identification",
+  "segments": [
+    {
+      "start": "00:26:00,019",
+      "end": "00:26:15,979",
+      "title": "Identification Process Guidelines",
+      "summary": "Explains guidelines for identification including specific character numbers and arrangements. Discusses taxonomic arrangements and certification requirements for identification.",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:30:00,010",
+      "end": "00:30:13,800",
+      "title": "Specimen Identification Methods",
+      "summary": "Describes how specimens are preserved in textbooks after collection and killing. Explains how birds and animals are preserved in museums for identification purposes.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:30:48,900",
+      "end": "00:31:09,910",
+      "title": "Plant Animal Identification",
+      "summary": "Discusses methods used for identification of plants and animals, including questions that help narrow down identification to a single specimen.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:32:14,599",
+      "end": "00:32:27,409",
+      "title": "Rules for Identification",
+      "summary": "Explains how biologists have established certain rules and principles for identification and classification of organisms.",
+      "relevance_score": 3
+    }
+  ],
+  "total_segments": 4
+}

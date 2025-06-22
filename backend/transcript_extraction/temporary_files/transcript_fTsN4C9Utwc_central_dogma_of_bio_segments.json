@@ -1,0 +1,29 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=fTsN4C9Utwc",
+  "video_id": "fTsN4C9Utwc",
+  "query": "central dogma of biology (explain in traditional chinese)",
+  "segments": [
+    {
+      "start": "00:21:25,930",
+      "end": "00:22:57,170",
+      "title": "Central Dogma Overview",
+      "summary": "\u751f\u7269\u5b78\u4e2d\u5fc3\u6cd5\u5247\u89e3\u91cbDNA\u53ef\u4ee5\u901a\u904e\u5169\u7a2e\u65b9\u5f0f\u904b\u4f5c\uff1a\u8907\u88fd\u4ee5\u88fd\u9020\u76f8\u540c\u7684DNA\uff0c\u6216\u901a\u904e\u8f49\u9304\u548c\u7ffb\u8b6f\u88fd\u9020\u86cb\u767d\u8cea\u3002\u7576\u7d30\u80de\u5206\u88c2\u6642\uff0cDNA\u8907\u88fd\u78ba\u4fdd\u6bcf\u500b\u5b50\u7d30\u80de\u7372\u5f97\u76f8\u540c\u7684\u907a\u50b3\u4fe1\u606f\u3002",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:22:58,160",
+      "end": "00:25:38,990",
+      "title": "Transcription and Translation Process",
+      "summary": "DNA\u901a\u904e\u8f49\u9304\u904e\u7a0b\u7522\u751f\u4fe1\u4f7fRNA\uff0c\u7136\u5f8c\u5728\u6838\u7cd6\u9ad4\u4e2d\u9032\u884c\u7ffb\u8b6f\u4ee5\u88fd\u9020\u86cb\u767d\u8cea\u3002\u9019\u500b\u904e\u7a0b\u5c31\u50cf\u5c07DNA\u7684'\u8a9e\u8a00'\u7ffb\u8b6f\u6210\u6838\u7cd6\u9ad4\u53ef\u4ee5\u7406\u89e3\u7684'\u8a9e\u8a00'\uff0c\u6700\u7d42\u7522\u751f\u6240\u9700\u7684\u86cb\u767d\u8cea\u3002",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:19:33,230",
+      "end": "00:21:25,930",
+      "title": "DNA Replication Explanation",
+      "summary": "DNA\u8907\u88fd\u904e\u7a0b\u4e2d\uff0cDNA\u93c8\u5206\u88c2\u6210\u5169\u534a\uff0c\u6bcf\u534a\u90fd\u4f5c\u70ba\u6a21\u677f\u751f\u6210\u65b0\u7684\u4e92\u88dc\u93c8\uff0c\u78ba\u4fdd\u907a\u50b3\u4fe1\u606f\u7684\u7cbe\u78ba\u8907\u88fd\u3002",
+      "relevance_score": 4
+    }
+  ],
+  "total_segments": 3
+}

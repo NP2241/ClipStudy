@@ -1,0 +1,29 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=AJxYCosjRH0",
+  "video_id": "AJxYCosjRH0",
+  "query": "earth",
+  "segments": [
+    {
+      "start": "00:09:11,790",
+      "end": "00:09:59,750",
+      "title": "Earth's Early Formation",
+      "summary": "When Earth formed, it was highly molten and behaved like an ideal fluid. Due to gravity, materials with higher density like iron and nickel sank to form the core, while lighter silicates floated to form the crust.",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:00:00,160",
+      "end": "00:00:13,430",
+      "title": "Earth's Structure Description",
+      "summary": "The Earth's core contains heavy metals like iron and nickel, while the outer thin crust is made of lighter silicates.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:00:54,150",
+      "end": "00:01:00,630",
+      "title": "Earth's Surface Composition",
+      "summary": "Most of the Earth's surface is covered with liquid water, and its atmosphere contains air which is a fluid.",
+      "relevance_score": 3
+    }
+  ],
+  "total_segments": 3
+}

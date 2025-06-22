@@ -4,31 +4,31 @@
   "query": "gen ai",
   "segments": [
     {
-      "start": "00:05:58,150",
-      "end": "00:06:13,710",
-      "title": "Introduction to Generative AI",
-      "summary": "Introduces generative AI as the most recent advancement in artificial intelligence. Discusses foundation models as the basis for modern generative AI applications.",
+      "start": "00:06:05,189",
+      "end": "00:06:57,029",
+      "title": "Generative AI and Foundation Models",
+      "summary": "Introduces generative AI and foundation models, including large language models. Explains how these models can predict and generate entire documents rather than just single words.",
       "relevance_score": 5
     },
     {
       "start": "00:07:00,710",
-      "end": "00:07:16,270",
-      "title": "Generative AI Content Creation",
-      "summary": "Explains how generative AI creates new content and addresses criticisms about whether it truly generates new information or just recombines existing data. Uses music analogy to explain creative generation.",
+      "end": "00:07:51,710",
+      "title": "Understanding Generative Content Creation",
+      "summary": "Addresses the debate about whether generative AI truly creates new content, using a music analogy to explain how it combines existing information in novel ways to create something new.",
       "relevance_score": 5
     },
     {
-      "start": "00:08:10,670",
-      "end": "00:08:36,589",
-      "title": "Generative AI Applications",
-      "summary": "Discusses practical applications of generative AI including deep fakes, voice recreation, and chatbots. Mentions both beneficial uses and potential for abuse.",
+      "start": "00:07:51,710",
+      "end": "00:08:32,949",
+      "title": "Types of Generative Models",
+      "summary": "Discusses different types of generative AI models including audio and video models, and their applications in creating deep fakes and voice recreation.",
       "relevance_score": 4
     },
     {
-      "start": "00:09:24,790",
-      "end": "00:09:34,590",
-      "title": "Impact of Foundation Models",
-      "summary": "Describes how foundation models and generative AI have dramatically accelerated AI adoption compared to earlier technologies.",
+      "start": "00:09:20,269",
+      "end": "00:09:42,550",
+      "title": "Gen AI Impact",
+      "summary": "Describes how foundation models and generative AI have dramatically accelerated AI adoption compared to earlier AI technologies.",
       "relevance_score": 4
     }
   ],

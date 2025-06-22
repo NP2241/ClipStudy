@@ -1,0 +1,43 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=xglEjH0Ue8o",
+  "video_id": "xglEjH0Ue8o",
+  "query": "vocab",
+  "segments": [
+    {
+      "start": "00:00:00,080",
+      "end": "00:00:45,750",
+      "title": "Conversational Vocabulary Introduction",
+      "summary": "The speaker introduces the topic of conversational vocabulary, emphasizing its importance for basic communication. Uses an example of a confusing conversation about The Hunger Games to demonstrate how missing basic vocabulary makes speech incomprehensible.",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:01:01,670",
+      "end": "00:02:16,790",
+      "title": "Location Vocabulary Words",
+      "summary": "Explains Spanish location words including este/esta/esto (this), ese/esa/eso (that), and aquel/aquella/aquello (that far away). Also covers how these words can be used for both location and time references.",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:02:53,920",
+      "end": "00:03:20,400",
+      "title": "Numbers and Counting",
+      "summary": "Covers cardinal numbers (uno, dos, etc.) and ordinal numbers (primero, segundo, etc.) in Spanish. Explains how these can be used for listing items and indicating floor numbers.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:04:42,639",
+      "end": "00:05:21,199",
+      "title": "Question Words Overview",
+      "summary": "Introduces Spanish question words, noting their importance in conversation. Mentions that a deeper dive into question words will be covered in a future video.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:10:15,110",
+      "end": "00:10:52,310",
+      "title": "Common Courtesy Words",
+      "summary": "Covers basic courtesy words in Spanish including perdone/perdona (excuse me), hola (hi), and gracias (thank you). Explains the formal vs casual usage of certain terms.",
+      "relevance_score": 4
+    }
+  ],
+  "total_segments": 5
+}

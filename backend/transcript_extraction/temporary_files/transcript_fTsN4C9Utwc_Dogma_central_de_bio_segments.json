@@ -1,0 +1,36 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=fTsN4C9Utwc",
+  "video_id": "fTsN4C9Utwc",
+  "query": "Dogma central de biologia",
+  "segments": [
+    {
+      "start": "00:21:25,930",
+      "end": "00:21:41,130",
+      "title": "Central Dogma Introduction",
+      "summary": "Introduces the central dogma of biology which explains how DNA stores and uses genetic information in cells. Discusses how DNA and ribosomes communicate to create proteins.",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:24:14,970",
+      "end": "00:25:02,120",
+      "title": "Transcription and Translation Process",
+      "summary": "Explains how DNA must be transcribed to messenger RNA and then translated by ribosomes to create proteins. This process is key to the central dogma of biology.",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:25:34,460",
+      "end": "00:25:38,990",
+      "title": "Summary of Central Dogma",
+      "summary": "Summarizes that transcription converts DNA to messenger RNA, and translation reads messenger RNA to create proteins in the ribosomes.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:25:44,750",
+      "end": "00:26:09,409",
+      "title": "Quiz on Central Dogma",
+      "summary": "Presents a quiz question asking students to identify the correct order of processes in the central dogma of biology.",
+      "relevance_score": 3
+    }
+  ],
+  "total_segments": 4
+}
