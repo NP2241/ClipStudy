@@ -5,38 +5,38 @@
   "segments": [
     {
       "start": "00:02:49,830",
-      "end": "00:03:22,430",
+      "end": "00:03:19,710",
       "title": "Definition of Density",
-      "summary": "Density is explained as the ratio of mass to volume, measured in kg/m\u00b3. It represents how crowded or packed something is, with examples given for water (1000 kg/m\u00b3) and iron (7.8 g/cm\u00b3).",
+      "summary": "Density is explained as the ratio of mass to volume, measuring how packed something is. Examples given include water (1 g/cm\u00b3) and iron (7.8 g/cm\u00b3) to illustrate different densities.",
       "relevance_score": 5
     },
     {
       "start": "00:08:16,390",
       "end": "00:08:55,110",
-      "title": "Density and Floating",
-      "summary": "Objects with lower density than water tend to float, while those with higher density sink. This principle explains why oil floats on water and iron sinks.",
+      "title": "Density and Floating Objects",
+      "summary": "Explains how objects with lower density float while those with higher density sink. Examples include oil floating on water and iron sinking in water.",
       "relevance_score": 5
     },
     {
       "start": "00:10:20,990",
-      "end": "00:10:50,629",
-      "title": "Temperature Effects on Density",
-      "summary": "The density of water varies with temperature, reaching maximum density at 4\u00b0C at 1 g/cm\u00b3. As temperature decreases, molecules generally come closer together, increasing density.",
-      "relevance_score": 4
+      "end": "00:10:54,389",
+      "title": "Water Density Temperature Relationship",
+      "summary": "Details how water's density changes with temperature, reaching maximum density at 4\u00b0C. This unique property affects how water bodies behave in cold conditions.",
+      "relevance_score": 5
     },
     {
-      "start": "00:05:49,790",
-      "end": "00:06:11,270",
+      "start": "00:04:45,390",
+      "end": "00:05:16,909",
       "title": "Air Density Variation",
-      "summary": "The density of air varies with altitude due to the weight of the atmosphere above. Lower layers experience more pressure, resulting in higher density at lower altitudes.",
+      "summary": "Explains how air density varies with altitude, being about 0.1 g/cm\u00b3 at surface level and decreasing to 0.004 g/cm\u00b3 at typical airline cruising altitude.",
       "relevance_score": 4
     },
     {
-      "start": "00:06:46,589",
-      "end": "00:07:09,550",
-      "title": "Water Density Properties",
-      "summary": "Unlike gases, water is nearly incompressible, maintaining consistent density despite high pressure variations in oceans. Even extreme pressures at ocean depths don't significantly change water's density.",
-      "relevance_score": 3
+      "start": "00:09:11,790",
+      "end": "00:09:52,949",
+      "title": "Earth Formation and Density",
+      "summary": "Describes how Earth's structure formed based on density differences, with heavier metals sinking to the core and lighter silicates floating to form the crust.",
+      "relevance_score": 4
     }
   ],
   "total_segments": 5
