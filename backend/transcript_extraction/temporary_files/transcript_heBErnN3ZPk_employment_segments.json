@@ -1,0 +1,36 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=heBErnN3ZPk",
+  "video_id": "heBErnN3ZPk",
+  "query": "employment",
+  "segments": [
+    {
+      "start": "00:01:27,069",
+      "end": "00:01:35,109",
+      "title": "Employment vs Unemployment Rate",
+      "summary": "The speaker explains how macroeconomics looks at overall unemployment rates rather than individual employment status. This represents a key difference between micro and macroeconomic approaches.",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:24:55,269",
+      "end": "00:25:16,029",
+      "title": "China Employment Policy Impact",
+      "summary": "Discussion of how China's zero COVID policy impacted employment and economic activity. The strict policy led to shutdowns of major parts of the economy with global implications.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:19,29,870",
+      "end": "00:19,59,750",
+      "title": "US Employment Data Release",
+      "summary": "Analysis of a significant employment report showing over 500,000 new jobs added versus expected 190,000. This data release caused market reactions due to implications for monetary policy.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:07:12,390",
+      "end": "00:07:27,110",
+      "title": "Employment Rate Trends",
+      "summary": "Discussion of unemployment rate trends during recessions, showing how unemployment typically increases during economic downturns. The graph demonstrates historical patterns in employment data.",
+      "relevance_score": 3
+    }
+  ],
+  "total_segments": 4
+}

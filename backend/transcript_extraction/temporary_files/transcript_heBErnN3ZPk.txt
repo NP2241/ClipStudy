@@ -1,0 +1,1745 @@
+00:00:16,680 --> 00:00:24,310
+okay let's uh let's start so hello everyone um welcome to
+
+00:00:24,310 --> 00:00:27,349
+everyone um welcome to 1402 uh introduction to
+
+00:00:27,349 --> 00:00:28,950
+1402 uh introduction to macroeconomics
+
+00:00:28,950 --> 00:00:31,630
+macroeconomics um I won't teach today so that's a good
+
+00:00:31,630 --> 00:00:34,709
+um I won't teach today so that's a good news I will start on Wednesday so what I
+
+00:00:34,709 --> 00:00:36,990
+news I will start on Wednesday so what I want to today is essentially tell you
+
+00:00:36,990 --> 00:00:47,069
+about and uh also the rules of of the game so what a difference a single
+
+00:00:47,069 --> 00:00:49,510
+game so what a difference a single letter makes many of you must have taken
+
+00:00:49,510 --> 00:00:52,150
+letter makes many of you must have taken 1401 in fact some of you may be taking
+
+00:00:52,150 --> 00:00:54,189
+1401 in fact some of you may be taking it concurrently it's a lecture right
+
+00:00:54,189 --> 00:00:58,310
+it concurrently it's a lecture right before mine and uh you know that's
+
+00:00:58,310 --> 00:01:02,670
+microeconomics 1401 this is macroeconomics and it doesn't take a lot
+
+00:01:02,670 --> 00:01:07,630
+of imagination to realize that this course is about big things no we don't
+
+00:01:07,630 --> 00:01:09,749
+course is about big things no we don't look at small things that's what micro
+
+00:01:09,749 --> 00:01:17,190
+firm at an industry ER in micro we don't do that we
+
+00:01:17,190 --> 00:01:19,990
+industry ER in micro we don't do that we look at the whole economy we think about
+
+00:01:19,990 --> 00:01:23,149
+look at the whole economy we think about the us we think about China H we don't
+
+00:01:23,149 --> 00:01:24,950
+the us we think about China H we don't think about an individual price we think
+
+00:01:24,950 --> 00:01:27,069
+think about an individual price we think about inflation so the rate of change of
+
+00:01:27,069 --> 00:01:31,109
+O prices we don't think about whether a particular particular worker is employed
+
+00:01:31,109 --> 00:01:35,109
+or unemployed we think of whether the rate of unemployment is very high or low
+
+00:01:35,109 --> 00:01:37,630
+rate of unemployment is very high or low things of that kind okay when we look at
+
+00:01:37,630 --> 00:01:39,149
+things of that kind okay when we look at two countries we look at the exchange
+
+00:01:39,149 --> 00:01:40,950
+two countries we look at the exchange rate which is a relative price of two
+
+00:01:40,950 --> 00:01:42,950
+rate which is a relative price of two currencies not two individual Goods in
+
+00:01:42,950 --> 00:01:44,749
+currencies not two individual Goods in two different countries but the whole
+
+00:01:44,749 --> 00:01:47,590
+two different countries but the whole currency and so on so that's what mcro
+
+00:01:47,590 --> 00:01:50,270
+currency and so on so that's what mcro is about now you could think that mcro
+
+00:01:50,270 --> 00:01:52,149
+is about now you could think that mcro is nothing else than the sum of lots of
+
+00:01:52,149 --> 00:01:56,429
+micros no after all that's what an economy is made of a population a whole
+
+00:01:56,429 --> 00:01:58,350
+economy is made of a population a whole population is made of lots of
+
+00:01:58,350 --> 00:02:00,029
+population is made of lots of individuals that can be analyzed with
+
+00:02:00,029 --> 00:02:02,910
+individuals that can be analyzed with the tools of 1401 and and the sequence
+
+00:02:02,910 --> 00:02:04,590
+the tools of 1401 and and the sequence that follows
+
+00:02:04,590 --> 00:02:09,350
+1401 but that doesn't work and there are parallels in physics about this and so
+
+00:02:09,350 --> 00:02:11,270
+parallels in physics about this and so on the way you want to study sort of big
+
+00:02:11,270 --> 00:02:12,790
+on the way you want to study sort of big bodies is different from the way you
+
+00:02:12,790 --> 00:02:17,750
+want to understand the movements of a small elements and and that's the case
+
+00:02:17,750 --> 00:02:21,990
+small elements and and that's the case in macro maccro there's a big line of
+
+00:02:21,990 --> 00:02:24,550
+in macro maccro there's a big line of research that has to do with the micro
+
+00:02:24,550 --> 00:02:26,030
+research that has to do with the micro foundations of
+
+00:02:26,030 --> 00:02:28,390
+foundations of macroeconomics but even in that case
+
+00:02:28,390 --> 00:02:30,630
+macroeconomics but even in that case which is very close to micro
+
+00:02:30,630 --> 00:02:33,270
+which is very close to micro ER most of the action end up happening
+
+00:02:33,270 --> 00:02:39,990
+interactions in in the in the equilibrium aspects of the system so so
+
+00:02:39,990 --> 00:02:41,710
+equilibrium aspects of the system so so it's a much more complicated object and
+
+00:02:41,710 --> 00:02:43,550
+it's a much more complicated object and if you were to build it from the micro
+
+00:02:43,550 --> 00:02:45,309
+if you were to build it from the micro it would be an incredibly complicated
+
+00:02:45,309 --> 00:02:47,750
+it would be an incredibly complicated object so one of the things we need to
+
+00:02:47,750 --> 00:02:50,190
+object so one of the things we need to do in microeconomics is take some
+
+00:02:50,190 --> 00:02:52,750
+do in microeconomics is take some shortcuts and and and that's what makes
+
+00:02:52,750 --> 00:02:55,750
+shortcuts and and and that's what makes mcro a lot of an art it's not a science
+
+00:02:55,750 --> 00:02:58,070
+mcro a lot of an art it's not a science per se it's some sort of a science it
+
+00:02:58,070 --> 00:03:02,509
+has the tools of a science but it's a lot about shortcuts and tricks and so on
+
+00:03:02,509 --> 00:03:04,309
+lot about shortcuts and tricks and so on to capture the essence of a problem that
+
+00:03:04,309 --> 00:03:06,589
+to capture the essence of a problem that is very complex if you were to model it
+
+00:03:06,589 --> 00:03:10,589
+is very complex if you were to model it in in the all the Gory details okay and
+
+00:03:10,589 --> 00:03:13,589
+in in the all the Gory details okay and uh and in this course we're going to
+
+00:03:13,589 --> 00:03:15,670
+uh and in this course we're going to exagerate on that sense we're not going
+
+00:03:15,670 --> 00:03:17,949
+exagerate on that sense we're not going to do anything complicated I promise you
+
+00:03:17,949 --> 00:03:21,869
+that some occas conceptually things will be complicated but the math will not be
+
+00:03:21,869 --> 00:03:25,070
+be complicated but the math will not be complicated okay uh so we want to keep
+
+00:03:25,070 --> 00:03:26,869
+complicated okay uh so we want to keep things very very simple I want to
+
+00:03:26,869 --> 00:03:29,910
+things very very simple I want to communicate the essence of the big macro
+
+00:03:29,910 --> 00:03:32,710
+communicate the essence of the big macro economic relationships this is not a PhD
+
+00:03:32,710 --> 00:03:35,190
+economic relationships this is not a PhD course if you were to take a a PhD
+
+00:03:35,190 --> 00:03:37,030
+course if you were to take a a PhD course in macro it would be a very mathy
+
+00:03:37,030 --> 00:03:39,429
+course in macro it would be a very mathy type course in fact most of the people
+
+00:03:39,429 --> 00:03:42,710
+type course in fact most of the people that do apply micro in our PhD program
+
+00:03:42,710 --> 00:03:44,429
+that do apply micro in our PhD program complain against micro because they find
+
+00:03:44,429 --> 00:03:46,270
+complain against micro because they find it too mathy and so on okay but that's
+
+00:03:46,270 --> 00:03:48,309
+it too mathy and so on okay but that's not going to be the case here that's not
+
+00:03:48,309 --> 00:03:54,190
+what this course is about my goal so if this is a successful
+
+00:03:54,190 --> 00:03:59,789
+researcher in macro out of this hopefully you'll have a career
+
+00:03:59,789 --> 00:04:01,550
+hopefully you'll have a career eventually and do all the next steps
+
+00:04:01,550 --> 00:04:03,789
+eventually and do all the next steps that you need to do that but I want you
+
+00:04:03,789 --> 00:04:06,270
+that you need to do that but I want you to be able to do is to read something
+
+00:04:06,270 --> 00:04:07,949
+to be able to do is to read something like this this is a world economic
+
+00:04:07,949 --> 00:04:09,949
+like this this is a world economic Outlook it's a publication that the IMF
+
+00:04:09,949 --> 00:04:12,710
+Outlook it's a publication that the IMF puts out every six month in which it
+
+00:04:12,710 --> 00:04:14,869
+puts out every six month in which it tells you what how this sees the world
+
+00:04:14,869 --> 00:04:17,270
+tells you what how this sees the world and where we're heading and so on no
+
+00:04:17,270 --> 00:04:19,349
+and where we're heading and so on no equations there lots of tables and stuff
+
+00:04:19,349 --> 00:04:21,270
+equations there lots of tables and stuff like that I'd like you to be able to
+
+00:04:21,270 --> 00:04:24,230
+like that I'd like you to be able to read that kind of document very clearly
+
+00:04:24,230 --> 00:04:25,710
+read that kind of document very clearly I would like you to be able to read
+
+00:04:25,710 --> 00:04:28,150
+I would like you to be able to read something say the Wall Street Journal
+
+00:04:28,150 --> 00:04:29,790
+something say the Wall Street Journal and read it even critically some
+
+00:04:29,790 --> 00:04:31,189
+and read it even critically some sometimes disagreeing with what's in
+
+00:04:31,189 --> 00:04:33,749
+sometimes disagreeing with what's in there Financial Times the economies
+
+00:04:33,749 --> 00:04:35,230
+there Financial Times the economies that's the goal of this course it's not
+
+00:04:35,230 --> 00:04:37,830
+that's the goal of this course it's not a lot more than that it's just that if
+
+00:04:37,830 --> 00:04:39,469
+a lot more than that it's just that if you do a summer internship in Wall
+
+00:04:39,469 --> 00:04:41,029
+you do a summer internship in Wall Street and you work in a macro hedge
+
+00:04:41,029 --> 00:04:45,189
+fund or whatever this is going to be a good course for that I mean this is what
+
+00:04:45,189 --> 00:04:53,670
+know that they don't but this that's a level of knowledge I not if it gets to
+
+00:04:53,670 --> 00:04:56,110
+level of knowledge I not if it gets to be very complicated I'm failing that's
+
+00:04:56,110 --> 00:04:58,029
+be very complicated I'm failing that's not what I want to do
+
+00:04:58,029 --> 00:05:02,909
+here the typical lecture again this is not a lecture the next the first lecture
+
+00:05:02,909 --> 00:05:05,909
+not a lecture the next the first lecture will be on Wednesday the typical lecture
+
+00:05:05,909 --> 00:05:07,670
+will be on Wednesday the typical lecture and not in the first part of the course
+
+00:05:07,670 --> 00:05:11,310
+because you're not going to have the tools the definitions and so on to do it
+
+00:05:11,310 --> 00:05:16,230
+tools the definitions and so on to do it what I want to do is is er spend five to
+
+00:05:16,230 --> 00:05:18,510
+what I want to do is is er spend five to 10 minutes early on again the first part
+
+00:05:18,510 --> 00:05:19,830
+10 minutes early on again the first part of the course we can't do that because
+
+00:05:19,830 --> 00:05:21,510
+of the course we can't do that because you don't have still the knowledge to do
+
+00:05:21,510 --> 00:05:25,150
+you don't have still the knowledge to do that but as as you start building tools
+
+00:05:25,150 --> 00:05:27,790
+that but as as you start building tools I want to be able to sort of talk about
+
+00:05:27,790 --> 00:05:31,230
+current events something that is happening out there that I find
+
+00:05:31,230 --> 00:05:33,990
+happening out there that I find interesting or something I received that
+
+00:05:33,990 --> 00:05:38,070
+morning may even the morning of the lecture in which I which I find
+
+00:05:38,070 --> 00:05:39,830
+lecture in which I which I find interesting and if I think you already
+
+00:05:39,830 --> 00:05:41,950
+interesting and if I think you already have the tools to begin to understand it
+
+00:05:41,950 --> 00:05:43,350
+have the tools to begin to understand it I'm going to be repetitive I'm going to
+
+00:05:43,350 --> 00:05:45,390
+I'm going to be repetitive I'm going to sort of come back to three four times to
+
+00:05:45,390 --> 00:05:48,070
+sort of come back to three four times to the same topic hopefully you'll be know
+
+00:05:48,070 --> 00:05:49,710
+the same topic hopefully you'll be know you'll be more advancing your knowledge
+
+00:05:49,710 --> 00:05:51,469
+you'll be more advancing your knowledge in the later stages so you'll be able to
+
+00:05:51,469 --> 00:05:55,350
+understand it more and more okay so the typical lecture we have five to 10
+
+00:05:55,350 --> 00:05:57,189
+typical lecture we have five to 10 minutes in which we'll talk about some
+
+00:05:57,189 --> 00:05:59,830
+minutes in which we'll talk about some facts something that is going on for
+
+00:05:59,830 --> 00:06:01,909
+facts something that is going on for example a picture like this this is I
+
+00:06:01,909 --> 00:06:06,150
+received it this morning I think this came from Goldman I think Goldman Sachs
+
+00:06:06,150 --> 00:06:08,629
+came from Goldman I think Goldman Sachs yes and what you have in that picture
+
+00:06:08,629 --> 00:06:19,870
+you have two lines one of them is a measure of er wages wage growth
+
+00:06:19,870 --> 00:06:22,309
+measure of er wages wage growth compensation to workers and another one
+
+00:06:22,309 --> 00:06:24,550
+compensation to workers and another one is a measure of inflation again all
+
+00:06:24,550 --> 00:06:26,629
+is a measure of inflation again all those definition will come in the next
+
+00:06:26,629 --> 00:06:29,230
+those definition will come in the next lecture and inflation so it's a rate at
+
+00:06:29,230 --> 00:06:30,870
+lecture and inflation so it's a rate at which you know you must have heard about
+
+00:06:30,870 --> 00:06:35,230
+inflation it's something prices are rising no and what that picture shows
+
+00:06:35,230 --> 00:06:36,790
+rising no and what that picture shows you is that these two series are very
+
+00:06:36,790 --> 00:06:38,070
+you is that these two series are very highly
+
+00:06:38,070 --> 00:06:44,150
+correlated okay so when wage growth is high inflation tends to be high okay and
+
+00:06:44,150 --> 00:06:45,870
+high inflation tends to be high okay and that's a big issue on these days there's
+
+00:06:45,870 --> 00:06:53,950
+stuff so let me let me try to explain a little bit what is a concern on these
+
+00:06:53,950 --> 00:06:55,110
+little bit what is a concern on these days
+
+00:06:55,110 --> 00:06:57,029
+days again if you don't understand anything
+
+00:06:57,029 --> 00:06:59,150
+again if you don't understand anything doesn't matter if you don't understand
+
+00:06:59,150 --> 00:07:01,309
+doesn't matter if you don't understand anything saying right now in the last
+
+00:07:01,309 --> 00:07:03,309
+anything saying right now in the last lecture then it matters but now it
+
+00:07:03,309 --> 00:07:04,790
+lecture then it matters but now it doesn't matter you know I'm just trying
+
+00:07:04,790 --> 00:07:06,589
+doesn't matter you know I'm just trying to give you a flavor of the kind of
+
+00:07:06,589 --> 00:07:07,909
+to give you a flavor of the kind of things we'll be talking
+
+00:07:07,909 --> 00:07:12,390
+about that picture there again a variable that we'll Define in the next
+
+00:07:12,390 --> 00:07:15,749
+lecture not now shows you the unemployment rate you don't need any
+
+00:07:15,749 --> 00:07:19,189
+unemployment rate you don't need any specific definition to know that to feel
+
+00:07:19,189 --> 00:07:23,110
+at least get a sense that well if an employment is high workers aren't very
+
+00:07:23,110 --> 00:07:24,909
+employment is high workers aren't very happy it's not a good thing to have lots
+
+00:07:24,909 --> 00:07:27,110
+happy it's not a good thing to have lots of unemployment and what that series
+
+00:07:27,110 --> 00:07:31,950
+shows you the shaded areas are recessions in in the US what that series
+
+00:07:31,950 --> 00:07:33,430
+recessions in in the US what that series shows you is that typically in
+
+00:07:33,430 --> 00:07:35,150
+shows you is that typically in recessions unemployment goes up so
+
+00:07:35,150 --> 00:07:38,029
+that's one of the features one of the main features of a recession is that
+
+00:07:38,029 --> 00:07:48,149
+Great Recession as a parall for the Great Depression the US had the Great
+
+00:07:48,149 --> 00:07:50,350
+Great Depression the US had the Great Depression in the 30s this is the Great
+
+00:07:50,350 --> 00:07:52,550
+Depression in the 30s this is the Great Recession the biggest sort of recession
+
+00:07:52,550 --> 00:07:57,749
+outside of the Great Depression in the US and it's also known as the global
+
+00:07:57,749 --> 00:08:01,830
+financial crisis because this was a recession all around the world and what
+
+00:08:01,830 --> 00:08:03,950
+recession all around the world and what you can see is that employment went very
+
+00:08:03,950 --> 00:08:07,110
+you can see is that employment went very high that's a very feature a tell sign
+
+00:08:07,110 --> 00:08:09,589
+high that's a very feature a tell sign of a of of a big recession and then it
+
+00:08:09,589 --> 00:08:12,309
+of a of of a big recession and then it took a long time this was in in sort of
+
+00:08:12,309 --> 00:08:15,189
+took a long time this was in in sort of recovery covid was a massive shock to
+
+00:08:15,189 --> 00:08:19,110
+the labor market so not surprisingly an employment the employment rate is Spike
+
+00:08:19,110 --> 00:08:21,629
+employment the employment rate is Spike there but then he also recover a lot
+
+00:08:21,629 --> 00:08:24,070
+there but then he also recover a lot faster than he recovered from that and
+
+00:08:24,070 --> 00:08:26,149
+faster than he recovered from that and today we have unemployment rates that
+
+00:08:26,149 --> 00:08:28,350
+today we have unemployment rates that are at historically low levels and
+
+00:08:28,350 --> 00:08:30,110
+are at historically low levels and that's a big issue
+
+00:08:30,110 --> 00:08:33,269
+that's a big issue the rate of unemployment in the US is at
+
+00:08:33,269 --> 00:08:36,469
+the rate of unemployment in the US is at historically low levels okay way below
+
+00:08:36,469 --> 00:08:40,269
+what is normal forget recessions obviously way
+
+00:08:40,269 --> 00:08:42,790
+normal forget recessions obviously way below what is in happens in recession
+
+00:08:42,790 --> 00:08:44,790
+below what is in happens in recession but even way below what is normal what
+
+00:08:44,790 --> 00:08:48,350
+but even way below what is normal what happens dur normal times
+
+00:08:48,350 --> 00:08:52,550
+happens dur normal times okay closely related to that is wage
+
+00:08:52,550 --> 00:08:55,590
+okay closely related to that is wage growth I have just one measure of wages
+
+00:08:55,590 --> 00:08:58,069
+growth I have just one measure of wages there is a wage it's a it's a series of
+
+00:08:58,069 --> 00:09:01,230
+there is a wage it's a it's a series of wage that is that is particularly what
+
+00:09:01,230 --> 00:09:03,949
+wage that is that is particularly what I'm about to say is particularly sharp
+
+00:09:03,949 --> 00:09:07,990
+which is the wages of in the accommodation and Food Service sectors
+
+00:09:07,990 --> 00:09:10,030
+accommodation and Food Service sectors so wages have been rising very steadily
+
+00:09:10,030 --> 00:09:13,150
+so wages have been rising very steadily and and very fast recently everywhere
+
+00:09:13,150 --> 00:09:15,470
+and and very fast recently everywhere particularly in sectors like this you
+
+00:09:15,470 --> 00:09:16,910
+particularly in sectors like this you where we have some problems what we call
+
+00:09:16,910 --> 00:09:19,150
+where we have some problems what we call Labor Supply but we'll I'll get back to
+
+00:09:19,150 --> 00:09:23,710
+that okay so those are two facts we have an employment at extremely low levels
+
+00:09:23,710 --> 00:09:26,550
+an employment at extremely low levels and we have wage growth at a very high
+
+00:09:26,550 --> 00:09:29,389
+and we have wage growth at a very high Fast Pace now that sounds wonderful no I
+
+00:09:29,389 --> 00:09:31,030
+Fast Pace now that sounds wonderful no I mean what else do you want an economy in
+
+00:09:31,030 --> 00:09:33,910
+mean what else do you want an economy in which there's few people unemployed and
+
+00:09:33,910 --> 00:09:37,190
+which there's few people unemployed and and the and the wages are growing a lot
+
+00:09:37,190 --> 00:09:39,190
+and the and the wages are growing a lot I mean if this was micro this would be
+
+00:09:39,190 --> 00:09:41,949
+I mean if this was micro this would be fantastic say okay look guy is employed
+
+00:09:41,949 --> 00:09:47,710
+and he's getting a high wage this is great well not so fast for
+
+00:09:47,710 --> 00:09:51,310
+great well not so fast for macro not so fast because I already
+
+00:09:51,310 --> 00:09:52,829
+macro not so fast because I already showed you in the first picture I show
+
+00:09:52,829 --> 00:09:54,030
+showed you in the first picture I show you to motivate there's a connection
+
+00:09:54,030 --> 00:09:55,750
+you to motivate there's a connection between wage growth and
+
+00:09:55,750 --> 00:09:57,389
+between wage growth and inflation and that's what we're
+
+00:09:57,389 --> 00:09:59,350
+inflation and that's what we're experiencing the normal level of
+
+00:09:59,350 --> 00:10:03,509
+inflation for an economy like the Us is around 2% that's normal that's what
+
+00:10:03,509 --> 00:10:05,829
+around 2% that's normal that's what central banks Target in an economy like
+
+00:10:05,829 --> 00:10:09,030
+central banks Target in an economy like the US in the Euro area Japan has been
+
+00:10:09,030 --> 00:10:11,150
+the US in the Euro area Japan has been dreaming with 2% but it hasn't been able
+
+00:10:11,150 --> 00:10:14,509
+dreaming with 2% but it hasn't been able for decades to get it but although now
+
+00:10:14,509 --> 00:10:18,190
+they are but but they weren't for a couple of decades to get to 2% but
+
+00:10:18,190 --> 00:10:20,150
+couple of decades to get to 2% but that's about and we will discuss later
+
+00:10:20,150 --> 00:10:22,670
+that's about and we will discuss later in the course why 2% is about right for
+
+00:10:22,670 --> 00:10:25,389
+in the course why 2% is about right for economies of the size of the US and so
+
+00:10:25,389 --> 00:10:28,190
+economies of the size of the US and so on obviously in recessions these things
+
+00:10:28,190 --> 00:10:30,949
+on obviously in recessions these things can go low and that's why you know in
+
+00:10:30,949 --> 00:10:33,269
+can go low and that's why you know in the covid recessions inflation went to
+
+00:10:33,269 --> 00:10:34,110
+the covid recessions inflation went to zero
+
+00:10:34,110 --> 00:10:36,870
+zero essentially but then it began to pick up
+
+00:10:36,870 --> 00:10:39,870
+essentially but then it began to pick up and it's now at levels which are unheard
+
+00:10:39,870 --> 00:10:43,710
+and it's now at levels which are unheard of in the US since the 80s okay so
+
+00:10:43,710 --> 00:10:45,269
+of in the US since the 80s okay so depending on the particular measure you
+
+00:10:45,269 --> 00:10:47,949
+depending on the particular measure you use of inflation is around 6 and a half%
+
+00:10:47,949 --> 00:10:49,910
+use of inflation is around 6 and a half% to 8% that's the level of inflation we
+
+00:10:49,910 --> 00:10:55,870
+have which is way way above what is considered a normal a reasonable Target
+
+00:10:55,870 --> 00:10:58,190
+considered a normal a reasonable Target for the central banks for the inflation
+
+00:10:58,190 --> 00:11:02,269
+okay so that's a problem we have had some good news recently in that
+
+00:11:02,269 --> 00:11:05,470
+some good news recently in that inflation clearly picked already again
+
+00:11:05,470 --> 00:11:06,750
+inflation clearly picked already again definition of inflation formal
+
+00:11:06,750 --> 00:11:08,350
+definition of inflation formal definition inflation happens in the next
+
+00:11:08,350 --> 00:11:11,350
+definition inflation happens in the next lecture but it already pick and it's
+
+00:11:11,350 --> 00:11:13,629
+lecture but it already pick and it's declining but it's still at very very
+
+00:11:13,629 --> 00:11:15,430
+declining but it's still at very very high levels and that's a problem that's
+
+00:11:15,430 --> 00:11:17,590
+high levels and that's a problem that's a big macroeconomic problem and one of
+
+00:11:17,590 --> 00:11:21,069
+the things we want to understand in this course is well what to do about it how
+
+00:11:21,069 --> 00:11:23,030
+course is well what to do about it how do you do how do you deal with that what
+
+00:11:23,030 --> 00:11:25,470
+do you do how do you deal with that what do central banks need to do in order to
+
+00:11:25,470 --> 00:11:28,350
+do central banks need to do in order to deal with that now I've been talking
+
+00:11:28,350 --> 00:11:31,069
+deal with that now I've been talking about the US but this is not specific to
+
+00:11:31,069 --> 00:11:35,949
+the US ER this episode this recovery from
+
+00:11:35,949 --> 00:11:39,910
+US ER this episode this recovery from covid is is incredibly common across
+
+00:11:39,910 --> 00:11:42,790
+different regions of the world I mean you see it everywhere with a few
+
+00:11:42,790 --> 00:11:43,990
+you see it everywhere with a few exceptions and I'm going to talk about
+
+00:11:43,990 --> 00:11:47,870
+exceptions and I'm going to talk about one major exception in a minute but but
+
+00:11:47,870 --> 00:11:51,470
+it's it's it's it's WID spread it's a WID spread phenomenon that you know we
+
+00:11:51,470 --> 00:11:53,590
+WID spread phenomenon that you know we had high employment then we had sort of
+
+00:11:53,590 --> 00:11:55,670
+had high employment then we had sort of very
+
+00:11:55,670 --> 00:11:58,550
+very high well I haven't told you that part
+
+00:11:58,550 --> 00:12:00,110
+high well I haven't told you that part yet but then we have had sort of low
+
+00:12:00,110 --> 00:12:01,509
+yet but then we have had sort of low inflation then inflation pick up
+
+00:12:01,509 --> 00:12:03,389
+inflation then inflation pick up enormously and now we're all worried
+
+00:12:03,389 --> 00:12:05,790
+enormously and now we're all worried about this very high levels of inflation
+
+00:12:05,790 --> 00:12:07,110
+about this very high levels of inflation in
+
+00:12:07,110 --> 00:12:09,550
+in fact if you look at sort of what
+
+00:12:09,550 --> 00:12:11,230
+fact if you look at sort of what happened between the Great Recession and
+
+00:12:11,230 --> 00:12:13,750
+happened between the Great Recession and the co recession it was pretty normal to
+
+00:12:13,750 --> 00:12:18,910
+have 70 to 80% of the economies in the world having inflation levels at or
+
+00:12:18,910 --> 00:12:22,150
+world having inflation levels at or below 2% so that's Norm you if they
+
+00:12:22,150 --> 00:12:23,629
+below 2% so that's Norm you if they throw you into a country I dropped you
+
+00:12:23,629 --> 00:12:25,990
+throw you into a country I dropped you into a country the normal thing would be
+
+00:12:25,990 --> 00:12:27,550
+into a country the normal thing would be well it's about 2% that's level of
+
+00:12:27,550 --> 00:12:29,269
+well it's about 2% that's level of inflation obviously if I dropped in
+
+00:12:29,269 --> 00:12:30,550
+inflation obviously if I dropped in Argentina you're going to find a much
+
+00:12:30,550 --> 00:12:34,590
+Argentina you're going to find a much bigger number know 10,000% but but but
+
+00:12:34,590 --> 00:12:37,670
+bigger number know 10,000% but but but but the bulk of the countries we around
+
+00:12:37,670 --> 00:12:41,189
+but the bulk of the countries we around 2% or so today you don't find any
+
+00:12:41,189 --> 00:12:43,269
+2% or so today you don't find any country with inflation below
+
+00:12:43,269 --> 00:12:46,629
+country with inflation below 2% okay not even Japan that for years
+
+00:12:46,629 --> 00:12:48,870
+2% okay not even Japan that for years were in deflation and trying to get sort
+
+00:12:48,870 --> 00:12:51,590
+were in deflation and trying to get sort of above zero that's what they all they
+
+00:12:51,590 --> 00:12:56,750
+wanted not even in Japan you have inflation below 2% today so this thing I
+
+00:12:56,750 --> 00:12:58,829
+inflation below 2% today so this thing I show you and for more or less the same
+
+00:12:58,829 --> 00:13:00,470
+show you and for more or less the same reason
+
+00:13:00,470 --> 00:13:06,389
+is happening everywhere not exactly the same factors it's the same episode in
+
+00:13:06,389 --> 00:13:09,990
+same factors it's the same episode in for example in and then with differences
+
+00:13:09,990 --> 00:13:13,790
+depending on the structure of the economy or in additional shocks in
+
+00:13:13,790 --> 00:13:15,949
+economy or in additional shocks in Europe for example they have very high
+
+00:13:15,949 --> 00:13:22,350
+inflation H but the problem is not the origin of the problem the bulk of the of
+
+00:13:22,350 --> 00:13:25,110
+origin of the problem the bulk of the of the problem is the same as in the US but
+
+00:13:25,110 --> 00:13:27,430
+the problem is the same as in the US but the but at the margin they're different
+
+00:13:27,430 --> 00:13:29,470
+the but at the margin they're different in in Europe the Big Driver of inflation
+
+00:13:29,470 --> 00:13:35,590
+the big recent driver of inflation is unlike the US which is aggregate demand
+
+00:13:35,590 --> 00:13:38,030
+unlike the US which is aggregate demand cons j s later is essentially the war in
+
+00:13:38,030 --> 00:13:39,910
+cons j s later is essentially the war in Ukraine that has increased the price of
+
+00:13:39,910 --> 00:13:41,990
+Ukraine that has increased the price of energy and the price of energy has led
+
+00:13:41,990 --> 00:13:47,389
+different reasons but all of them are sort of different reasons that you add
+
+00:13:47,389 --> 00:13:49,990
+sort of different reasons that you add on top of what is a common story which
+
+00:13:49,990 --> 00:13:52,230
+on top of what is a common story which is that we overheated it coming out of
+
+00:13:52,230 --> 00:13:53,710
+is that we overheated it coming out of the covid INF
+
+00:13:53,710 --> 00:13:58,110
+the covid INF covid episode and and and now we're
+
+00:13:58,110 --> 00:14:00,870
+covid episode and and and now we're strugging Str with that now the main
+
+00:14:00,870 --> 00:14:02,389
+strugging Str with that now the main tool and we're going to talk a lot about
+
+00:14:02,389 --> 00:14:04,189
+tool and we're going to talk a lot about this in this course the main tool that
+
+00:14:04,189 --> 00:14:06,350
+this in this course the main tool that central banks have to deal with
+
+00:14:06,350 --> 00:14:09,389
+central banks have to deal with inflation is the interest rate okay so
+
+00:14:09,389 --> 00:14:11,949
+inflation is the interest rate okay so for reasons you'll understand later
+
+00:14:11,949 --> 00:14:13,629
+for reasons you'll understand later although you may have an intuition about
+
+00:14:13,629 --> 00:14:18,949
+some of those now obviously when the Central Bank lowers interest rates then
+
+00:14:18,949 --> 00:14:21,030
+Central Bank lowers interest rates then that helps the economy to
+
+00:14:21,030 --> 00:14:23,550
+that helps the economy to expand and when it increases interest
+
+00:14:23,550 --> 00:14:25,470
+expand and when it increases interest rate then it does the opposite rise in
+
+00:14:25,470 --> 00:14:27,069
+rate then it does the opposite rise in interest rate makes mortgages more
+
+00:14:27,069 --> 00:14:28,550
+interest rate makes mortgages more expensive make everything more expensive
+
+00:14:28,550 --> 00:14:31,110
+expensive make everything more expensive so people to consume less firms tend to
+
+00:14:31,110 --> 00:14:33,150
+so people to consume less firms tend to invest less and so on because it's more
+
+00:14:33,150 --> 00:14:35,870
+invest less and so on because it's more expensive to invest to borrow to to do
+
+00:14:35,870 --> 00:14:40,030
+expensive to invest to borrow to to do something okay and uh and there there
+
+00:14:40,030 --> 00:14:42,350
+something okay and uh and there there you see it I mean this was the level of
+
+00:14:42,350 --> 00:14:44,990
+you see it I mean this was the level of the interest rate in the US before covid
+
+00:14:44,990 --> 00:14:47,069
+the interest rate in the US before covid when covid came boom they brought it all
+
+00:14:47,069 --> 00:14:48,870
+when covid came boom they brought it all the way down it happens that you cannot
+
+00:14:48,870 --> 00:14:53,350
+bring interest rate a lot lower than zero as a reason it stay close to zero
+
+00:14:53,350 --> 00:14:54,509
+zero as a reason it stay close to zero there we're going to talk about that
+
+00:14:54,509 --> 00:14:56,749
+there we're going to talk about that later on but then eventually they
+
+00:14:56,749 --> 00:14:58,350
+later on but then eventually they realized that we're behind the curve
+
+00:14:58,350 --> 00:15:06,470
+curve so they began to hike rates in a hurry okay and that's what we have been
+
+00:15:06,470 --> 00:15:10,110
+hurry okay and that's what we have been experiencing for for the last ER year or
+
+00:15:10,110 --> 00:15:15,350
+so okay very fast increase in the interest rate now this is of course
+
+00:15:15,350 --> 00:15:17,110
+interest rate now this is of course about macroeconomics but I happen to do
+
+00:15:17,110 --> 00:15:18,629
+about macroeconomics but I happen to do a lot of research between macro and
+
+00:15:18,629 --> 00:15:20,990
+a lot of research between macro and finance so I'm going to put a little bit
+
+00:15:20,990 --> 00:15:23,670
+finance so I'm going to put a little bit more of a component of Finance into in
+
+00:15:23,670 --> 00:15:25,269
+more of a component of Finance into in the in the LA I think I'm going to do
+
+00:15:25,269 --> 00:15:30,910
+most of that in the last third of the course but monetary policy has lots of
+
+00:15:30,910 --> 00:15:34,629
+course but monetary policy has lots of implications for for for for finance for
+
+00:15:34,629 --> 00:15:37,030
+implications for for for for finance for Equity values for the stock market and
+
+00:15:37,030 --> 00:15:51,430
+XX 500 is the index the main index of equity in the US of shares
+
+00:15:51,430 --> 00:15:54,150
+main index of equity in the US of shares okay there are several indexes NASDAQ
+
+00:15:54,150 --> 00:15:56,870
+okay there are several indexes NASDAQ S&P da and so on this is the main index
+
+00:15:56,870 --> 00:15:58,350
+S&P da and so on this is the main index the most comprehensive the one that
+
+00:15:58,350 --> 00:16:01,949
+the most comprehensive the one that takes the largest the largest companies
+
+00:16:01,949 --> 00:16:04,509
+takes the largest the largest companies and so on so forth and when you can see
+
+00:16:04,509 --> 00:16:06,790
+and so on so forth and when you can see what happens here is that when covid
+
+00:16:06,790 --> 00:16:12,509
+happened the surprise that we we had really a pandemia then the stock market
+
+00:16:12,509 --> 00:16:15,230
+really a pandemia then the stock market crash decline like 30% or something like
+
+00:16:15,230 --> 00:16:17,309
+crash decline like 30% or something like that at the time that's interesting of
+
+00:16:17,309 --> 00:16:19,509
+that at the time that's interesting of assets I mean that's one one
+
+00:16:19,509 --> 00:16:22,509
+assets I mean that's one one characteristic of of equity that I like
+
+00:16:22,509 --> 00:16:25,150
+characteristic of of equity that I like a lot other risky assets as well but but
+
+00:16:25,150 --> 00:16:27,710
+a lot other risky assets as well but but but but they like a lot they anticipate
+
+00:16:27,710 --> 00:16:32,470
+what happens what happened there is the stock market the shareholders realized
+
+00:16:32,470 --> 00:16:34,629
+stock market the shareholders realized that something big was negative and big
+
+00:16:34,629 --> 00:16:38,790
+was happening in front of us so it was sign to sell you know and so the equity
+
+00:16:38,790 --> 00:16:45,749
+even more interesting for a microeconomist which is this this big
+
+00:16:45,749 --> 00:16:50,829
+boom here it's an enormous Boom the economy here still was at levels of
+
+00:16:50,829 --> 00:16:53,309
+economy here still was at levels of activity below what it had before covid
+
+00:16:53,309 --> 00:16:57,430
+but the stock market the value in the stock market had way exceeded the level
+
+00:16:57,430 --> 00:17:03,870
+we had before the pandemic okay and the main driver of that I've shown that in
+
+00:17:03,870 --> 00:17:08,309
+some papers the main driver of that is not I mean people tell lots of stories
+
+00:17:08,309 --> 00:17:11,150
+not I mean people tell lots of stories you know you know Amazon and so on but
+
+00:17:11,150 --> 00:17:15,630
+Tesla blah blah if you look at the aggregate the main reason for that rise
+
+00:17:15,630 --> 00:17:18,949
+aggregate the main reason for that rise was monetary policy was you can explain
+
+00:17:18,949 --> 00:17:20,829
+was monetary policy was you can explain all that increase in the equity value in
+
+00:17:20,829 --> 00:17:23,150
+all that increase in the equity value in the US of the index not individual
+
+00:17:23,150 --> 00:17:25,829
+the US of the index not individual shares of the index by the of interest
+
+00:17:25,829 --> 00:17:30,710
+rates okay so monetary policy plays a big role if you care about Finance well
+
+00:17:30,710 --> 00:17:32,750
+big role if you care about Finance well it plays a huge role in the value of
+
+00:17:32,750 --> 00:17:35,270
+it plays a huge role in the value of assets when monetary policy very loose
+
+00:17:35,270 --> 00:17:37,310
+assets when monetary policy very loose that tends to increase the the value of
+
+00:17:37,310 --> 00:17:39,549
+that tends to increase the the value of assets and that's one of the mechanism
+
+00:17:39,549 --> 00:17:41,789
+assets and that's one of the mechanism the central banks use to expand
+
+00:17:41,789 --> 00:17:42,909
+the central banks use to expand aggregate demand when they want to
+
+00:17:42,909 --> 00:17:44,190
+aggregate demand when they want to expand aggregate demand they want people
+
+00:17:44,190 --> 00:17:45,630
+expand aggregate demand they want people to feel if you have in a recession you
+
+00:17:45,630 --> 00:17:47,710
+to feel if you have in a recession you want people to feel richer so they spend
+
+00:17:47,710 --> 00:17:49,510
+want people to feel richer so they spend more and so on so
+
+00:17:49,510 --> 00:17:52,750
+more and so on so forth what happened here this decline
+
+00:17:52,750 --> 00:17:56,669
+you can also explain it fully with the hiking interest rate remember I show you
+
+00:17:56,669 --> 00:17:58,070
+hiking interest rate remember I show you that the interest rate began to rise
+
+00:17:58,070 --> 00:18:03,590
+very rapidly here well last year the equity Market in the US and most major
+
+00:18:03,590 --> 00:18:05,590
+equity Market in the US and most major Equity markets around the world declined
+
+00:18:05,590 --> 00:18:08,630
+Equity markets around the world declined by 20% or more you can explain all that
+
+00:18:08,630 --> 00:18:11,710
+decline simply by the increase in the interest rate so that's another thing we
+
+00:18:11,710 --> 00:18:15,510
+need to understand is why is that the interest why is the interest rate
+
+00:18:15,510 --> 00:18:17,110
+interest why is the interest rate matters so much for something like
+
+00:18:17,110 --> 00:18:19,310
+matters so much for something like Equity so we're want to Value assets and
+
+00:18:19,310 --> 00:18:22,549
+we want to see what is the effect of the interest rate and then we're want to
+
+00:18:22,549 --> 00:18:24,230
+interest rate and then we're want to think about well why would the Central
+
+00:18:24,230 --> 00:18:26,390
+think about well why would the Central Bank worry or not worry about these
+
+00:18:26,390 --> 00:18:28,430
+Bank worry or not worry about these things and so on so forth but the truth
+
+00:18:28,430 --> 00:18:34,590
+is that financial markets and the central banks interact all the time I
+
+00:18:34,590 --> 00:18:37,750
+central banks interact all the time I mean if you are in again into Wall
+
+00:18:37,750 --> 00:18:39,669
+mean if you are in again into Wall Street type thing you're going to be
+
+00:18:39,669 --> 00:18:44,950
+monetary minutes the minutes of the central banks are released you're going
+
+00:18:44,950 --> 00:18:47,230
+central banks are released you're going to be watching because it has a big
+
+00:18:47,230 --> 00:18:50,430
+to be watching because it has a big implication for the value of your
+
+00:18:50,430 --> 00:18:52,190
+implication for the value of your Equity actually something very
+
+00:18:52,190 --> 00:18:53,750
+Equity actually something very interesting of this nature happened last
+
+00:18:53,750 --> 00:18:55,350
+interesting of this nature happened last week on
+
+00:18:55,350 --> 00:19:06,390
+release of payroll numbers so it's an employment index okay employment numbers
+
+00:19:06,390 --> 00:19:15,110
+and er people expected ER and the the payroll to increase to so to add nonfarm
+
+00:19:15,110 --> 00:19:16,669
+payroll to increase to so to add nonfarm payroll we'll talk about this things
+
+00:19:16,669 --> 00:19:18,510
+payroll we'll talk about this things later by about
+
+00:19:18,510 --> 00:19:20,310
+later by about 190,000
+
+00:19:20,310 --> 00:19:23,950
+190,000 workers at 8:30 well and this you're
+
+00:19:23,950 --> 00:19:26,190
+workers at 8:30 well and this you're seeing here is the behavior of the same
+
+00:19:26,190 --> 00:19:29,430
+index I showed you before but the Futures so the same things you can trade
+
+00:19:29,430 --> 00:19:33,909
+before the market actually opens the market in the US opens at 9:30 a.m. but
+
+00:19:33,909 --> 00:19:37,350
+market in the US opens at 9:30 a.m. but you can trade Futures since Asia times
+
+00:19:37,350 --> 00:19:39,710
+you can trade Futures since Asia times okay anyway so this is the path it's all
+
+00:19:39,710 --> 00:19:41,710
+okay anyway so this is the path it's all very quiet tranquil everyone is waiting
+
+00:19:41,710 --> 00:19:44,830
+very quiet tranquil everyone is waiting the release of this news at 8:30 a.m. at
+
+00:19:44,830 --> 00:19:48,310
+the release of this news at 8:30 a.m. at 8:30 a.m. great news for the labor
+
+00:19:48,310 --> 00:19:53,070
+8:30 a.m. great news for the labor market not only not the the the actual
+
+00:19:53,070 --> 00:19:56,270
+market not only not the the the actual change in the payroll was not 190k it
+
+00:19:56,270 --> 00:19:59,750
+change in the payroll was not 190k it was over 500,000 k so enormous addition
+
+00:19:59,750 --> 00:20:03,110
+was over 500,000 k so enormous addition of jobs to the economy and look what
+
+00:20:03,110 --> 00:20:05,549
+of jobs to the economy and look what happens to the equity Market boom it
+
+00:20:05,549 --> 00:20:09,669
+imploded immediately so this is wonderful news now for the economy lots
+
+00:20:09,669 --> 00:20:17,350
+of jobs the equity Market imploded as a result of that why do you think that
+
+00:20:17,350 --> 00:20:19,430
+result of that why do you think that happened I already given you a little
+
+00:20:19,430 --> 00:20:25,549
+bit of the ingredients for why for an answer in in in in the previous
+
+00:20:25,549 --> 00:20:30,909
+slides the reason I'm showing you this is because it's a in in in one in 15
+
+00:20:30,909 --> 00:20:35,909
+minutes it summarizes all that I was talking about in the previous 30
+
+00:20:35,909 --> 00:20:38,750
+talking about in the previous 30 minutes why do you think that happened
+
+00:20:38,750 --> 00:20:41,590
+minutes why do you think that happened this is wonderful news why why the so
+
+00:20:41,590 --> 00:20:44,310
+this is wonderful news why why the so Market Should Crash like 2% from top to
+
+00:20:44,310 --> 00:20:47,950
+Market Should Crash like 2% from top to bottom as a result of
+
+00:20:47,950 --> 00:20:47,960
+1041 00:20:47,960 --> 00:20:51,870  that there a lot more labor because um
+
+00:20:51,870 --> 00:20:55,630
+that there a lot more labor because um that gives a lot more um supply
+
+00:20:55,630 --> 00:21:00,190
+that gives a lot more um supply of um that thing and thus it Dees price
+
+00:21:00,190 --> 00:21:01,549
+of um that thing and thus it Dees price because High
+
+00:21:01,549 --> 00:21:09,990
+interesting okay that that's an interesting explanation is not the one I
+
+00:21:09,990 --> 00:21:13,269
+interesting explanation is not the one I have in mind it's a the explanation says
+
+00:21:13,269 --> 00:21:15,830
+have in mind it's a the explanation says look that means firms hire lots of
+
+00:21:15,830 --> 00:21:18,549
+look that means firms hire lots of people so the price the that means there
+
+00:21:18,549 --> 00:21:20,029
+people so the price the that means there going to be lots of supply of whatever
+
+00:21:20,029 --> 00:21:21,789
+going to be lots of supply of whatever Goods they're producing the price of
+
+00:21:21,789 --> 00:21:22,990
+Goods they're producing the price of those goods is going to decline and
+
+00:21:22,990 --> 00:21:24,190
+those goods is going to decline and that's going to be bad for profits
+
+00:21:24,190 --> 00:21:27,070
+that's going to be bad for profits that's the story you had in mind
+
+00:21:27,070 --> 00:21:30,230
+that's the story you had in mind yeah maybe some of that but I I'm
+
+00:21:30,230 --> 00:21:34,669
+yeah maybe some of that but I I'm willing to bet that it's not the main
+
+00:21:34,669 --> 00:21:39,590
+thing so the only clue I give you is that I already talk about these things
+
+00:21:39,590 --> 00:21:43,669
+that I already talk about these things five minutes
+
+00:21:43,669 --> 00:21:43,679
+1081 00:21:43,679 --> 00:21:47,789  ago employment is um very closely um
+
+00:21:47,789 --> 00:21:50,510
+ago employment is um very closely um related to inflation rates yes up to
+
+00:21:50,510 --> 00:21:52,470
+related to inflation rates yes up to 0.81 so this could be result of
+
+00:21:52,470 --> 00:21:54,350
+0.81 so this could be result of expectations of high Contin High
+
+00:21:54,350 --> 00:21:57,110
+expectations of high Contin High inflation okay you're are very close one
+
+00:21:57,110 --> 00:21:59,110
+inflation okay you're are very close one step more yes
+
+00:21:59,110 --> 00:22:03,029
+step more yes that that means that that means that
+
+00:22:03,029 --> 00:22:06,630
+that that means that that means that so okay that there you are so what
+
+00:22:06,630 --> 00:22:11,310
+happens the bank the the the shareholders wouldn't have done anything
+
+00:22:11,310 --> 00:22:13,230
+shareholders wouldn't have done anything if they thought that the FED would not
+
+00:22:13,230 --> 00:22:15,590
+if they thought that the FED would not be able to see this data but they know
+
+00:22:15,590 --> 00:22:17,549
+be able to see this data but they know that the FED also sees this data and say
+
+00:22:17,549 --> 00:22:19,269
+that the FED also sees this data and say whoa these guys are going to be worried
+
+00:22:19,269 --> 00:22:20,510
+whoa these guys are going to be worried because the econom is going to keep
+
+00:22:20,510 --> 00:22:21,549
+because the econom is going to keep overheating they're going to have to
+
+00:22:21,549 --> 00:22:23,630
+overheating they're going to have to hike interest rates even more in order
+
+00:22:23,630 --> 00:22:26,870
+hike interest rates even more in order to cool down this economy okay I already
+
+00:22:26,870 --> 00:22:28,470
+to cool down this economy okay I already show you that what happens in the labor
+
+00:22:28,470 --> 00:22:29,870
+show you that what happens in the labor lab Market is very connected to what
+
+00:22:29,870 --> 00:22:34,149
+happens in with inflation the the Central Bank knows that and now you get
+
+00:22:34,149 --> 00:22:36,029
+Central Bank knows that and now you get this big surprise that means they're not
+
+00:22:36,029 --> 00:22:38,269
+this big surprise that means they're not really being able to they're not been
+
+00:22:38,269 --> 00:22:40,070
+really being able to they're not been successful at really slowing down one of
+
+00:22:40,070 --> 00:22:43,590
+successful at really slowing down one of the main drivers of inflation and so
+
+00:22:43,590 --> 00:22:44,909
+the main drivers of inflation and so financial markets are very forward
+
+00:22:44,909 --> 00:22:49,350
+looking they whoa this is coming this is only means that not going the financial
+
+00:22:49,350 --> 00:22:52,029
+only means that not going the financial markets were betting that that the Fed
+
+00:22:52,029 --> 00:22:54,950
+markets were betting that that the Fed was going to begin to cut interest rate
+
+00:22:54,950 --> 00:22:57,990
+was going to begin to cut interest rate in four month more or so and if you look
+
+00:22:57,990 --> 00:23:02,190
+at qu the forward did that there so the what the market you can you can extract
+
+00:23:02,190 --> 00:23:09,149
+it all got immediately pushed out to the end of of the Year okay so so it's
+
+00:23:09,149 --> 00:23:12,830
+precise it's the anticipation that the central bank will have to do something
+
+00:23:12,830 --> 00:23:15,230
+central bank will have to do something and and so I thought it was very
+
+00:23:15,230 --> 00:23:18,230
+and and so I thought it was very interesting for that point of
+
+00:23:18,230 --> 00:23:22,950
+view recessions well look and these are all very good
+
+00:23:22,950 --> 00:23:26,070
+all very good news but everyone knows that the FED
+
+00:23:26,070 --> 00:23:29,590
+news but everyone knows that the FED needs to cool off the economy so despite
+
+00:23:29,590 --> 00:23:31,390
+needs to cool off the economy so despite the fact that we're getting good news
+
+00:23:31,390 --> 00:23:34,789
+the fact that we're getting good news now ER people expect the majority of
+
+00:23:34,789 --> 00:23:37,269
+now ER people expect the majority of people expect a recession in the US for
+
+00:23:37,269 --> 00:23:42,830
+bar graphic here but these are forecasters these are professional
+
+00:23:42,830 --> 00:23:46,149
+forecasters these are professional forecaster and and and more than half of
+
+00:23:46,149 --> 00:23:49,029
+forecaster and and and more than half of them so the median of them thinks that
+
+00:23:49,029 --> 00:23:56,549
+a recession in the US this year I'm a little well we're going to
+
+00:23:56,549 --> 00:23:58,510
+year I'm a little well we're going to talk a lot about this and and probably
+
+00:23:58,510 --> 00:24:03,230
+while we're taking the course so this is going to be a sort of picture that we're
+
+00:24:03,230 --> 00:24:05,870
+going to be a sort of picture that we're going to discuss
+
+00:24:05,870 --> 00:24:07,870
+going to discuss extensively and the reason for that
+
+00:24:07,870 --> 00:24:13,029
+recession is nothing else than the reason you ask this forecast why do you
+
+00:24:13,029 --> 00:24:14,750
+reason you ask this forecast why do you think we may have a recession well
+
+00:24:14,750 --> 00:24:17,390
+think we may have a recession well because the FED is trying to fight
+
+00:24:17,390 --> 00:24:18,710
+because the FED is trying to fight inflation it's going to keep hiking
+
+00:24:18,710 --> 00:24:20,669
+inflation it's going to keep hiking interest rate and at some point it may
+
+00:24:20,669 --> 00:24:24,510
+interest rate and at some point it may break something okay and and and that's
+
+00:24:24,510 --> 00:24:25,870
+break something okay and and and that's that's the reason but we're going to all
+
+00:24:25,870 --> 00:24:27,510
+that's the reason but we're going to all these things you are going to be able to
+
+00:24:27,510 --> 00:24:29,230
+these things you are going to be able to understand very very clearly hope
+
+00:24:29,230 --> 00:24:30,110
+understand very very clearly hope through
+
+00:24:30,110 --> 00:24:33,830
+through Ms the last thing I want to say before
+
+00:24:33,830 --> 00:24:35,830
+Ms the last thing I want to say before uh telling you a little bit the rules of
+
+00:24:35,830 --> 00:24:41,190
+the game is that I said before that the story I told you about the US is more or
+
+00:24:41,190 --> 00:24:43,029
+story I told you about the US is more or less what it's happened all around you
+
+00:24:43,029 --> 00:24:45,110
+less what it's happened all around you know I was in
+
+00:24:45,110 --> 00:24:48,190
+know I was in Chile a month ago I'm Chilean and and
+
+00:24:48,190 --> 00:24:49,750
+Chile a month ago I'm Chilean and and they have the same story they start
+
+00:24:49,750 --> 00:24:51,470
+they have the same story they start hiking interestate a little earlier
+
+00:24:51,470 --> 00:24:55,269
+because they had more inflation than the us but they're going through the same
+
+00:24:55,269 --> 00:24:56,990
+us but they're going through the same cycle
+
+00:24:56,990 --> 00:24:59,950
+cycle um there's one big economy the second
+
+00:24:59,950 --> 00:25:11,070
+China China was very aggressive in the covid uh policy no so zero covid policy
+
+00:25:11,070 --> 00:25:12,950
+covid uh policy no so zero covid policy so they really slowed down their economy
+
+00:25:12,950 --> 00:25:14,230
+so they really slowed down their economy that's a consequence they didn't want to
+
+00:25:14,230 --> 00:25:16,029
+that's a consequence they didn't want to do that but as a result of a very strict
+
+00:25:16,029 --> 00:25:19,269
+do that but as a result of a very strict Co policy they essentially shut down big
+
+00:25:19,269 --> 00:25:21,470
+Co policy they essentially shut down big parts of the economy for a long time
+
+00:25:21,470 --> 00:25:26,310
+that by the way had big impact in the rest of the world through the network of
+
+00:25:26,310 --> 00:25:27,789
+rest of the world through the network of production the chains of production and
+
+00:25:27,789 --> 00:25:29,830
+production the chains of production and stuff like that that was inflationary in
+
+00:25:29,830 --> 00:25:33,310
+stuff like that that was inflationary in itself that part is dissipating but but
+
+00:25:33,310 --> 00:25:37,909
+for the their own economy for the domestic economy that really slowed down
+
+00:25:37,909 --> 00:25:40,430
+domestic economy that really slowed down China an economy that you know grew
+
+00:25:40,430 --> 00:25:45,190
+typically at five and a half to six% a lot higher 15 years ago we're going to
+
+00:25:45,190 --> 00:25:47,909
+lot higher 15 years ago we're going to try to understand why later on but last
+
+00:25:47,909 --> 00:25:51,389
+try to understand why later on but last year I don't know it was 3% or or less
+
+00:25:51,389 --> 00:25:52,870
+year I don't know it was 3% or or less numbers in
+
+00:25:52,870 --> 00:25:54,950
+numbers in China difficult
+
+00:25:54,950 --> 00:25:57,990
+China difficult to to figure out they're not equally
+
+00:25:57,990 --> 00:26:00,909
+to to figure out they're not equally trans paring to other numbers but but in
+
+00:26:00,909 --> 00:26:05,430
+any event but it's very clear that China slowed down a lot and that policy
+
+00:26:05,430 --> 00:26:09,149
+slowed down a lot and that policy recently changed okay the zero Co policy
+
+00:26:09,149 --> 00:26:11,710
+recently changed okay the zero Co policy change and so there's great expectation
+
+00:26:11,710 --> 00:26:12,950
+change and so there's great expectation that now there's going going to be a big
+
+00:26:12,950 --> 00:26:15,269
+that now there's going going to be a big boom in China because they're lagging
+
+00:26:15,269 --> 00:26:18,110
+boom in China because they're lagging behind I mean in in in the US when Co
+
+00:26:18,110 --> 00:26:20,389
+behind I mean in in in the US when Co began to dissipate we got a huge boost
+
+00:26:20,389 --> 00:26:21,830
+began to dissipate we got a huge boost to growth and that's part of the reason
+
+00:26:21,830 --> 00:26:23,430
+to growth and that's part of the reason we got all this inflation is because we
+
+00:26:23,430 --> 00:26:28,590
+had lots of growth coming out of the recession that happening in Co and more
+
+00:26:28,590 --> 00:26:32,830
+or less the same is expected in China and one of the big reasons behind those
+
+00:26:32,830 --> 00:26:36,430
+big bounce backs is where people are desperate they want to spend on
+
+00:26:36,430 --> 00:26:37,870
+desperate they want to spend on something they want to go to restaurants
+
+00:26:37,870 --> 00:26:41,470
+and Cinemas and stuff like that and the other one is they have the means to do
+
+00:26:41,470 --> 00:26:43,070
+other one is they have the means to do it because they couldn't spend on
+
+00:26:43,070 --> 00:26:45,149
+it because they couldn't spend on anything for a while know and so they
+
+00:26:45,149 --> 00:26:48,870
+can travel and stuff like that so so people
+
+00:26:48,870 --> 00:26:51,630
+travel and stuff like that so so people expect and this is a m very large
+
+00:26:51,630 --> 00:26:55,190
+expect and this is a m very large economy that suddenly sort of wakes up
+
+00:26:55,190 --> 00:27:00,190
+you know that's a big thing for China but it's also big thing for the world
+
+00:27:00,190 --> 00:27:04,070
+you know what what happens in China doesn't stay in China it's a big giant
+
+00:27:04,070 --> 00:27:08,310
+so it moves and for some countries is very very important in this picture here
+
+00:27:08,310 --> 00:27:10,310
+very very important in this picture here it shows you what is the impact on
+
+00:27:10,310 --> 00:27:26,669
+most obviously all the neighbors are benefit a lot but Latin America benefits
+
+00:27:26,669 --> 00:27:29,870
+benefit a lot but Latin America benefits even more why is that well because Latin
+
+00:27:29,870 --> 00:27:32,149
+even more why is that well because Latin America produces lots of Commodities and
+
+00:27:32,149 --> 00:27:33,990
+America produces lots of Commodities and China consume lots of commodity when
+
+00:27:33,990 --> 00:27:36,269
+China consume lots of commodity when it's building and and stuff like that
+
+00:27:36,269 --> 00:27:38,110
+it's building and and stuff like that and so that's Reon big impact on Latin
+
+00:27:38,110 --> 00:27:40,830
+and so that's Reon big impact on Latin America so this is a piece of good news
+
+00:27:40,830 --> 00:27:43,190
+America so this is a piece of good news for the world in the sense that activity
+
+00:27:43,190 --> 00:27:45,509
+for the world in the sense that activity will go up
+
+00:27:45,509 --> 00:27:49,630
+will go up but it's good news on average but it may
+
+00:27:49,630 --> 00:27:52,549
+but it's good news on average but it may be too much of a good thing as well why
+
+00:27:52,549 --> 00:27:54,669
+be too much of a good thing as well why because many economies are going through
+
+00:27:54,669 --> 00:27:55,950
+because many economies are going through what we described before they're trying
+
+00:27:55,950 --> 00:27:57,389
+what we described before they're trying to bring down inflation they don't want
+
+00:27:57,389 --> 00:27:59,509
+to bring down inflation they don't want more demand they want want less for now
+
+00:27:59,509 --> 00:28:01,230
+more demand they want want less for now because we're going to understand that
+
+00:28:01,230 --> 00:28:03,149
+because we're going to understand that connection later on how demand connects
+
+00:28:03,149 --> 00:28:05,990
+connection later on how demand connects to inflation but but you want less and
+
+00:28:05,990 --> 00:28:10,230
+now you're going to get this this impulse from China which is going to
+
+00:28:10,230 --> 00:28:13,350
+fuel more inflation it's okay for China because they don't have an inflation
+
+00:28:13,350 --> 00:28:15,430
+because they don't have an inflation problem but it may be a problem for many
+
+00:28:15,430 --> 00:28:18,310
+problem but it may be a problem for many of the countries that are trying to ER
+
+00:28:18,310 --> 00:28:24,230
+inflationary consequences of the previous expansion the expansion that
+
+00:28:24,230 --> 00:28:28,310
+follow covid okay anyways but this is the kind of things we're going to be
+
+00:28:28,310 --> 00:28:33,310
+talking about the I said the course is not going to be mathy but it's going to
+
+00:28:33,310 --> 00:28:37,070
+be all about moles the next lecture is the most boring lecture of the course I
+
+00:28:37,070 --> 00:28:38,470
+the most boring lecture of the course I I I tell you in advance because it's
+
+00:28:38,470 --> 00:28:39,870
+I I tell you in advance because it's definitions I I need to go through
+
+00:28:39,870 --> 00:28:42,870
+definitions I I need to go through definition at least I get bored but but
+
+00:28:42,870 --> 00:28:44,590
+definition at least I get bored but but the rest there's always with a little
+
+00:28:44,590 --> 00:28:51,789
+models are going to try to explain the kind of things I I I discuss today so
+
+00:28:51,789 --> 00:28:57,389
+that's what this course is about is is is is ideally if we're successful you're
+
+00:28:57,389 --> 00:28:58,870
+is is ideally if we're successful you're going to be able to read something like
+
+00:28:58,870 --> 00:29:03,190
+the world economic Outlook which will have lots of pictures like this and
+
+00:29:03,190 --> 00:29:06,350
+you're going to be able to write a little equation very simple on the side
+
+00:29:06,350 --> 00:29:07,830
+little equation very simple on the side to try to understand what is going on
+
+00:29:07,830 --> 00:29:10,389
+to try to understand what is going on there and to catch the mistakes as well
+
+00:29:10,389 --> 00:29:16,470
+World stre Journal but but you will catch mistakes you'll see you'll be
+
+00:29:16,470 --> 00:29:19,919
+catch mistakes you'll see you'll be proud of them

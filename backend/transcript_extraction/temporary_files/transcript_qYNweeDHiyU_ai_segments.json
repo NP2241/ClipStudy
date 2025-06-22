@@ -1,0 +1,43 @@
+{
+  "youtube_url": "https://www.youtube.com/watch?v=qYNweeDHiyU",
+  "video_id": "qYNweeDHiyU",
+  "query": "ai",
+  "segments": [
+    {
+      "start": "00:00:00,080",
+      "end": "00:00:32,470",
+      "title": "AI Introduction and Overview",
+      "summary": "Introduces the main topics of artificial intelligence, machine learning, and deep learning. Discusses how these technologies relate to each other and addresses common misconceptions.",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:01:30,469",
+      "end": "00:02:00,149",
+      "title": "Early AI History",
+      "summary": "Describes the early days of AI starting from its research origins. Mentions early programming languages like LISP and Prolog, and the development of expert systems in the 1980s.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:04:52,150",
+      "end": "00:05:43,550",
+      "title": "Deep Learning Neural Networks",
+      "summary": "Explains deep learning and neural networks as a way to simulate human brain function. Discusses how these networks can be unpredictable and difficult to fully understand due to their multiple layers.",
+      "relevance_score": 4
+    },
+    {
+      "start": "00:05:58,150",
+      "end": "00:07:14,110",
+      "title": "Generative AI Explanation",
+      "summary": "Introduces generative AI and foundation models, including large language models. Explains how these technologies can generate new content and predict language patterns.",
+      "relevance_score": 5
+    },
+    {
+      "start": "00:09:10,350",
+      "end": "00:09:44,430",
+      "title": "AI Adoption Timeline",
+      "summary": "Describes how AI adoption evolved from slow beginnings to rapid acceleration with the introduction of foundation models and generative AI.",
+      "relevance_score": 3
+    }
+  ],
+  "total_segments": 5
+}

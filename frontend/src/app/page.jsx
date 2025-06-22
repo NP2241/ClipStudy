@@ -100,9 +100,7 @@ const relevanceColor = ['#000000', '#CE2C31', '#CC4E00', '#FFDC00', '#B0E64C', '
 
 
 function parseTime(str) {
-  const [hours, minutes, rest] = str.split(':');
-  const [seconds, milliseconds] = rest.split(',');
-
+  const [hours, minutes, seconds, milliseconds] = str.split(/[,:]/);
   return (
     parseInt(hours) * 3600 +
     parseInt(minutes) * 60 +
